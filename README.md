@@ -6,15 +6,13 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2510.20586"><img src="https://img.shields.io/badge/arXiv-2510.20586-b31b1b.svg" alt="arXiv"></a>
-  <a href="https://gencolorbench.github.io"><img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page"></a>
+  <a href="https://moatifbutt.github.io/gencolorbench"><img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page"></a>
   <a href="#license"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
-  <a href="https://huggingface.co/datasets/gencolorbench/gencolorbench"><img src="https://img.shields.io/badge/🤗-Dataset-yellow" alt="HuggingFace"></a>
 </p>
 
 **GenColorBench** is a comprehensive benchmark for evaluating color understanding capabilities in text-to-image (T2I) generation models. It systematically tests models across five tasks spanning explicit color naming, numerical color specifications, color-object associations, multi-object compositions, and implicit color understanding.
 
 > **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026**
-> [Paper](https://arxiv.org/abs/2510.20586) | [Project Page](https://moatifbutt.github.io/gencolorbench)
 
 ## Key Features
 
