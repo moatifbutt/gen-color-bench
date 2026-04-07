@@ -1,5 +1,5 @@
 ## GenColorBench: A Color Evaluation Benchmark for Text-to-Image Generation
-
+### Muhammad Atif Butt, Alexandra Gomez-Villa, Tao Wu, Javier Vazquez-Corral, Joost Van De Weijer, and Kai Wang
 <p align="center">
   <img src="assets/teaser.png" width="100%" alt="GenColorBench Overview">
 </p>
