@@ -1,5 +1,6 @@
 ## GenColorBench: A Color Evaluation Benchmark for Text-to-Image Generation
-### Muhammad Atif Butt, Alexandra Gomez-Villa, Tao Wu, Javier Vazquez-Corral, Joost Van De Weijer, and Kai Wang
+> **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026**
+> Muhammad Atif Butt, Alexandra Gomez-Villa, Tao Wu, Javier Vazquez-Corral, Joost Van De Weijer, and Kai Wang
 <p align="center">
   <img src="assets/teaser.png" width="100%" alt="GenColorBench Overview">
 </p>
@@ -11,8 +12,6 @@
 </p>
 
 **GenColorBench** is a comprehensive benchmark for evaluating color understanding capabilities in text-to-image (T2I) generation models. It systematically tests models across five tasks spanning explicit color naming, numerical color specifications, color-object associations, multi-object compositions, and implicit color understanding.
-
-> **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026**
 
 ## Key Features
 
