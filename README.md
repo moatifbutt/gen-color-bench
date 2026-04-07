@@ -13,7 +13,8 @@
 
 **GenColorBench** is a comprehensive benchmark for evaluating color understanding capabilities in text-to-image (T2I) generation models. It systematically tests models across five tasks spanning explicit color naming, numerical color specifications, color-object associations, multi-object compositions, and implicit color understanding.
 
-> **CVPR 2026** | [Paper](https://arxiv.org/abs/2510.20586) | [Project Page](https://gencolorbench.github.io) | [Dataset](https://huggingface.co/datasets/gencolorbench/gencolorbench)
+> **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026**
+> [Paper](https://arxiv.org/abs/2510.20586) | [Project Page](https://moatifbutt.github.io/gencolorbench)
 
 ## Key Features
 
