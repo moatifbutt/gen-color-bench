@@ -1,0 +1,521 @@
+id,color,object,prompt
+1,Pink,boxing glove,A single Pink boxing glove.
+2,Pink,clock,The clock is Pink.
+3,Pink,vehicle,A Pink colored vehicle.
+4,Pink,baseball bat,A Pink colored baseball bat.
+5,Pink,sports ball,A sports ball rendered in Pink color.
+6,Pink,umbrella,An image of a Pink umbrella.
+7,Pink,chair,A Pink chair.
+8,Pink,couch,A realistic couch in Pink.
+9,Pink,parrot,"A parrot, and it's Pink."
+10,Pink,banana,A banana in a Pink color.
+11,Pink,wardrobe,The wardrobe is Pink.
+12,Pink,bus,A single Pink bus.
+13,Pink,iron,The iron is Pink.
+14,Pink,sweatshirt,A sweatshirt in a Pink color.
+15,Pink,suitcase,An image of a Pink suitcase.
+16,Pink,sponge,A sponge with a Pink color.
+17,Pink,skateboard,A skateboard rendered in Pink color.
+18,Pink,oven,A Pink colored oven.
+19,Pink,bicycle,A bicycle rendered in Pink color.
+20,Pink,ruler,A ruler that is entirely Pink.
+21,Pink,pants,A realistic pants in Pink.
+22,Pink,sports car,The sports car is Pink.
+23,Pink,remote,A Pink remote.
+24,Pink,mango,A mango with a Pink color.
+25,Pink,papaya,A papaya that is entirely Pink.
+26,Pink,mug,An image of a Pink mug.
+27,Pink,candle,The candle is Pink.
+28,Pink,fan,A fan that is entirely Pink.
+29,Pink,football helmet,The football helmet is Pink.
+30,Pink,jeans,A single Pink jeans.
+31,Pink,crocodile,An image of a Pink crocodile.
+32,Pink,cow,"A cow, and it's Pink."
+33,Pink,guava,A guava with a Pink color.
+34,Pink,snowboard,A Pink colored snowboard.
+35,Pink,apple,A photo of a Pink apple.
+36,Pink,socks,A Pink colored socks.
+37,Pink,orange,A Pink colored orange.
+38,Pink,tie,A tie that is entirely Pink.
+39,Pink,duck,A duck with a Pink color.
+40,Pink,desk,An image of a Pink desk.
+41,Red,sponge,A sponge rendered in Red color.
+42,Red,iron,A single Red iron.
+43,Red,snowboard,A snowboard rendered in Red color.
+44,Red,apple,A single Red apple.
+45,Red,pants,A Red colored pants.
+46,Red,boxing glove,A boxing glove that is entirely Red.
+47,Red,bear,A photo of a Red bear.
+48,Red,parrot,A parrot in a Red color.
+49,Red,sports ball,"A sports ball, and it's Red."
+50,Red,football helmet,The football helmet is Red.
+51,Red,desk,A Red desk.
+52,Red,mango,The mango is Red.
+53,Red,baseball bat,A photo of a Red baseball bat.
+54,Red,umbrella,A umbrella with a Red color.
+55,Red,remote,A photo of a Red remote.
+56,Red,papaya,A papaya with a Red color.
+57,Red,fan,A single Red fan.
+58,Red,jeans,A jeans rendered in Red color.
+59,Red,vehicle,The vehicle is Red.
+60,Red,clock,A single Red clock.
+61,Red,wardrobe,A single Red wardrobe.
+62,Red,sweatshirt,A sweatshirt rendered in Red color.
+63,Red,tie,"A tie, and it's Red."
+64,Red,chair,A chair in a Red color.
+65,Red,bus,An image of a Red bus.
+66,Red,couch,A couch in a Red color.
+67,Red,microwave,A Red microwave.
+68,Red,teapot,A teapot with a Red color.
+69,Red,mug,A realistic mug in Red.
+70,Red,socks,The socks is Red.
+71,Red,taxi,A taxi with a Red color.
+72,Red,crocodile,A crocodile in a Red color.
+73,Red,oven,An image of a Red oven.
+74,Red,candle,A candle with a Red color.
+75,Red,minivan,A Red colored minivan.
+76,Red,ruler,The ruler is Red.
+77,Red,cow,An image of a Red cow.
+78,Red,orange,A single Red orange.
+79,Red,suitcase,A photo of a Red suitcase.
+80,Red,banana,"A banana, and it's Red."
+81,Orange,bicycle,A bicycle in a Orange color.
+82,Orange,skateboard,A realistic skateboard in Orange.
+83,Orange,crocodile,A realistic crocodile in Orange.
+84,Orange,cow,A cow that is entirely Orange.
+85,Orange,iron,A realistic iron in Orange.
+86,Orange,couch,An image of a Orange couch.
+87,Orange,oven,A single Orange oven.
+88,Orange,snowboard,A snowboard with a Orange color.
+89,Orange,tie,A tie with a Orange color.
+90,Orange,elephant,A Orange colored elephant.
+91,Orange,taxi,"A taxi, and it's Orange."
+92,Orange,bear,A bear in a Orange color.
+93,Orange,duck,"A duck, and it's Orange."
+94,Orange,fan,The fan is Orange.
+95,Orange,remote,A remote that is entirely Orange.
+96,Orange,sports ball,A sports ball that is entirely Orange.
+97,Orange,pants,The pants is Orange.
+98,Orange,orange,A Orange colored orange.
+99,Orange,ruler,A Orange ruler.
+100,Orange,papaya,A papaya rendered in Orange color.
+101,Orange,guava,A guava in a Orange color.
+102,Orange,sweatshirt,A sweatshirt that is entirely Orange.
+103,Orange,clock,A clock rendered in Orange color.
+104,Orange,vehicle,A vehicle that is entirely Orange.
+105,Orange,jeans,A Orange jeans.
+106,Orange,microwave,The microwave is Orange.
+107,Orange,bus,A realistic bus in Orange.
+108,Orange,football helmet,A football helmet with a Orange color.
+109,Orange,candle,A Orange candle.
+110,Orange,mug,A mug that is entirely Orange.
+111,Orange,apple,The apple is Orange.
+112,Orange,sponge,A Orange sponge.
+113,Orange,parrot,A Orange colored parrot.
+114,Orange,minivan,The minivan is Orange.
+115,Orange,chair,A chair in a Orange color.
+116,Orange,umbrella,A umbrella that is entirely Orange.
+117,Orange,baseball bat,An image of a Orange baseball bat.
+118,Orange,wardrobe,A wardrobe with a Orange color.
+119,Orange,boxing glove,"A boxing glove, and it's Orange."
+120,Orange,sports car,A sports car that is entirely Orange.
+121,Brown,parrot,A parrot in a Brown color.
+122,Brown,chair,The chair is Brown.
+123,Brown,sweatshirt,A Brown sweatshirt.
+124,Brown,iron,A iron with a Brown color.
+125,Brown,candle,A candle in a Brown color.
+126,Brown,sports ball,A Brown sports ball.
+127,Brown,snowboard,The snowboard is Brown.
+128,Brown,papaya,A papaya that is entirely Brown.
+129,Brown,tie,A photo of a Brown tie.
+130,Brown,couch,A single Brown couch.
+131,Brown,ruler,"A ruler, and it's Brown."
+132,Brown,wardrobe,"A wardrobe, and it's Brown."
+133,Brown,sports car,A sports car that is entirely Brown.
+134,Brown,fan,A single Brown fan.
+135,Brown,pants,A Brown pants.
+136,Brown,umbrella,A photo of a Brown umbrella.
+137,Brown,crocodile,A single Brown crocodile.
+138,Brown,taxi,A Brown taxi.
+139,Brown,vehicle,A single Brown vehicle.
+140,Brown,minivan,An image of a Brown minivan.
+141,Brown,remote,"A remote, and it's Brown."
+142,Brown,guava,An image of a Brown guava.
+143,Brown,orange,A single Brown orange.
+144,Brown,desk,A realistic desk in Brown.
+145,Brown,socks,A realistic socks in Brown.
+146,Brown,bear,A bear in a Brown color.
+147,Brown,teapot,A teapot with a Brown color.
+148,Brown,clock,A realistic clock in Brown.
+149,Brown,jeans,"A jeans, and it's Brown."
+150,Brown,baseball bat,A photo of a Brown baseball bat.
+151,Brown,football helmet,A football helmet that is entirely Brown.
+152,Brown,bus,An image of a Brown bus.
+153,Brown,skateboard,A skateboard that is entirely Brown.
+154,Brown,boxing glove,A Brown boxing glove.
+155,Brown,apple,A apple rendered in Brown color.
+156,Brown,microwave,A realistic microwave in Brown.
+157,Brown,oven,A oven in a Brown color.
+158,Brown,duck,A Brown duck.
+159,Brown,mango,A realistic mango in Brown.
+160,Brown,suitcase,A Brown colored suitcase.
+161,Yellow,orange,A Yellow colored orange.
+162,Yellow,fan,The fan is Yellow.
+163,Yellow,socks,A Yellow socks.
+164,Yellow,candle,"A candle, and it's Yellow."
+165,Yellow,crocodile,A crocodile rendered in Yellow color.
+166,Yellow,duck,A duck rendered in Yellow color.
+167,Yellow,bear,The bear is Yellow.
+168,Yellow,sponge,The sponge is Yellow.
+169,Yellow,snowboard,A snowboard in a Yellow color.
+170,Yellow,banana,A banana that is entirely Yellow.
+171,Yellow,cow,A cow in a Yellow color.
+172,Yellow,apple,An image of a Yellow apple.
+173,Yellow,parrot,A photo of a Yellow parrot.
+174,Yellow,sports ball,A Yellow colored sports ball.
+175,Yellow,guava,The guava is Yellow.
+176,Yellow,pants,A pants that is entirely Yellow.
+177,Yellow,teapot,A Yellow colored teapot.
+178,Yellow,microwave,An image of a Yellow microwave.
+179,Yellow,clock,A photo of a Yellow clock.
+180,Yellow,desk,"A desk, and it's Yellow."
+181,Yellow,oven,A oven in a Yellow color.
+182,Yellow,vehicle,A realistic vehicle in Yellow.
+183,Yellow,mug,An image of a Yellow mug.
+184,Yellow,bus,A bus rendered in Yellow color.
+185,Yellow,suitcase,A suitcase with a Yellow color.
+186,Yellow,papaya,A papaya in a Yellow color.
+187,Yellow,remote,A Yellow remote.
+188,Yellow,skateboard,A skateboard with a Yellow color.
+189,Yellow,football helmet,A football helmet in a Yellow color.
+190,Yellow,chair,An image of a Yellow chair.
+191,Yellow,couch,A couch with a Yellow color.
+192,Yellow,baseball bat,The baseball bat is Yellow.
+193,Yellow,jeans,A photo of a Yellow jeans.
+194,Yellow,sweatshirt,An image of a Yellow sweatshirt.
+195,Yellow,ruler,The ruler is Yellow.
+196,Yellow,boxing glove,The boxing glove is Yellow.
+197,Yellow,iron,A realistic iron in Yellow.
+198,Yellow,sports car,A sports car in a Yellow color.
+199,Yellow,umbrella,A photo of a Yellow umbrella.
+200,Yellow,minivan,An image of a Yellow minivan.
+201,Olive,microwave,An image of a Olive microwave.
+202,Olive,pants,A Olive colored pants.
+203,Olive,suitcase,A Olive suitcase.
+204,Olive,minivan,A Olive colored minivan.
+205,Olive,iron,A iron that is entirely Olive.
+206,Olive,boxing glove,A boxing glove with a Olive color.
+207,Olive,skateboard,A skateboard that is entirely Olive.
+208,Olive,crocodile,A crocodile with a Olive color.
+209,Olive,mug,The mug is Olive.
+210,Olive,football helmet,A Olive colored football helmet.
+211,Olive,orange,A orange in a Olive color.
+212,Olive,banana,A single Olive banana.
+213,Olive,wardrobe,A wardrobe rendered in Olive color.
+214,Olive,baseball bat,A realistic baseball bat in Olive.
+215,Olive,bus,A photo of a Olive bus.
+216,Olive,bicycle,A bicycle that is entirely Olive.
+217,Olive,bear,A photo of a Olive bear.
+218,Olive,mango,A photo of a Olive mango.
+219,Olive,apple,A single Olive apple.
+220,Olive,remote,A Olive remote.
+221,Olive,chair,A photo of a Olive chair.
+222,Olive,parrot,A realistic parrot in Olive.
+223,Olive,taxi,A Olive colored taxi.
+224,Olive,umbrella,A single Olive umbrella.
+225,Olive,sponge,A sponge with a Olive color.
+226,Olive,snowboard,A realistic snowboard in Olive.
+227,Olive,ruler,A ruler that is entirely Olive.
+228,Olive,candle,An image of a Olive candle.
+229,Olive,jeans,A photo of a Olive jeans.
+230,Olive,socks,A realistic socks in Olive.
+231,Olive,duck,The duck is Olive.
+232,Olive,guava,A single Olive guava.
+233,Olive,fan,A Olive fan.
+234,Olive,teapot,"A teapot, and it's Olive."
+235,Olive,elephant,A elephant that is entirely Olive.
+236,Olive,sports car,A sports car that is entirely Olive.
+237,Olive,sweatshirt,"A sweatshirt, and it's Olive."
+238,Olive,couch,A Olive colored couch.
+239,Olive,cow,An image of a Olive cow.
+240,Olive,papaya,A papaya that is entirely Olive.
+241,Yellow green,umbrella,A single Yellow green umbrella.
+242,Yellow green,vehicle,The vehicle is Yellow green.
+243,Yellow green,ruler,A ruler with a Yellow green color.
+244,Yellow green,tie,A Yellow green colored tie.
+245,Yellow green,guava,A guava rendered in Yellow green color.
+246,Yellow green,minivan,A Yellow green colored minivan.
+247,Yellow green,baseball bat,A baseball bat with a Yellow green color.
+248,Yellow green,apple,The apple is Yellow green.
+249,Yellow green,football helmet,A realistic football helmet in Yellow green.
+250,Yellow green,sports car,An image of a Yellow green sports car.
+251,Yellow green,crocodile,A crocodile in a Yellow green color.
+252,Yellow green,snowboard,An image of a Yellow green snowboard.
+253,Yellow green,boxing glove,A boxing glove with a Yellow green color.
+254,Yellow green,sponge,A single Yellow green sponge.
+255,Yellow green,clock,A Yellow green colored clock.
+256,Yellow green,teapot,A single Yellow green teapot.
+257,Yellow green,chair,A realistic chair in Yellow green.
+258,Yellow green,banana,An image of a Yellow green banana.
+259,Yellow green,microwave,A microwave in a Yellow green color.
+260,Yellow green,desk,A photo of a Yellow green desk.
+261,Yellow green,jeans,A jeans that is entirely Yellow green.
+262,Yellow green,orange,A single Yellow green orange.
+263,Yellow green,oven,A oven with a Yellow green color.
+264,Yellow green,suitcase,A single Yellow green suitcase.
+265,Yellow green,cow,A cow with a Yellow green color.
+266,Yellow green,bear,A realistic bear in Yellow green.
+267,Yellow green,sweatshirt,A photo of a Yellow green sweatshirt.
+268,Yellow green,skateboard,A skateboard rendered in Yellow green color.
+269,Yellow green,mango,A mango rendered in Yellow green color.
+270,Yellow green,iron,An image of a Yellow green iron.
+271,Yellow green,couch,A single Yellow green couch.
+272,Yellow green,pants,A pants in a Yellow green color.
+273,Yellow green,bicycle,A Yellow green bicycle.
+274,Yellow green,duck,An image of a Yellow green duck.
+275,Yellow green,sports ball,An image of a Yellow green sports ball.
+276,Yellow green,taxi,A taxi that is entirely Yellow green.
+277,Yellow green,papaya,A single Yellow green papaya.
+278,Yellow green,elephant,A elephant rendered in Yellow green color.
+279,Yellow green,socks,A socks rendered in Yellow green color.
+280,Yellow green,bus,A bus with a Yellow green color.
+281,Green,remote,A realistic remote in Green.
+282,Green,desk,A desk in a Green color.
+283,Green,teapot,"A teapot, and it's Green."
+284,Green,iron,A Green iron.
+285,Green,suitcase,A suitcase in a Green color.
+286,Green,crocodile,A crocodile that is entirely Green.
+287,Green,candle,The candle is Green.
+288,Green,bear,"A bear, and it's Green."
+289,Green,banana,A photo of a Green banana.
+290,Green,microwave,"A microwave, and it's Green."
+291,Green,boxing glove,A boxing glove with a Green color.
+292,Green,minivan,A minivan in a Green color.
+293,Green,socks,A socks in a Green color.
+294,Green,sports ball,A sports ball rendered in Green color.
+295,Green,oven,A Green colored oven.
+296,Green,clock,"A clock, and it's Green."
+297,Green,guava,A guava rendered in Green color.
+298,Green,couch,A realistic couch in Green.
+299,Green,apple,A apple in a Green color.
+300,Green,bicycle,A single Green bicycle.
+301,Green,vehicle,A vehicle in a Green color.
+302,Green,football helmet,"A football helmet, and it's Green."
+303,Green,jeans,A photo of a Green jeans.
+304,Green,mug,A realistic mug in Green.
+305,Green,bus,"A bus, and it's Green."
+306,Green,umbrella,"A umbrella, and it's Green."
+307,Green,snowboard,An image of a Green snowboard.
+308,Green,sweatshirt,A sweatshirt that is entirely Green.
+309,Green,ruler,A ruler with a Green color.
+310,Green,tie,An image of a Green tie.
+311,Green,taxi,A taxi in a Green color.
+312,Green,baseball bat,"A baseball bat, and it's Green."
+313,Green,orange,A orange with a Green color.
+314,Green,parrot,A parrot that is entirely Green.
+315,Green,pants,An image of a Green pants.
+316,Green,papaya,"A papaya, and it's Green."
+317,Green,sponge,The sponge is Green.
+318,Green,fan,A realistic fan in Green.
+319,Green,sports car,An image of a Green sports car.
+320,Green,elephant,A elephant that is entirely Green.
+321,Blue,baseball bat,An image of a Blue baseball bat.
+322,Blue,minivan,A single Blue minivan.
+323,Blue,remote,"A remote, and it's Blue."
+324,Blue,parrot,A Blue parrot.
+325,Blue,banana,A single Blue banana.
+326,Blue,chair,A Blue colored chair.
+327,Blue,elephant,A elephant with a Blue color.
+328,Blue,umbrella,A umbrella with a Blue color.
+329,Blue,mango,A single Blue mango.
+330,Blue,football helmet,A realistic football helmet in Blue.
+331,Blue,suitcase,A photo of a Blue suitcase.
+332,Blue,apple,"A apple, and it's Blue."
+333,Blue,papaya,A photo of a Blue papaya.
+334,Blue,duck,A duck rendered in Blue color.
+335,Blue,sponge,A sponge in a Blue color.
+336,Blue,fan,A Blue fan.
+337,Blue,pants,A single Blue pants.
+338,Blue,jeans,A jeans rendered in Blue color.
+339,Blue,vehicle,A vehicle rendered in Blue color.
+340,Blue,couch,A couch with a Blue color.
+341,Blue,teapot,A Blue teapot.
+342,Blue,tie,The tie is Blue.
+343,Blue,microwave,A microwave with a Blue color.
+344,Blue,sports car,A single Blue sports car.
+345,Blue,bicycle,A photo of a Blue bicycle.
+346,Blue,taxi,"A taxi, and it's Blue."
+347,Blue,socks,A photo of a Blue socks.
+348,Blue,sports ball,A Blue sports ball.
+349,Blue,mug,An image of a Blue mug.
+350,Blue,cow,A single Blue cow.
+351,Blue,sweatshirt,A Blue colored sweatshirt.
+352,Blue,oven,A oven that is entirely Blue.
+353,Blue,crocodile,"A crocodile, and it's Blue."
+354,Blue,guava,A Blue colored guava.
+355,Blue,boxing glove,A Blue colored boxing glove.
+356,Blue,skateboard,A single Blue skateboard.
+357,Blue,iron,An image of a Blue iron.
+358,Blue,orange,A single Blue orange.
+359,Blue,clock,An image of a Blue clock.
+360,Blue,wardrobe,The wardrobe is Blue.
+361,Purple,candle,A candle rendered in Purple color.
+362,Purple,vehicle,A realistic vehicle in Purple.
+363,Purple,parrot,A parrot with a Purple color.
+364,Purple,orange,A orange that is entirely Purple.
+365,Purple,sports car,The sports car is Purple.
+366,Purple,umbrella,A realistic umbrella in Purple.
+367,Purple,apple,An image of a Purple apple.
+368,Purple,bus,A bus with a Purple color.
+369,Purple,sponge,A sponge rendered in Purple color.
+370,Purple,sports ball,The sports ball is Purple.
+371,Purple,tie,A tie rendered in Purple color.
+372,Purple,socks,A Purple socks.
+373,Purple,elephant,A Purple colored elephant.
+374,Purple,sweatshirt,A sweatshirt in a Purple color.
+375,Purple,chair,A single Purple chair.
+376,Purple,crocodile,A crocodile with a Purple color.
+377,Purple,minivan,A Purple colored minivan.
+378,Purple,ruler,The ruler is Purple.
+379,Purple,microwave,A microwave in a Purple color.
+380,Purple,couch,A couch with a Purple color.
+381,Purple,boxing glove,A Purple colored boxing glove.
+382,Purple,snowboard,A Purple snowboard.
+383,Purple,mug,A single Purple mug.
+384,Purple,cow,"A cow, and it's Purple."
+385,Purple,banana,The banana is Purple.
+386,Purple,oven,A single Purple oven.
+387,Purple,remote,A Purple colored remote.
+388,Purple,teapot,A teapot with a Purple color.
+389,Purple,desk,"A desk, and it's Purple."
+390,Purple,duck,A realistic duck in Purple.
+391,Purple,wardrobe,A photo of a Purple wardrobe.
+392,Purple,skateboard,A single Purple skateboard.
+393,Purple,bicycle,A photo of a Purple bicycle.
+394,Purple,football helmet,A realistic football helmet in Purple.
+395,Purple,guava,A guava in a Purple color.
+396,Purple,bear,A bear with a Purple color.
+397,Purple,papaya,An image of a Purple papaya.
+398,Purple,mango,A mango rendered in Purple color.
+399,Purple,fan,A fan in a Purple color.
+400,Purple,suitcase,"A suitcase, and it's Purple."
+401,White,desk,A White desk.
+402,White,wardrobe,The wardrobe is White.
+403,White,socks,An image of a White socks.
+404,White,baseball bat,A baseball bat that is entirely White.
+405,White,remote,A single White remote.
+406,White,sports ball,A realistic sports ball in White.
+407,White,banana,A banana that is entirely White.
+408,White,ruler,An image of a White ruler.
+409,White,teapot,A teapot with a White color.
+410,White,boxing glove,A boxing glove rendered in White color.
+411,White,fan,A White colored fan.
+412,White,mango,"A mango, and it's White."
+413,White,minivan,A minivan in a White color.
+414,White,vehicle,A vehicle in a White color.
+415,White,mug,A White colored mug.
+416,White,sponge,A single White sponge.
+417,White,bear,A realistic bear in White.
+418,White,football helmet,A football helmet in a White color.
+419,White,sweatshirt,A White colored sweatshirt.
+420,White,couch,A White colored couch.
+421,White,cow,A realistic cow in White.
+422,White,chair,"A chair, and it's White."
+423,White,jeans,An image of a White jeans.
+424,White,parrot,An image of a White parrot.
+425,White,oven,An image of a White oven.
+426,White,sports car,A sports car that is entirely White.
+427,White,pants,The pants is White.
+428,White,bicycle,A realistic bicycle in White.
+429,White,skateboard,A skateboard that is entirely White.
+430,White,papaya,A White colored papaya.
+431,White,bus,The bus is White.
+432,White,orange,A realistic orange in White.
+433,White,guava,A guava in a White color.
+434,White,duck,A realistic duck in White.
+435,White,clock,A photo of a White clock.
+436,White,snowboard,A snowboard that is entirely White.
+437,White,umbrella,A umbrella that is entirely White.
+438,White,suitcase,A realistic suitcase in White.
+439,White,taxi,"A taxi, and it's White."
+440,White,elephant,An image of a White elephant.
+441,Gray,socks,A socks rendered in Gray color.
+442,Gray,duck,A duck with a Gray color.
+443,Gray,pants,A pants with a Gray color.
+444,Gray,microwave,A Gray microwave.
+445,Gray,couch,A photo of a Gray couch.
+446,Gray,tie,A photo of a Gray tie.
+447,Gray,ruler,A ruler rendered in Gray color.
+448,Gray,umbrella,An image of a Gray umbrella.
+449,Gray,taxi,The taxi is Gray.
+450,Gray,cow,A cow that is entirely Gray.
+451,Gray,oven,The oven is Gray.
+452,Gray,bicycle,A bicycle in a Gray color.
+453,Gray,chair,A single Gray chair.
+454,Gray,baseball bat,A baseball bat rendered in Gray color.
+455,Gray,bus,A bus rendered in Gray color.
+456,Gray,vehicle,A vehicle rendered in Gray color.
+457,Gray,crocodile,A crocodile that is entirely Gray.
+458,Gray,elephant,A elephant in a Gray color.
+459,Gray,sports car,A single Gray sports car.
+460,Gray,apple,"A apple, and it's Gray."
+461,Gray,remote,"A remote, and it's Gray."
+462,Gray,mango,An image of a Gray mango.
+463,Gray,sports ball,A sports ball rendered in Gray color.
+464,Gray,orange,A single Gray orange.
+465,Gray,parrot,An image of a Gray parrot.
+466,Gray,football helmet,A football helmet rendered in Gray color.
+467,Gray,teapot,A teapot rendered in Gray color.
+468,Gray,fan,A Gray fan.
+469,Gray,guava,A guava rendered in Gray color.
+470,Gray,iron,A realistic iron in Gray.
+471,Gray,bear,The bear is Gray.
+472,Gray,mug,A mug that is entirely Gray.
+473,Gray,minivan,A minivan with a Gray color.
+474,Gray,papaya,A papaya that is entirely Gray.
+475,Gray,clock,An image of a Gray clock.
+476,Gray,candle,A candle with a Gray color.
+477,Gray,desk,The desk is Gray.
+478,Gray,snowboard,A photo of a Gray snowboard.
+479,Gray,sweatshirt,A sweatshirt that is entirely Gray.
+480,Gray,suitcase,A photo of a Gray suitcase.
+481,Black,jeans,"A jeans, and it's Black."
+482,Black,apple,A realistic apple in Black.
+483,Black,bear,An image of a Black bear.
+484,Black,bicycle,A realistic bicycle in Black.
+485,Black,papaya,A single Black papaya.
+486,Black,teapot,An image of a Black teapot.
+487,Black,pants,A pants in a Black color.
+488,Black,candle,A candle in a Black color.
+489,Black,microwave,"A microwave, and it's Black."
+490,Black,bus,"A bus, and it's Black."
+491,Black,umbrella,The umbrella is Black.
+492,Black,socks,A socks rendered in Black color.
+493,Black,parrot,A Black parrot.
+494,Black,desk,A single Black desk.
+495,Black,sponge,A realistic sponge in Black.
+496,Black,minivan,A Black colored minivan.
+497,Black,clock,A clock rendered in Black color.
+498,Black,chair,An image of a Black chair.
+499,Black,guava,A Black guava.
+500,Black,wardrobe,The wardrobe is Black.
+501,Black,remote,A remote that is entirely Black.
+502,Black,duck,A duck with a Black color.
+503,Black,football helmet,A football helmet rendered in Black color.
+504,Black,couch,A couch rendered in Black color.
+505,Black,suitcase,A Black suitcase.
+506,Black,orange,A orange with a Black color.
+507,Black,baseball bat,An image of a Black baseball bat.
+508,Black,crocodile,A crocodile rendered in Black color.
+509,Black,mug,A Black mug.
+510,Black,boxing glove,A photo of a Black boxing glove.
+511,Black,oven,"A oven, and it's Black."
+512,Black,vehicle,A vehicle in a Black color.
+513,Black,ruler,A ruler with a Black color.
+514,Black,sweatshirt,"A sweatshirt, and it's Black."
+515,Black,sports ball,An image of a Black sports ball.
+516,Black,elephant,A photo of a Black elephant.
+517,Black,iron,A iron rendered in Black color.
+518,Black,cow,A single Black cow.
+519,Black,mango,A mango with a Black color.
+520,Black,taxi,"A taxi, and it's Black."

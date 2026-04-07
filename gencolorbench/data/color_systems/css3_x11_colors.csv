@@ -1,0 +1,149 @@
+css_name,color_name,hex,r,g,b
+AliceBlue,alice blue,#F0F8FF,240,248,255
+AntiqueWhite,antique white,#FAEBD7,250,235,215
+Aqua,aqua,#00FFFF,0,255,255
+Aquamarine,aquamarine,#7FFFD4,127,255,212
+Azure,azure,#F0FFFF,240,255,255
+Beige,beige,#F5F5DC,245,245,220
+Bisque,bisque,#FFE4C4,255,228,196
+Black,black,#000000,0,0,0
+BlanchedAlmond,blanched almond,#FFEBCD,255,235,205
+Blue,blue,#0000FF,0,0,255
+BlueViolet,blue violet,#8A2BE2,138,43,226
+Brown,brown,#A52A2A,165,42,42
+BurlyWood,burly wood,#DEB887,222,184,135
+CadetBlue,cadet blue,#5F9EA0,95,158,160
+Chartreuse,chartreuse,#7FFF00,127,255,0
+Chocolate,chocolate,#D2691E,210,105,30
+Coral,coral,#FF7F50,255,127,80
+CornflowerBlue,cornflower blue,#6495ED,100,149,237
+Cornsilk,cornsilk,#FFF8DC,255,248,220
+Crimson,crimson,#DC143C,220,20,60
+Cyan,cyan,#00FFFF,0,255,255
+DarkBlue,dark blue,#00008B,0,0,139
+DarkCyan,dark cyan,#008B8B,0,139,139
+DarkGoldenRod,dark golden rod,#B8860B,184,134,11
+DarkGray,dark gray,#A9A9A9,169,169,169
+DarkGrey,dark grey,#A9A9A9,169,169,169
+DarkGreen,dark green,#006400,0,100,0
+DarkKhaki,dark khaki,#BDB76B,189,183,107
+DarkMagenta,dark magenta,#8B008B,139,0,139
+DarkOliveGreen,dark olive green,#556B2F,85,107,47
+DarkOrange,dark orange,#FF8C00,255,140,0
+DarkOrchid,dark orchid,#9932CC,153,50,204
+DarkRed,dark red,#8B0000,139,0,0
+DarkSalmon,dark salmon,#E9967A,233,150,122
+DarkSeaGreen,dark sea green,#8FBC8F,143,188,143
+DarkSlateBlue,dark slate blue,#483D8B,72,61,139
+DarkSlateGray,dark slate gray,#2F4F4F,47,79,79
+DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79
+DarkTurquoise,dark turquoise,#00CED1,0,206,209
+DarkViolet,dark violet,#9400D3,148,0,211
+DeepPink,deep pink,#FF1493,255,20,147
+DeepSkyBlue,deep sky blue,#00BFFF,0,191,255
+DimGray,dim gray,#696969,105,105,105
+DimGrey,dim grey,#696969,105,105,105
+DodgerBlue,dodger blue,#1E90FF,30,144,255
+FireBrick,fire brick,#B22222,178,34,34
+FloralWhite,floral white,#FFFAF0,255,250,240
+ForestGreen,forest green,#228B22,34,139,34
+Fuchsia,fuchsia,#FF00FF,255,0,255
+Gainsboro,gainsboro,#DCDCDC,220,220,220
+GhostWhite,ghost white,#F8F8FF,248,248,255
+Gold,gold,#FFD700,255,215,0
+GoldenRod,golden rod,#DAA520,218,165,32
+Gray,gray,#808080,128,128,128
+Grey,grey,#808080,128,128,128
+Green,green,#008000,0,128,0
+GreenYellow,green yellow,#ADFF2F,173,255,47
+HoneyDew,honey dew,#F0FFF0,240,255,240
+HotPink,hot pink,#FF69B4,255,105,180
+IndianRed,indian red,#CD5C5C,205,92,92
+Indigo,indigo,#4B0082,75,0,130
+Ivory,ivory,#FFFFF0,255,255,240
+Khaki,khaki,#F0E68C,240,230,140
+Lavender,lavender,#E6E6FA,230,230,250
+LavenderBlush,lavender blush,#FFF0F5,255,240,245
+LawnGreen,lawn green,#7CFC00,124,252,0
+LemonChiffon,lemon chiffon,#FFFACD,255,250,205
+LightBlue,light blue,#ADD8E6,173,216,230
+LightCoral,light coral,#F08080,240,128,128
+LightCyan,light cyan,#E0FFFF,224,255,255
+LightGoldenRodYellow,light golden rod yellow,#FAFAD2,250,250,210
+LightGray,light gray,#D3D3D3,211,211,211
+LightGrey,light grey,#D3D3D3,211,211,211
+LightGreen,light green,#90EE90,144,238,144
+LightPink,light pink,#FFB6C1,255,182,193
+LightSalmon,light salmon,#FFA07A,255,160,122
+LightSeaGreen,light sea green,#20B2AA,32,178,170
+LightSkyBlue,light sky blue,#87CEFA,135,206,250
+LightSlateGray,light slate gray,#778899,119,136,153
+LightSlateGrey,light slate grey,#778899,119,136,153
+LightSteelBlue,light steel blue,#B0C4DE,176,196,222
+LightYellow,light yellow,#FFFFE0,255,255,224
+Lime,lime,#00FF00,0,255,0
+LimeGreen,lime green,#32CD32,50,205,50
+Linen,linen,#FAF0E6,250,240,230
+Magenta,magenta,#FF00FF,255,0,255
+Maroon,maroon,#800000,128,0,0
+MediumAquaMarine,medium aqua marine,#66CDAA,102,205,170
+MediumBlue,medium blue,#0000CD,0,0,205
+MediumOrchid,medium orchid,#BA55D3,186,85,211
+MediumPurple,medium purple,#9370DB,147,112,219
+MediumSeaGreen,medium sea green,#3CB371,60,179,113
+MediumSlateBlue,medium slate blue,#7B68EE,123,104,238
+MediumSpringGreen,medium spring green,#00FA9A,0,250,154
+MediumTurquoise,medium turquoise,#48D1CC,72,209,204
+MediumVioletRed,medium violet red,#C71585,199,21,133
+MidnightBlue,midnight blue,#191970,25,25,112
+MintCream,mint cream,#F5FFFA,245,255,250
+MistyRose,misty rose,#FFE4E1,255,228,225
+Moccasin,moccasin,#FFE4B5,255,228,181
+NavajoWhite,navajo white,#FFDEAD,255,222,173
+Navy,navy,#000080,0,0,128
+OldLace,old lace,#FDF5E6,253,245,230
+Olive,olive,#808000,128,128,0
+OliveDrab,olive drab,#6B8E23,107,142,35
+Orange,orange,#FFA500,255,165,0
+OrangeRed,orange red,#FF4500,255,69,0
+Orchid,orchid,#DA70D6,218,112,214
+PaleGoldenRod,pale golden rod,#EEE8AA,238,232,170
+PaleGreen,pale green,#98FB98,152,251,152
+PaleTurquoise,pale turquoise,#AFEEEE,175,238,238
+PaleVioletRed,pale violet red,#DB7093,219,112,147
+PapayaWhip,papaya whip,#FFEFD5,255,239,213
+PeachPuff,peach puff,#FFDAB9,255,218,185
+Peru,peru,#CD853F,205,133,63
+Pink,pink,#FFC0CB,255,192,203
+Plum,plum,#DDA0DD,221,160,221
+PowderBlue,powder blue,#B0E0E6,176,224,230
+Purple,purple,#800080,128,0,128
+RebeccaPurple,rebecca purple,#663399,102,51,153
+Red,red,#FF0000,255,0,0
+RosyBrown,rosy brown,#BC8F8F,188,143,143
+RoyalBlue,royal blue,#4169E1,65,105,225
+SaddleBrown,saddle brown,#8B4513,139,69,19
+Salmon,salmon,#FA8072,250,128,114
+SandyBrown,sandy brown,#F4A460,244,164,96
+SeaGreen,sea green,#2E8B57,46,139,87
+SeaShell,sea shell,#FFF5EE,255,245,238
+Sienna,sienna,#A0522D,160,82,45
+Silver,silver,#C0C0C0,192,192,192
+SkyBlue,sky blue,#87CEEB,135,206,235
+SlateBlue,slate blue,#6A5ACD,106,90,205
+SlateGray,slate gray,#708090,112,128,144
+SlateGrey,slate grey,#708090,112,128,144
+Snow,snow,#FFFAFA,255,250,250
+SpringGreen,spring green,#00FF7F,0,255,127
+SteelBlue,steel blue,#4682B4,70,130,180
+Tan,tan,#D2B48C,210,180,140
+Teal,teal,#008080,0,128,128
+Thistle,thistle,#D8BFD8,216,191,216
+Tomato,tomato,#FF6347,255,99,71
+Turquoise,turquoise,#40E0D0,64,224,208
+Violet,violet,#EE82EE,238,130,238
+Wheat,wheat,#F5DEB3,245,222,179
+White,white,#FFFFFF,255,255,255
+WhiteSmoke,white smoke,#F5F5F5,245,245,245
+Yellow,yellow,#FFFF00,255,255,0
+YellowGreen,yellow green,#9ACD32,154,205,50

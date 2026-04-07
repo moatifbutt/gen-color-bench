@@ -1,0 +1,226 @@
+id,color,object,ref_object,prompt
+1,crimson,parrot,elephant,A crimson parrot perches near an elephant of the same color.
+2,crimson,banana,apple,A crimson banana rests next to an apple of identical color.
+3,crimson,suitcase,handbag,A crimson suitcase rests next to a handbag of matching color.
+4,crimson,microwave,oven,A crimson microwave sits next to an oven of matching color.
+5,crimson,mango,papaya,A crimson mango is placed next to a papaya of the same color.
+6,bisque,skateboard,skis,A bisque skateboard lies near skis of matching color.
+7,bisque,mug,teapot,A bisque mug sits beside a teapot of the same color.
+8,bisque,minivan,bicycle,A bisque minivan is parked near a bicycle of the same color.
+9,bisque,snowboard,skis,A bisque snowboard leans against skis of identical color.
+10,bisque,carrot,orange,A bisque carrot lies close to an orange of identical color.
+11,light yellow,motorcycle,truck,A light yellow motorcycle is parked beside a truck of the same color.
+12,light yellow,knife,cutting board,A light yellow knife rests on a cutting board of matching color.
+13,light yellow,chair,bookcase,A light yellow chair is positioned near a bookcase of the same color.
+14,light yellow,cat,horse,A light yellow cat sits near a horse of the same color.
+15,light yellow,jeans,T-shirt,A light yellow jeans are folded next to a T-shirt of the same color.
+16,wheat,banana,apple,A wheat banana rests next to an apple of identical color.
+17,wheat,crocodile,turtle,A wheat crocodile rests near a turtle of matching color.
+18,wheat,balloon,teddybear,A wheat balloon floats near a teddybear of the same color.
+19,wheat,baseball glove,baseball bat,A wheat baseball glove lies beside a baseball bat of identical color.
+20,wheat,fan,sponge,A wheat fan sits beside a sponge of matching color.
+21,sienna,orange,carrot,A sienna orange lies near a carrot of the same color.
+22,sienna,bicycle,motorcycle,A sienna bicycle is parked beside a motorcycle of identical color.
+23,sienna,bear,sheep,A sienna bear stands near a sheep of the same color.
+24,sienna,snowboard,skis,A sienna snowboard leans against skis of identical color.
+25,sienna,banana,strawberry,A sienna banana is placed next to a strawberry of the same color.
+26,burly wood,orange,carrot,A burly wood orange lies near a carrot of the same color.
+27,burly wood,suitcase,umbrella,A burly wood suitcase stands next to an umbrella of matching color.
+28,burly wood,chair,bookcase,A burly wood chair is positioned near a bookcase of the same color.
+29,burly wood,umbrella,backpack,A burly wood umbrella leans against a backpack of matching color.
+30,burly wood,mug,teapot,A burly wood mug sits beside a teapot of the same color.
+31,papaya whip,knife,cutting board,A papaya whip knife rests on a cutting board of matching color.
+32,papaya whip,hammer,wrench,A papaya whip hammer lies beside a wrench of the same color.
+33,papaya whip,dog,horse,A papaya whip dog stands beside a horse with the same color coat.
+34,papaya whip,surfboard,kite,A papaya whip surfboard lies near a kite of the same color.
+35,papaya whip,knife,sponge,A papaya whip knife rests near a sponge of identical color.
+36,brown,football helmet,snowboard,A brown football helmet lies near a snowboard of the same color.
+37,brown,book,clock,A brown book is placed beside a clock of the same color.
+38,brown,turtle,duck,A brown turtle sits beside a duck of the same color.
+39,brown,elephant,cow,A brown elephant stands near a cow of matching color.
+40,brown,duck,horse,A brown duck swims near a horse of identical color.
+41,navajo white,table,candle,A navajo white table holds a candle of the same color.
+42,navajo white,handbag,coat,A navajo white handbag rests beside a coat of the same color.
+43,navajo white,handbag,suitcase,A navajo white handbag is placed on a suitcase of identical color.
+44,navajo white,clock,vase,A navajo white clock hangs near a vase of the same color.
+45,navajo white,couch,bookcase,A navajo white couch faces a bookcase of identical color.
+46,rosy brown,book,clock,A rosy brown book is placed beside a clock of the same color.
+47,rosy brown,tie,backpack,A rosy brown tie rests on a backpack of matching color.
+48,rosy brown,sports ball,boxing glove,A rosy brown sports ball lies near a boxing glove of matching color.
+49,rosy brown,table,candle,A rosy brown table holds a candle of the same color.
+50,rosy brown,cat,horse,A rosy brown cat sits near a horse of the same color.
+51,orange,suitcase,backpack,A orange suitcase is placed next to a backpack of identical color.
+52,orange,hammer,wrench,A orange hammer lies beside a wrench of the same color.
+53,orange,orange,carrot,A orange orange lies near a carrot of the same color.
+54,orange,crocodile,bear,A orange crocodile rests near a bear of identical color.
+55,orange,couch,pillow,A orange couch has a pillow of the same color.
+56,dark golden rod,remote,microwave,A dark golden rod remote rests on a microwave of identical color.
+57,dark golden rod,football helmet,golf ball,A dark golden rod football helmet lies beside a golf ball of matching color.
+58,dark golden rod,tie,suit,A dark golden rod tie is draped over a suit of matching color.
+59,dark golden rod,sports ball,golf ball,A dark golden rod sports ball lies near a golf ball of the same color.
+60,dark golden rod,apple,guava,A dark golden rod apple is placed next to a guava of identical color.
+61,orange red,microwave,toaster,A orange red microwave sits beside a toaster of the same color.
+62,orange red,airplane,boat,A orange red airplane is parked near a boat of the same color.
+63,orange red,microwave,oven,A orange red microwave sits next to an oven of matching color.
+64,orange red,remote,microwave,A orange red remote rests on a microwave of identical color.
+65,orange red,owl,dog,A orange red owl perches near a dog of matching color.
+66,khaki,hammer,wrench,A khaki hammer lies beside a wrench of the same color.
+67,khaki,chair,vase,A khaki chair stands beside a vase of the same color.
+68,khaki,baseball glove,baseball bat,A khaki baseball glove lies beside a baseball bat of identical color.
+69,khaki,apple,lemon,A khaki apple rests beside a lemon of the same color.
+70,khaki,frisbee,kite,A khaki frisbee lies near a kite of identical color.
+71,chartreuse,tie,backpack,A chartreuse tie rests on a backpack of matching color.
+72,chartreuse,carrot,orange,A chartreuse carrot lies close to an orange of identical color.
+73,chartreuse,dog,cow,A chartreuse dog sits near a cow of identical color.
+74,chartreuse,tissue box,book,A chartreuse tissue box sits next to a book of matching color.
+75,chartreuse,apple,guava,A chartreuse apple is placed next to a guava of identical color.
+76,yellow green,handbag,umbrella,A yellow green handbag hangs near an umbrella of the same color.
+77,yellow green,umbrella,suitcase,A yellow green umbrella leans against a suitcase of matching color.
+78,yellow green,dog,cow,A yellow green dog sits near a cow of identical color.
+79,yellow green,suit,wallet,A yellow green suit hangs near a wallet of the same color.
+80,yellow green,thermos,mug,A yellow green thermos stands beside a mug of the same color.
+81,dark sea green,turtle,duck,A dark sea green turtle sits beside a duck of the same color.
+82,dark sea green,computer mouse,cutting board,A dark sea green computer mouse rests on a cutting board of the same color.
+83,dark sea green,football helmet,snowboard,A dark sea green football helmet lies near a snowboard of the same color.
+84,dark sea green,skateboard,skis,A dark sea green skateboard lies near skis of matching color.
+85,dark sea green,baseball bat,kite,A dark sea green baseball bat lies near a kite of the same color.
+86,pale green,football helmet,snowboard,A pale green football helmet lies near a snowboard of the same color.
+87,pale green,potted plant,vase,A pale green potted plant sits beside a vase of the same color.
+88,pale green,tissue box,book,A pale green tissue box sits next to a book of matching color.
+89,pale green,handbag,suitcase,A pale green handbag is placed on a suitcase of identical color.
+90,pale green,baseball glove,baseball bat,A pale green baseball glove lies beside a baseball bat of identical color.
+91,dark slate grey,skateboard,skis,A dark slate grey skateboard lies near skis of matching color.
+92,dark slate grey,coat,umbrella,A dark slate grey coat hangs beside an umbrella of matching color.
+93,dark slate grey,knife,cutting board,A dark slate grey knife rests on a cutting board of matching color.
+94,dark slate grey,refrigerator,oven,A dark slate grey refrigerator stands next to an oven of identical color.
+95,dark slate grey,parrot,elephant,A dark slate grey parrot perches near an elephant of the same color.
+96,medium sea green,suitcase,umbrella,A medium sea green suitcase stands next to an umbrella of matching color.
+97,medium sea green,bear,sheep,A medium sea green bear stands near a sheep of the same color.
+98,medium sea green,snowboard,skis,A medium sea green snowboard leans against skis of identical color.
+99,medium sea green,handbag,umbrella,A medium sea green handbag hangs near an umbrella of the same color.
+100,medium sea green,towel,socks,A medium sea green towel is folded next to socks of matching color.
+101,pale turquoise,hammer,wrench,A pale turquoise hammer lies beside a wrench of the same color.
+102,pale turquoise,parrot,cat,A pale turquoise parrot perches beside a cat of the same color.
+103,pale turquoise,bicycle,boat,A pale turquoise bicycle is parked near a boat of identical color.
+104,pale turquoise,dog,cat,A pale turquoise dog sits near a cat with matching color fur.
+105,pale turquoise,hair dryer,remote,A pale turquoise hair dryer lies next to a remote of identical color.
+106,aqua,apple,guava,A aqua apple is placed next to a guava of identical color.
+107,aqua,banana,strawberry,A aqua banana is placed next to a strawberry of the same color.
+108,aqua,parrot,elephant,A aqua parrot perches near an elephant of the same color.
+109,aqua,handbag,coat,A aqua handbag rests beside a coat of the same color.
+110,aqua,wardrobe,curtain,A aqua wardrobe stands near a curtain of the same color.
+111,medium spring green,bear,sheep,A medium spring green bear stands near a sheep of the same color.
+112,medium spring green,crocodile,bear,A medium spring green crocodile rests near a bear of identical color.
+113,medium spring green,backpack,suitcase,A medium spring green backpack is placed next to a suitcase of the same color.
+114,medium spring green,football helmet,snowboard,A medium spring green football helmet lies near a snowboard of the same color.
+115,medium spring green,pants,towel,A medium spring green pants are folded beside a towel of identical color.
+116,dark slate gray,chair,table,A dark slate gray chair is placed next to a table of the same color.
+117,dark slate gray,jeans,T-shirt,A dark slate gray jeans are folded next to a T-shirt of the same color.
+118,dark slate gray,car,truck,A dark slate gray car is parked next to a truck of matching color.
+119,dark slate gray,baseball bat,sports ball,A dark slate gray baseball bat lies next to a sports ball of identical color.
+120,dark slate gray,crocodile,turtle,A dark slate gray crocodile rests near a turtle of matching color.
+121,powder blue,suitcase,umbrella,A powder blue suitcase stands next to an umbrella of matching color.
+122,powder blue,broccoli,carrot,A powder blue broccoli rests next to a carrot of the same color.
+123,powder blue,remote,microwave,A powder blue remote rests on a microwave of identical color.
+124,powder blue,backpack,suitcase,A powder blue backpack is placed next to a suitcase of the same color.
+125,powder blue,motorcycle,bus,A powder blue motorcycle is parked near a bus of matching color.
+126,sky blue,papaya,lemon,A sky blue papaya lies beside a lemon of the same color.
+127,sky blue,airplane,bus,A sky blue airplane is parked near a bus painted in identical color.
+128,sky blue,parrot,elephant,A sky blue parrot perches near an elephant of the same color.
+129,sky blue,handbag,suitcase,A sky blue handbag is placed on a suitcase of identical color.
+130,sky blue,clock,mug,A sky blue clock hangs above a mug of matching color.
+131,medium blue,chair,wardrobe,A medium blue chair stands beside a wardrobe of the same color.
+132,medium blue,frisbee,kite,A medium blue frisbee lies near a kite of identical color.
+133,medium blue,table,candle,A medium blue table holds a candle of the same color.
+134,medium blue,car,bus,A medium blue car is parked beside a bus of identical color.
+135,medium blue,guava,strawberry,A medium blue guava rests next to a strawberry of identical color.
+136,light slate gray,couch,bookcase,A light slate gray couch faces a bookcase of identical color.
+137,light slate gray,sweatshirt,hat,A light slate gray sweatshirt is folded beside a hat of the same color.
+138,light slate gray,jeep,bus,A light slate gray jeep is parked beside a bus of the same color.
+139,light slate gray,dog,bear,A light slate gray dog sits beside a bear of matching color.
+140,light slate gray,football helmet,snowboard,A light slate gray football helmet lies near a snowboard of the same color.
+141,medium slate blue,snowboard,skis,A medium slate blue snowboard leans against skis of identical color.
+142,medium slate blue,umbrella,suitcase,A medium slate blue umbrella leans against a suitcase of matching color.
+143,medium slate blue,toaster,refrigerator,A medium slate blue toaster sits beside a refrigerator of the same color.
+144,medium slate blue,tie,hat,A medium slate blue tie lies beside a hat of the same color.
+145,medium slate blue,tissue box,book,A medium slate blue tissue box sits next to a book of matching color.
+146,magenta,broccoli,carrot,A magenta broccoli rests next to a carrot of the same color.
+147,magenta,teapot,candle,A magenta teapot sits beside a candle of identical color.
+148,magenta,cow,sheep,A magenta cow grazes near a sheep of the same color.
+149,magenta,frisbee,surfboard,A magenta frisbee rests beside a surfboard of the same color.
+150,magenta,baseball bat,kite,A magenta baseball bat lies near a kite of the same color.
+151,blue violet,mango,papaya,A blue violet mango is placed next to a papaya of the same color.
+152,blue violet,handbag,umbrella,A blue violet handbag hangs near an umbrella of the same color.
+153,blue violet,umbrella,backpack,A blue violet umbrella leans against a backpack of matching color.
+154,blue violet,tie,handbag,A blue violet tie lies beside a handbag of the same color.
+155,blue violet,tie,backpack,A blue violet tie rests on a backpack of matching color.
+156,orchid,baseball glove,baseball bat,A orchid baseball glove lies beside a baseball bat of identical color.
+157,orchid,bicycle,motorcycle,A orchid bicycle is parked beside a motorcycle of identical color.
+158,orchid,microwave,toaster,A orchid microwave sits beside a toaster of the same color.
+159,orchid,sports ball,baseball glove,A orchid sports ball sits next to a baseball glove of matching color.
+160,orchid,tie,backpack,A orchid tie rests on a backpack of matching color.
+161,purple,couch,bookcase,A purple couch faces a bookcase of identical color.
+162,purple,carrot,orange,A purple carrot lies close to an orange of identical color.
+163,purple,T-shirt,socks,A purple T-shirt is folded beside socks of identical color.
+164,purple,microwave,toaster,A purple microwave sits beside a toaster of the same color.
+165,purple,surfboard,skateboard,A purple surfboard leans against a skateboard of identical color.
+166,dark orchid,orange,carrot,A dark orchid orange lies near a carrot of the same color.
+167,dark orchid,guava,strawberry,A dark orchid guava rests next to a strawberry of identical color.
+168,dark orchid,umbrella,suitcase,A dark orchid umbrella leans against a suitcase of matching color.
+169,dark orchid,apple,orange,A dark orchid apple lies beside an orange of identical color.
+170,dark orchid,jeep,bus,A dark orchid jeep is parked beside a bus of the same color.
+171,sea shell,microwave,oven,A sea shell microwave sits next to an oven of matching color.
+172,sea shell,jeep,bus,A sea shell jeep is parked beside a bus of the same color.
+173,sea shell,lipstick,handbag,A sea shell lipstick rests inside a handbag of identical color.
+174,sea shell,car,boat,A sea shell car is parked near a boat of identical color.
+175,sea shell,dog,horse,A sea shell dog stands beside a horse with the same color coat.
+176,honey dew,dog,horse,A honey dew dog stands beside a horse with the same color coat.
+177,honey dew,desk,bookcase,A honey dew desk stands next to a bookcase of matching color.
+178,honey dew,tie,suit,A honey dew tie is draped over a suit of matching color.
+179,honey dew,snowboard,skis,A honey dew snowboard leans against skis of identical color.
+180,honey dew,iron,hair dryer,A honey dew iron lies next to a hair dryer of the same color.
+181,ghost white,parrot,cat,A ghost white parrot perches beside a cat of the same color.
+182,ghost white,hat,backpack,A ghost white hat rests on a backpack of the same color.
+183,ghost white,suitcase,backpack,A ghost white suitcase is placed next to a backpack of identical color.
+184,ghost white,sports ball,baseball glove,A ghost white sports ball sits next to a baseball glove of matching color.
+185,ghost white,trash can,sink,A ghost white trash can stands beside a sink of the same color.
+186,floral white,umbrella,backpack,A floral white umbrella leans against a backpack of matching color.
+187,floral white,car,truck,A floral white car is parked next to a truck of matching color.
+188,floral white,baseball bat,kite,A floral white baseball bat lies near a kite of the same color.
+189,floral white,clock,vase,A floral white clock hangs near a vase of the same color.
+190,floral white,car,boat,A floral white car is parked near a boat of identical color.
+191,dark gray,fan,sponge,A dark gray fan sits beside a sponge of matching color.
+192,dark gray,skateboard,skis,A dark gray skateboard lies near skis of matching color.
+193,dark gray,snowboard,skis,A dark gray snowboard leans against skis of identical color.
+194,dark gray,jacket,hat,A dark gray jacket hangs beside a hat of matching color.
+195,dark gray,orange,carrot,A dark gray orange lies near a carrot of the same color.
+196,dim gray,owl,dog,A dim gray owl perches near a dog of matching color.
+197,dim gray,baseball bat,kite,A dim gray baseball bat lies near a kite of the same color.
+198,dim gray,football helmet,boxing glove,A dim gray football helmet lies next to a boxing glove of matching color.
+199,dim gray,sink,towel,A dim gray sink has a towel of the same color nearby.
+200,dim gray,suitcase,backpack,A dim gray suitcase is placed next to a backpack of identical color.
+201,thistle,refrigerator,oven,A thistle refrigerator stands next to an oven of identical color.
+202,thistle,chair,desk,A thistle chair is positioned next to a desk of the same color.
+203,thistle,knife,cutting board,A thistle knife rests on a cutting board of matching color.
+204,thistle,surfboard,skateboard,A thistle surfboard leans against a skateboard of identical color.
+205,thistle,dog,bear,A thistle dog sits beside a bear of matching color.
+206,black,lipstick,handbag,A black lipstick rests inside a handbag of identical color.
+207,black,guava,strawberry,A black guava rests next to a strawberry of identical color.
+208,black,sports car,airplane,A black sports car is parked beside an airplane of the same color.
+209,black,umbrella,suitcase,A black umbrella leans against a suitcase of matching color.
+210,black,tissue box,book,A black tissue box sits next to a book of matching color.
+211,cornsilk,sports ball,baseball glove,A cornsilk sports ball sits next to a baseball glove of matching color.
+212,cornsilk,dog,bear,A cornsilk dog sits beside a bear of matching color.
+213,cornsilk,hammer,wrench,A cornsilk hammer lies beside a wrench of the same color.
+214,cornsilk,backpack,suitcase,A cornsilk backpack is placed next to a suitcase of the same color.
+215,cornsilk,wallet,tie,A cornsilk wallet rests beside a tie of the same color.
+216,light blue,football helmet,snowboard,A light blue football helmet lies near a snowboard of the same color.
+217,light blue,crocodile,bear,A light blue crocodile rests near a bear of identical color.
+218,light blue,horse,sheep,A light blue horse stands with a sheep of the same color.
+219,light blue,snowboard,skis,A light blue snowboard leans against skis of identical color.
+220,light blue,guava,strawberry,A light blue guava rests next to a strawberry of identical color.
+221,cyan,suitcase,umbrella,A cyan suitcase stands next to an umbrella of matching color.
+222,cyan,car,boat,A cyan car is parked near a boat of identical color.
+223,cyan,handbag,coat,A cyan handbag rests beside a coat of the same color.
+224,cyan,chair,bookcase,A cyan chair is positioned near a bookcase of the same color.
+225,cyan,frisbee,kite,A cyan frisbee lies near a kite of identical color.

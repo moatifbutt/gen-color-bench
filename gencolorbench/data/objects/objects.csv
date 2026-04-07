@@ -1,0 +1,101 @@
+Dataset_Category,Class_Name
+COCO_Vehicle,vehicle
+COCO_Vehicle,bicycle
+COCO_Vehicle,car
+COCO_Vehicle,motorcycle
+COCO_Vehicle,airplane
+COCO_Vehicle,bus
+COCO_Vehicle,truck
+COCO_Vehicle,boat
+COCO_Fruit_Veg,banana
+COCO_Fruit_Veg,apple
+COCO_Fruit_Veg,orange
+COCO_Fruit_Veg,broccoli
+COCO_Fruit_Veg,carrot
+COCO_furniture_Household,chair
+COCO_furniture_Household,couch
+COCO_furniture_Household,potted plant
+COCO_furniture_Household,sink
+COCO_furniture_Household,book
+COCO_furniture_Household,clock
+COCO_furniture_Household,vase
+COCO_animals,cat
+COCO_animals,dog
+COCO_animals,horse
+COCO_animals,sheep
+COCO_animals,cow
+COCO_animals,elephant
+COCO_animals,bear
+COCO_cloths_Accessories,tie
+COCO_cloths_Accessories,handbag
+COCO_cloths_Accessories,backpack
+COCO_cloths_Accessories,suitcase
+COCO_cloths_Accessories,umbrella
+COCO_sports_toys,sports ball
+COCO_sports_toys,baseball bat
+COCO_sports_toys,kite
+COCO_sports_toys,frisbee
+COCO_sports_toys,surfboard
+COCO_sports_toys,skis
+COCO_sports_toys,baseball glove
+COCO_sports_toys,skateboard
+COCO_Tools_Misc,remote
+COCO_Tools_Misc,microwave
+COCO_Tools_Misc,toaster
+COCO_Tools_Misc,refrigerator
+COCO_Tools_Misc,oven
+COCO_Tools_Misc,knife
+ImageNet_Vehicle,jeep
+ImageNet_Vehicle,minivan
+ImageNet_Vehicle,sports car
+ImageNet_Vehicle,taxi
+ImageNet_Fruit_Veg,lemon
+ImageNet_Fruit_Veg,mango
+ImageNet_Fruit_Veg,papaya
+ImageNet_Fruit_Veg,guava
+ImageNet_Fruit_Veg,strawberry
+ImageNet_furniture_Household,teapot
+ImageNet_furniture_Household,table
+ImageNet_furniture_Household,desk
+ImageNet_furniture_Household,bookcase
+ImageNet_furniture_Household,wardrobe
+ImageNet_furniture_Household,mug
+ImageNet_furniture_Household,candle
+ImageNet_animals,parrot
+ImageNet_animals,duck
+ImageNet_animals,crocodile
+ImageNet_animals,turtle
+ImageNet_animals,owl
+ImageNet_cloths_Accesorries,T-shirt
+ImageNet_cloths_Accesorries,sweatshirt
+ImageNet_cloths_Accesorries,suit
+ImageNet_cloths_Accesorries,jacket
+ImageNet_cloths_Accesorries,coat
+ImageNet_cloths_Accesorries,jeans
+ImageNet_cloths_Accesorries,pants
+ImageNet_cloths_Accesorries,hat
+ImageNet_sports_toys,football helmet
+ImageNet_sports_toys,golf ball
+ImageNet_sports_toys,boxing glove
+ImageNet_sports_toys,teddybear
+ImageNet_sports_toys,snowboard
+ImageNet_sports_toys,balloon
+ImageNet_Tools_Misc,sponge
+ImageNet_Tools_Misc,cutting board
+ImageNet_Tools_Misc,computer mouse
+ImageNet_Tools_Misc,hair dryer
+ImageNet_Tools_Misc,iron
+ImageNet_Tools_Misc,fan
+ImageNet_Tools_Misc,hammer
+ImageNet_Tools_Misc,wrench
+ImageNet_Tools_Misc,saw
+ImageNet_Tools_Misc,ruler
+ImageNet_furniture_Household,lipstick
+ImageNet_cloths_Accesorries,towel
+ImageNet_cloths_Accesorries,socks
+ImageNet_cloths_Accesorries,wallet
+ImageNet_furniture_Household,trash can
+ImageNet_furniture_Household,curtain
+ImageNet_furniture_Household,pillow
+ImageNet_furniture_Household,thermos
+ImageNet_furniture_Household,tissue box

@@ -1,0 +1,226 @@
+id,color,object,ref_object,prompt
+1,Light pink,parrot,elephant,A Light pink parrot perches near an elephant of the same color.
+2,Light pink,banana,apple,A Light pink banana rests next to an apple of identical color.
+3,Light pink,suitcase,handbag,A Light pink suitcase rests next to a handbag of matching color.
+4,Light pink,microwave,oven,A Light pink microwave sits next to an oven of matching color.
+5,Light pink,mango,papaya,A Light pink mango is placed next to a papaya of the same color.
+6,Vivid red,skateboard,skis,A Vivid red skateboard lies near skis of matching color.
+7,Vivid red,mug,teapot,A Vivid red mug sits beside a teapot of the same color.
+8,Vivid red,minivan,bicycle,A Vivid red minivan is parked near a bicycle of the same color.
+9,Vivid red,snowboard,skis,A Vivid red snowboard leans against skis of identical color.
+10,Vivid red,carrot,orange,A Vivid red carrot lies close to an orange of identical color.
+11,Light grayish red,motorcycle,truck,A Light grayish red motorcycle is parked beside a truck of the same color.
+12,Light grayish red,knife,cutting board,A Light grayish red knife rests on a cutting board of matching color.
+13,Light grayish red,chair,bookcase,A Light grayish red chair is positioned near a bookcase of the same color.
+14,Light grayish red,cat,horse,A Light grayish red cat sits near a horse of the same color.
+15,Light grayish red,jeans,T-shirt,A Light grayish red jeans are folded next to a T-shirt of the same color.
+16,Grayish red,banana,apple,A Grayish red banana rests next to an apple of identical color.
+17,Grayish red,crocodile,turtle,A Grayish red crocodile rests near a turtle of matching color.
+18,Grayish red,balloon,teddybear,A Grayish red balloon floats near a teddybear of the same color.
+19,Grayish red,baseball glove,baseball bat,A Grayish red baseball glove lies beside a baseball bat of identical color.
+20,Grayish red,fan,sponge,A Grayish red fan sits beside a sponge of matching color.
+21,Vivid yellowish pink,orange,carrot,A Vivid yellowish pink orange lies near a carrot of the same color.
+22,Vivid yellowish pink,bicycle,motorcycle,A Vivid yellowish pink bicycle is parked beside a motorcycle of identical color.
+23,Vivid yellowish pink,bear,sheep,A Vivid yellowish pink bear stands near a sheep of the same color.
+24,Vivid yellowish pink,snowboard,skis,A Vivid yellowish pink snowboard leans against skis of identical color.
+25,Vivid yellowish pink,banana,strawberry,A Vivid yellowish pink banana is placed next to a strawberry of the same color.
+26,Grayish yellowish pink,orange,carrot,A Grayish yellowish pink orange lies near a carrot of the same color.
+27,Grayish yellowish pink,suitcase,umbrella,A Grayish yellowish pink suitcase stands next to an umbrella of matching color.
+28,Grayish yellowish pink,chair,bookcase,A Grayish yellowish pink chair is positioned near a bookcase of the same color.
+29,Grayish yellowish pink,umbrella,backpack,A Grayish yellowish pink umbrella leans against a backpack of matching color.
+30,Grayish yellowish pink,mug,teapot,A Grayish yellowish pink mug sits beside a teapot of the same color.
+31,Vivid reddish orange,knife,cutting board,A Vivid reddish orange knife rests on a cutting board of matching color.
+32,Vivid reddish orange,hammer,wrench,A Vivid reddish orange hammer lies beside a wrench of the same color.
+33,Vivid reddish orange,dog,horse,A Vivid reddish orange dog stands beside a horse with the same color coat.
+34,Vivid reddish orange,surfboard,kite,A Vivid reddish orange surfboard lies near a kite of the same color.
+35,Vivid reddish orange,knife,sponge,A Vivid reddish orange knife rests near a sponge of identical color.
+36,Grayish reddish orange,football helmet,snowboard,A Grayish reddish orange football helmet lies near a snowboard of the same color.
+37,Grayish reddish orange,book,clock,A Grayish reddish orange book is placed beside a clock of the same color.
+38,Grayish reddish orange,turtle,duck,A Grayish reddish orange turtle sits beside a duck of the same color.
+39,Grayish reddish orange,elephant,cow,A Grayish reddish orange elephant stands near a cow of matching color.
+40,Grayish reddish orange,duck,horse,A Grayish reddish orange duck swims near a horse of identical color.
+41,Deep reddish brown,table,candle,A Deep reddish brown table holds a candle of the same color.
+42,Deep reddish brown,handbag,coat,A Deep reddish brown handbag rests beside a coat of the same color.
+43,Deep reddish brown,handbag,suitcase,A Deep reddish brown handbag is placed on a suitcase of identical color.
+44,Deep reddish brown,clock,vase,A Deep reddish brown clock hangs near a vase of the same color.
+45,Deep reddish brown,couch,bookcase,A Deep reddish brown couch faces a bookcase of identical color.
+46,Light grayish reddish brown,book,clock,A Light grayish reddish brown book is placed beside a clock of the same color.
+47,Light grayish reddish brown,tie,backpack,A Light grayish reddish brown tie rests on a backpack of matching color.
+48,Light grayish reddish brown,sports ball,boxing glove,A Light grayish reddish brown sports ball lies near a boxing glove of matching color.
+49,Light grayish reddish brown,table,candle,A Light grayish reddish brown table holds a candle of the same color.
+50,Light grayish reddish brown,cat,horse,A Light grayish reddish brown cat sits near a horse of the same color.
+51,Deep orange,suitcase,backpack,A Deep orange suitcase is placed next to a backpack of identical color.
+52,Deep orange,hammer,wrench,A Deep orange hammer lies beside a wrench of the same color.
+53,Deep orange,orange,carrot,A Deep orange orange lies near a carrot of the same color.
+54,Deep orange,crocodile,bear,A Deep orange crocodile rests near a bear of identical color.
+55,Deep orange,couch,pillow,A Deep orange couch has a pillow of the same color.
+56,Light orange,remote,microwave,A Light orange remote rests on a microwave of identical color.
+57,Light orange,football helmet,golf ball,A Light orange football helmet lies beside a golf ball of matching color.
+58,Light orange,tie,suit,A Light orange tie is draped over a suit of matching color.
+59,Light orange,sports ball,golf ball,A Light orange sports ball lies near a golf ball of the same color.
+60,Light orange,apple,guava,A Light orange apple is placed next to a guava of identical color.
+61,Strong brown,microwave,toaster,A Strong brown microwave sits beside a toaster of the same color.
+62,Strong brown,airplane,boat,A Strong brown airplane is parked near a boat of the same color.
+63,Strong brown,microwave,oven,A Strong brown microwave sits next to an oven of matching color.
+64,Strong brown,remote,microwave,A Strong brown remote rests on a microwave of identical color.
+65,Strong brown,owl,dog,A Strong brown owl perches near a dog of matching color.
+66,Deep orange yellow,hammer,wrench,A Deep orange yellow hammer lies beside a wrench of the same color.
+67,Deep orange yellow,chair,vase,A Deep orange yellow chair stands beside a vase of the same color.
+68,Deep orange yellow,baseball glove,baseball bat,A Deep orange yellow baseball glove lies beside a baseball bat of identical color.
+69,Deep orange yellow,apple,lemon,A Deep orange yellow apple rests beside a lemon of the same color.
+70,Deep orange yellow,frisbee,kite,A Deep orange yellow frisbee lies near a kite of identical color.
+71,Grayish yellowish brown,tie,backpack,A Grayish yellowish brown tie rests on a backpack of matching color.
+72,Grayish yellowish brown,carrot,orange,A Grayish yellowish brown carrot lies close to an orange of identical color.
+73,Grayish yellowish brown,dog,cow,A Grayish yellowish brown dog sits near a cow of identical color.
+74,Grayish yellowish brown,tissue box,book,A Grayish yellowish brown tissue box sits next to a book of matching color.
+75,Grayish yellowish brown,apple,guava,A Grayish yellowish brown apple is placed next to a guava of identical color.
+76,Vivid greenish yellow,handbag,umbrella,A Vivid greenish yellow handbag hangs near an umbrella of the same color.
+77,Vivid greenish yellow,umbrella,suitcase,A Vivid greenish yellow umbrella leans against a suitcase of matching color.
+78,Vivid greenish yellow,dog,cow,A Vivid greenish yellow dog sits near a cow of identical color.
+79,Vivid greenish yellow,suit,wallet,A Vivid greenish yellow suit hangs near a wallet of the same color.
+80,Vivid greenish yellow,thermos,mug,A Vivid greenish yellow thermos stands beside a mug of the same color.
+81,Light greenish yellow,turtle,duck,A Light greenish yellow turtle sits beside a duck of the same color.
+82,Light greenish yellow,computer mouse,cutting board,A Light greenish yellow computer mouse rests on a cutting board of the same color.
+83,Light greenish yellow,football helmet,snowboard,A Light greenish yellow football helmet lies near a snowboard of the same color.
+84,Light greenish yellow,skateboard,skis,A Light greenish yellow skateboard lies near skis of matching color.
+85,Light greenish yellow,baseball bat,kite,A Light greenish yellow baseball bat lies near a kite of the same color.
+86,Grayish greenish yellow,football helmet,snowboard,A Grayish greenish yellow football helmet lies near a snowboard of the same color.
+87,Grayish greenish yellow,potted plant,vase,A Grayish greenish yellow potted plant sits beside a vase of the same color.
+88,Grayish greenish yellow,tissue box,book,A Grayish greenish yellow tissue box sits next to a book of matching color.
+89,Grayish greenish yellow,handbag,suitcase,A Grayish greenish yellow handbag is placed on a suitcase of identical color.
+90,Grayish greenish yellow,baseball glove,baseball bat,A Grayish greenish yellow baseball glove lies beside a baseball bat of identical color.
+91,Grayish olive,skateboard,skis,A Grayish olive skateboard lies near skis of matching color.
+92,Grayish olive,coat,umbrella,A Grayish olive coat hangs beside an umbrella of matching color.
+93,Grayish olive,knife,cutting board,A Grayish olive knife rests on a cutting board of matching color.
+94,Grayish olive,refrigerator,oven,A Grayish olive refrigerator stands next to an oven of identical color.
+95,Grayish olive,parrot,elephant,A Grayish olive parrot perches near an elephant of the same color.
+96,Dark grayish olive,suitcase,umbrella,A Dark grayish olive suitcase stands next to an umbrella of matching color.
+97,Dark grayish olive,bear,sheep,A Dark grayish olive bear stands near a sheep of the same color.
+98,Dark grayish olive,snowboard,skis,A Dark grayish olive snowboard leans against skis of identical color.
+99,Dark grayish olive,handbag,umbrella,A Dark grayish olive handbag hangs near an umbrella of the same color.
+100,Dark grayish olive,towel,socks,A Dark grayish olive towel is folded next to socks of matching color.
+101,Light olive gray,hammer,wrench,A Light olive gray hammer lies beside a wrench of the same color.
+102,Light olive gray,parrot,cat,A Light olive gray parrot perches beside a cat of the same color.
+103,Light olive gray,bicycle,boat,A Light olive gray bicycle is parked near a boat of identical color.
+104,Light olive gray,dog,cat,A Light olive gray dog sits near a cat with matching color fur.
+105,Light olive gray,hair dryer,remote,A Light olive gray hair dryer lies next to a remote of identical color.
+106,Vivid yellow green,apple,guava,A Vivid yellow green apple is placed next to a guava of identical color.
+107,Vivid yellow green,banana,strawberry,A Vivid yellow green banana is placed next to a strawberry of the same color.
+108,Vivid yellow green,parrot,elephant,A Vivid yellow green parrot perches near an elephant of the same color.
+109,Vivid yellow green,handbag,coat,A Vivid yellow green handbag rests beside a coat of the same color.
+110,Vivid yellow green,wardrobe,curtain,A Vivid yellow green wardrobe stands near a curtain of the same color.
+111,Deep yellow green,bear,sheep,A Deep yellow green bear stands near a sheep of the same color.
+112,Deep yellow green,crocodile,bear,A Deep yellow green crocodile rests near a bear of identical color.
+113,Deep yellow green,backpack,suitcase,A Deep yellow green backpack is placed next to a suitcase of the same color.
+114,Deep yellow green,football helmet,snowboard,A Deep yellow green football helmet lies near a snowboard of the same color.
+115,Deep yellow green,pants,towel,A Deep yellow green pants are folded beside a towel of identical color.
+116,Light yellow green,chair,table,A Light yellow green chair is placed next to a table of the same color.
+117,Light yellow green,jeans,T-shirt,A Light yellow green jeans are folded next to a T-shirt of the same color.
+118,Light yellow green,car,truck,A Light yellow green car is parked next to a truck of matching color.
+119,Light yellow green,baseball bat,sports ball,A Light yellow green baseball bat lies next to a sports ball of identical color.
+120,Light yellow green,crocodile,turtle,A Light yellow green crocodile rests near a turtle of matching color.
+121,Grayish yellow green,suitcase,umbrella,A Grayish yellow green suitcase stands next to an umbrella of matching color.
+122,Grayish yellow green,broccoli,carrot,A Grayish yellow green broccoli rests next to a carrot of the same color.
+123,Grayish yellow green,remote,microwave,A Grayish yellow green remote rests on a microwave of identical color.
+124,Grayish yellow green,backpack,suitcase,A Grayish yellow green backpack is placed next to a suitcase of the same color.
+125,Grayish yellow green,motorcycle,bus,A Grayish yellow green motorcycle is parked near a bus of matching color.
+126,Strong olive green,papaya,lemon,A Strong olive green papaya lies beside a lemon of the same color.
+127,Strong olive green,airplane,bus,A Strong olive green airplane is parked near a bus painted in identical color.
+128,Strong olive green,parrot,elephant,A Strong olive green parrot perches near an elephant of the same color.
+129,Strong olive green,handbag,suitcase,A Strong olive green handbag is placed on a suitcase of identical color.
+130,Strong olive green,clock,mug,A Strong olive green clock hangs above a mug of matching color.
+131,Deep yellowish green,chair,wardrobe,A Deep yellowish green chair stands beside a wardrobe of the same color.
+132,Deep yellowish green,frisbee,kite,A Deep yellowish green frisbee lies near a kite of identical color.
+133,Deep yellowish green,table,candle,A Deep yellowish green table holds a candle of the same color.
+134,Deep yellowish green,car,bus,A Deep yellowish green car is parked beside a bus of identical color.
+135,Deep yellowish green,guava,strawberry,A Deep yellowish green guava rests next to a strawberry of identical color.
+136,Vivid green,couch,bookcase,A Vivid green couch faces a bookcase of identical color.
+137,Vivid green,sweatshirt,hat,A Vivid green sweatshirt is folded beside a hat of the same color.
+138,Vivid green,jeep,bus,A Vivid green jeep is parked beside a bus of the same color.
+139,Vivid green,dog,bear,A Vivid green dog sits beside a bear of matching color.
+140,Vivid green,football helmet,snowboard,A Vivid green football helmet lies near a snowboard of the same color.
+141,Light green,snowboard,skis,A Light green snowboard leans against skis of identical color.
+142,Light green,umbrella,suitcase,A Light green umbrella leans against a suitcase of matching color.
+143,Light green,toaster,refrigerator,A Light green toaster sits beside a refrigerator of the same color.
+144,Light green,tie,hat,A Light green tie lies beside a hat of the same color.
+145,Light green,tissue box,book,A Light green tissue box sits next to a book of matching color.
+146,Grayish green,broccoli,carrot,A Grayish green broccoli rests next to a carrot of the same color.
+147,Grayish green,teapot,candle,A Grayish green teapot sits beside a candle of identical color.
+148,Grayish green,cow,sheep,A Grayish green cow grazes near a sheep of the same color.
+149,Grayish green,frisbee,surfboard,A Grayish green frisbee rests beside a surfboard of the same color.
+150,Grayish green,baseball bat,kite,A Grayish green baseball bat lies near a kite of the same color.
+151,Vivid blue,mango,papaya,A Vivid blue mango is placed next to a papaya of the same color.
+152,Vivid blue,handbag,umbrella,A Vivid blue handbag hangs near an umbrella of the same color.
+153,Vivid blue,umbrella,backpack,A Vivid blue umbrella leans against a backpack of matching color.
+154,Vivid blue,tie,handbag,A Vivid blue tie lies beside a handbag of the same color.
+155,Vivid blue,tie,backpack,A Vivid blue tie rests on a backpack of matching color.
+156,Deep blue,baseball glove,baseball bat,A Deep blue baseball glove lies beside a baseball bat of identical color.
+157,Deep blue,bicycle,motorcycle,A Deep blue bicycle is parked beside a motorcycle of identical color.
+158,Deep blue,microwave,toaster,A Deep blue microwave sits beside a toaster of the same color.
+159,Deep blue,sports ball,baseball glove,A Deep blue sports ball sits next to a baseball glove of matching color.
+160,Deep blue,tie,backpack,A Deep blue tie rests on a backpack of matching color.
+161,Grayish blue,couch,bookcase,A Grayish blue couch faces a bookcase of identical color.
+162,Grayish blue,carrot,orange,A Grayish blue carrot lies close to an orange of identical color.
+163,Grayish blue,T-shirt,socks,A Grayish blue T-shirt is folded beside socks of identical color.
+164,Grayish blue,microwave,toaster,A Grayish blue microwave sits beside a toaster of the same color.
+165,Grayish blue,surfboard,skateboard,A Grayish blue surfboard leans against a skateboard of identical color.
+166,Light bluish gray,orange,carrot,A Light bluish gray orange lies near a carrot of the same color.
+167,Light bluish gray,guava,strawberry,A Light bluish gray guava rests next to a strawberry of identical color.
+168,Light bluish gray,umbrella,suitcase,A Light bluish gray umbrella leans against a suitcase of matching color.
+169,Light bluish gray,apple,orange,A Light bluish gray apple lies beside an orange of identical color.
+170,Light bluish gray,jeep,bus,A Light bluish gray jeep is parked beside a bus of the same color.
+171,Grayish violet,microwave,oven,A Grayish violet microwave sits next to an oven of matching color.
+172,Grayish violet,jeep,bus,A Grayish violet jeep is parked beside a bus of the same color.
+173,Grayish violet,lipstick,handbag,A Grayish violet lipstick rests inside a handbag of identical color.
+174,Grayish violet,car,boat,A Grayish violet car is parked near a boat of identical color.
+175,Grayish violet,dog,horse,A Grayish violet dog stands beside a horse with the same color coat.
+176,Vivid purple,dog,horse,A Vivid purple dog stands beside a horse with the same color coat.
+177,Vivid purple,desk,bookcase,A Vivid purple desk stands next to a bookcase of matching color.
+178,Vivid purple,tie,suit,A Vivid purple tie is draped over a suit of matching color.
+179,Vivid purple,snowboard,skis,A Vivid purple snowboard leans against skis of identical color.
+180,Vivid purple,iron,hair dryer,A Vivid purple iron lies next to a hair dryer of the same color.
+181,Deep purple,parrot,cat,A Deep purple parrot perches beside a cat of the same color.
+182,Deep purple,hat,backpack,A Deep purple hat rests on a backpack of the same color.
+183,Deep purple,suitcase,backpack,A Deep purple suitcase is placed next to a backpack of identical color.
+184,Deep purple,sports ball,baseball glove,A Deep purple sports ball sits next to a baseball glove of matching color.
+185,Deep purple,trash can,sink,A Deep purple trash can stands beside a sink of the same color.
+186,Light reddish purple,umbrella,backpack,A Light reddish purple umbrella leans against a backpack of matching color.
+187,Light reddish purple,car,truck,A Light reddish purple car is parked next to a truck of matching color.
+188,Light reddish purple,baseball bat,kite,A Light reddish purple baseball bat lies near a kite of the same color.
+189,Light reddish purple,clock,vase,A Light reddish purple clock hangs near a vase of the same color.
+190,Light reddish purple,car,boat,A Light reddish purple car is parked near a boat of identical color.
+191,Deep purplish pink,fan,sponge,A Deep purplish pink fan sits beside a sponge of matching color.
+192,Deep purplish pink,skateboard,skis,A Deep purplish pink skateboard lies near skis of matching color.
+193,Deep purplish pink,snowboard,skis,A Deep purplish pink snowboard leans against skis of identical color.
+194,Deep purplish pink,jacket,hat,A Deep purplish pink jacket hangs beside a hat of matching color.
+195,Deep purplish pink,orange,carrot,A Deep purplish pink orange lies near a carrot of the same color.
+196,Deep purplish red,owl,dog,A Deep purplish red owl perches near a dog of matching color.
+197,Deep purplish red,baseball bat,kite,A Deep purplish red baseball bat lies near a kite of the same color.
+198,Deep purplish red,football helmet,boxing glove,A Deep purplish red football helmet lies next to a boxing glove of matching color.
+199,Deep purplish red,sink,towel,A Deep purplish red sink has a towel of the same color nearby.
+200,Deep purplish red,suitcase,backpack,A Deep purplish red suitcase is placed next to a backpack of identical color.
+201,White,refrigerator,oven,A White refrigerator stands next to an oven of identical color.
+202,White,chair,desk,A White chair is positioned next to a desk of the same color.
+203,White,knife,cutting board,A White knife rests on a cutting board of matching color.
+204,White,surfboard,skateboard,A White surfboard leans against a skateboard of identical color.
+205,White,dog,bear,A White dog sits beside a bear of matching color.
+206,Light gray,lipstick,handbag,A Light gray lipstick rests inside a handbag of identical color.
+207,Light gray,guava,strawberry,A Light gray guava rests next to a strawberry of identical color.
+208,Light gray,sports car,airplane,A Light gray sports car is parked beside an airplane of the same color.
+209,Light gray,umbrella,suitcase,A Light gray umbrella leans against a suitcase of matching color.
+210,Light gray,tissue box,book,A Light gray tissue box sits next to a book of matching color.
+211,Medium gray,sports ball,baseball glove,A Medium gray sports ball sits next to a baseball glove of matching color.
+212,Medium gray,dog,bear,A Medium gray dog sits beside a bear of matching color.
+213,Medium gray,hammer,wrench,A Medium gray hammer lies beside a wrench of the same color.
+214,Medium gray,backpack,suitcase,A Medium gray backpack is placed next to a suitcase of the same color.
+215,Medium gray,wallet,tie,A Medium gray wallet rests beside a tie of the same color.
+216,Dark gray,football helmet,snowboard,A Dark gray football helmet lies near a snowboard of the same color.
+217,Dark gray,crocodile,bear,A Dark gray crocodile rests near a bear of identical color.
+218,Dark gray,horse,sheep,A Dark gray horse stands with a sheep of the same color.
+219,Dark gray,snowboard,skis,A Dark gray snowboard leans against skis of identical color.
+220,Dark gray,guava,strawberry,A Dark gray guava rests next to a strawberry of identical color.
+221,Black,suitcase,umbrella,A Black suitcase stands next to an umbrella of matching color.
+222,Black,car,boat,A Black car is parked near a boat of identical color.
+223,Black,handbag,coat,A Black handbag rests beside a coat of the same color.
+224,Black,chair,bookcase,A Black chair is positioned near a bookcase of the same color.
+225,Black,frisbee,kite,A Black frisbee lies near a kite of identical color.

@@ -1,0 +1,349 @@
+id,color,main_obj,sec_obj,prompt
+1,Pink,golf ball,putting green,A Pink golf ball on a putting green.
+2,Pink,taxi,building,A Pink taxi in front of a building.
+3,Pink,mango,lemon,A Pink mango in a fruit bowl with a lemon.
+4,Pink,computer mouse,desk,A Pink computer mouse on a desk.
+5,Pink,lipstick,vanity mirror,A Pink lipstick on a vanity mirror.
+6,Pink,desk,home office,A Pink desk in a home office.
+7,Pink,candle,mirror,A Pink candle beside a mirror.
+8,Pink,airplane,runway,A Pink airplane at the runway gate.
+9,Pink,motorcycle,street corner,A Pink motorcycle on a street corner.
+10,Pink,refrigerator,kitchen,A Pink refrigerator in the corner of the kitchen.
+11,Pink,sports ball,gym floor,A Pink sports ball on a gym floor.
+12,Pink,truck,loading dock,A Pink truck beside a loading dock.
+13,Red,boxing glove,shelf,A Red boxing glove placed on a shelf.
+14,Red,jacket,coat rack,A Red jacket hanging on a coat rack.
+15,Red,strawberry,dessert plate,A Red strawberry on top of a dessert plate.
+16,Red,mango,lemon,A Red mango in a fruit bowl with a lemon.
+17,Red,truck,loading dock,A Red truck beside a loading dock.
+18,Red,mug,books,A Red mug on a desk with books.
+19,Red,wardrobe,small chair,A Red wardrobe beside a small chair.
+20,Red,towel,bathroom rack,A Red towel hanging on a bathroom rack.
+21,Red,surfboard,sandy beach,A Red surfboard standing on a sandy beach.
+22,Red,baseball glove,bench,A Red baseball glove on a bench.
+23,Red,clock,white wall,A Red clock on a white wall.
+24,Red,remote,coffee table,A Red remote on a coffee table.
+25,Yellowish pink,microwave,kitchen shelf,A Yellowish pink microwave on a kitchen shelf.
+26,Yellowish pink,ruler,notebook,A Yellowish pink ruler beside an open notebook.
+27,Yellowish pink,sports ball,gym floor,A Yellowish pink sports ball on a gym floor.
+28,Yellowish pink,T-shirt,table,A Yellowish pink T-shirt folded on a table.
+29,Yellowish pink,candle,mirror,A Yellowish pink candle beside a mirror.
+30,Yellowish pink,tie,hanger,A Yellowish pink tie draped over a hanger.
+31,Yellowish pink,boxing glove,shelf,A Yellowish pink boxing glove placed on a shelf.
+32,Yellowish pink,lipstick,vanity mirror,A Yellowish pink lipstick on a vanity mirror.
+33,Yellowish pink,apple,plate,A Yellowish pink apple on a white plate.
+34,Yellowish pink,wrench,toolbox,A Yellowish pink wrench beside a toolbox.
+35,Yellowish pink,minivan,driveway,A Yellowish pink minivan parked in a driveway.
+36,Yellowish pink,jacket,coat rack,A Yellowish pink jacket hanging on a coat rack.
+37,Reddish orange,horse,stable,A Reddish orange horse standing in a stable.
+38,Reddish orange,lipstick,vanity mirror,A Reddish orange lipstick on a vanity mirror.
+39,Reddish orange,boat,pier,A Reddish orange boat docked at a pier.
+40,Reddish orange,mug,books,A Reddish orange mug on a desk with books.
+41,Reddish orange,wrench,toolbox,A Reddish orange wrench beside a toolbox.
+42,Reddish orange,motorcycle,street corner,A Reddish orange motorcycle on a street corner.
+43,Reddish orange,truck,loading dock,A Reddish orange truck beside a loading dock.
+44,Reddish orange,owl,wooden stump,A Reddish orange owl perched on a wooden stump.
+45,Reddish orange,bus,bus stop,A Reddish orange bus at a bus stop.
+46,Reddish orange,cow,wooden fence,A Reddish orange cow near a wooden fence.
+47,Reddish orange,sheep,green field,A Reddish orange sheep grazing on a green field.
+48,Reddish orange,surfboard,sandy beach,A Reddish orange surfboard standing on a sandy beach.
+49,Reddish brown,book,nightstand,A Reddish brown book on a nightstand.
+50,Reddish brown,broccoli,cutting board,A Reddish brown broccoli beside a cutting board.
+51,Reddish brown,knife,cutting board,A Reddish brown knife on a cutting board.
+52,Reddish brown,coat,door,A Reddish brown coat hanging near the door.
+53,Reddish brown,wallet,wooden table,A Reddish brown wallet on a wooden table.
+54,Reddish brown,jeep,dirt road,A Reddish brown jeep driving along a dirt road.
+55,Reddish brown,owl,wooden stump,A Reddish brown owl perched on a wooden stump.
+56,Reddish brown,car,sidewalk,A Reddish brown car parked near a sidewalk.
+57,Reddish brown,kite,clear sky,A Reddish brown kite flying in a clear sky.
+58,Reddish brown,curtain,window frame,A Reddish brown curtain hanging by a window.
+59,Reddish brown,football helmet,locker room bench,A Reddish brown football helmet on a locker room bench.
+60,Reddish brown,skateboard,concrete ramp,A Reddish brown skateboard on a concrete ramp.
+61,Orange,parrot,tree branch,A Orange parrot on a tree branch.
+62,Orange,snowboard,wall,A Orange snowboard resting against a wall.
+63,Orange,teapot,breakfast tray,A Orange teapot on a breakfast tray.
+64,Orange,fan,window,A Orange fan placed near a window.
+65,Orange,lemon,breakfast tray,A Orange lemon on a breakfast tray.
+66,Orange,broccoli,cutting board,A Orange broccoli beside a cutting board.
+67,Orange,hair dryer,bathroom counter,A Orange hair dryer on a bathroom counter.
+68,Orange,wardrobe,small chair,A Orange wardrobe beside a small chair.
+69,Orange,saw,garage wall,A Orange saw hanging on a garage wall.
+70,Orange,curtain,window frame,A Orange curtain hanging by a window.
+71,Orange,car,sidewalk,A Orange car parked near a sidewalk.
+72,Orange,bus,bus stop,A Orange bus at a bus stop.
+73,Brown,owl,wooden stump,A Brown owl perched on a wooden stump.
+74,Brown,lipstick,vanity mirror,A Brown lipstick on a vanity mirror.
+75,Brown,coat,door,A Brown coat hanging near the door.
+76,Brown,golf ball,putting green,A Brown golf ball on a putting green.
+77,Brown,parrot,tree branch,A Brown parrot on a tree branch.
+78,Brown,minivan,driveway,A Brown minivan parked in a driveway.
+79,Brown,duck,pond,A Brown duck floating on a pond.
+80,Brown,cow,wooden fence,A Brown cow near a wooden fence.
+81,Brown,vase,dining table,A Brown vase placed on a dining table.
+82,Brown,toaster,coffee machine,A Brown toaster beside a coffee machine.
+83,Brown,table,rug,A Brown table on a patterned rug.
+84,Brown,ruler,notebook,A Brown ruler beside an open notebook.
+85,Orange yellow,cutting board,kitchen island,A Orange yellow cutting board on a kitchen island.
+86,Orange yellow,balloon,ceiling,A Orange yellow balloon floating near a ceiling.
+87,Orange yellow,orange,ceramic bowl,A Orange yellow orange in a ceramic bowl.
+88,Orange yellow,surfboard,sandy beach,A Orange yellow surfboard standing on a sandy beach.
+89,Orange yellow,golf ball,putting green,A Orange yellow golf ball on a putting green.
+90,Orange yellow,chair,wooden table,A Orange yellow chair next to a wooden table.
+91,Orange yellow,wallet,wooden table,A Orange yellow wallet on a wooden table.
+92,Orange yellow,knife,cutting board,A Orange yellow knife on a cutting board.
+93,Orange yellow,desk,home office,A Orange yellow desk in a home office.
+94,Orange yellow,minivan,driveway,A Orange yellow minivan parked in a driveway.
+95,Orange yellow,backpack,wall,A Orange yellow backpack leaning against the wall.
+96,Orange yellow,owl,wooden stump,A Orange yellow owl perched on a wooden stump.
+97,Yellowish brown,table,rug,A Yellowish brown table on a patterned rug.
+98,Yellowish brown,golf ball,putting green,A Yellowish brown golf ball on a putting green.
+99,Yellowish brown,sponge,faucet,A Yellowish brown sponge near a faucet.
+100,Yellowish brown,baseball glove,bench,A Yellowish brown baseball glove on a bench.
+101,Yellowish brown,candle,mirror,A Yellowish brown candle beside a mirror.
+102,Yellowish brown,cutting board,kitchen island,A Yellowish brown cutting board on a kitchen island.
+103,Yellowish brown,cat,couch,A Yellowish brown cat sleeping on a couch.
+104,Yellowish brown,saw,garage wall,A Yellowish brown saw hanging on a garage wall.
+105,Yellowish brown,papaya,wooden table,A Yellowish brown papaya cut in half on a wooden table.
+106,Yellowish brown,wardrobe,small chair,A Yellowish brown wardrobe beside a small chair.
+107,Yellowish brown,strawberry,dessert plate,A Yellowish brown strawberry on top of a dessert plate.
+108,Yellowish brown,tissue box,coffee table,A Yellowish brown tissue box on a coffee table.
+109,Yellow,crocodile,riverbank,A Yellow crocodile resting on a riverbank.
+110,Yellow,table,rug,A Yellow table on a patterned rug.
+111,Yellow,lemon,breakfast tray,A Yellow lemon on a breakfast tray.
+112,Yellow,mug,books,A Yellow mug on a desk with books.
+113,Yellow,frisbee,grass,A Yellow frisbee lying on the grass.
+114,Yellow,remote,coffee table,A Yellow remote on a coffee table.
+115,Yellow,tissue box,coffee table,A Yellow tissue box on a coffee table.
+116,Yellow,microwave,kitchen shelf,A Yellow microwave on a kitchen shelf.
+117,Yellow,pants,shelf,A Yellow pants folded on a shelf.
+118,Yellow,bear,forest,A Yellow bear walking through a forest.
+119,Yellow,balloon,ceiling,A Yellow balloon floating near a ceiling.
+120,Yellow,coat,door,A Yellow coat hanging near the door.
+121,Olive brown,bicycle,fence,A Olive brown bicycle leaning against a fence.
+122,Olive brown,book,nightstand,A Olive brown book on a nightstand.
+123,Olive brown,airplane,runway,A Olive brown airplane at the runway gate.
+124,Olive brown,desk,home office,A Olive brown desk in a home office.
+125,Olive brown,iron,ironing board,A Olive brown iron on an ironing board.
+126,Olive brown,baseball glove,bench,A Olive brown baseball glove on a bench.
+127,Olive brown,wallet,wooden table,A Olive brown wallet on a wooden table.
+128,Olive brown,teddybear,child's bed,A Olive brown teddybear on a child's bed.
+129,Olive brown,jacket,coat rack,A Olive brown jacket hanging on a coat rack.
+130,Olive brown,crocodile,riverbank,A Olive brown crocodile resting on a riverbank.
+131,Olive brown,parrot,tree branch,A Olive brown parrot on a tree branch.
+132,Olive brown,candle,mirror,A Olive brown candle beside a mirror.
+133,Greenish yellow,airplane,runway,A Greenish yellow airplane at the runway gate.
+134,Greenish yellow,socks,dresser,A Greenish yellow socks placed on a dresser.
+135,Greenish yellow,pants,shelf,A Greenish yellow pants folded on a shelf.
+136,Greenish yellow,truck,loading dock,A Greenish yellow truck beside a loading dock.
+137,Greenish yellow,hammer,workbench,A Greenish yellow hammer on a workbench.
+138,Greenish yellow,guava,wire fruit basket,A Greenish yellow guava resting in a wire fruit basket.
+139,Greenish yellow,taxi,building,A Greenish yellow taxi in front of a building.
+140,Greenish yellow,boat,pier,A Greenish yellow boat docked at a pier.
+141,Greenish yellow,football helmet,locker room bench,A Greenish yellow football helmet on a locker room bench.
+142,Greenish yellow,minivan,driveway,A Greenish yellow minivan parked in a driveway.
+143,Greenish yellow,cutting board,kitchen island,A Greenish yellow cutting board on a kitchen island.
+144,Greenish yellow,jacket,coat rack,A Greenish yellow jacket hanging on a coat rack.
+145,Olive,baseball bat,dugout wall,A Olive baseball bat leaning against a dugout wall.
+146,Olive,lemon,breakfast tray,A Olive lemon on a breakfast tray.
+147,Olive,elephant,watering hole,A Olive elephant standing near a watering hole.
+148,Olive,owl,wooden stump,A Olive owl perched on a wooden stump.
+149,Olive,backpack,wall,A Olive backpack leaning against the wall.
+150,Olive,umbrella,bench,A Olive umbrella resting against a bench.
+151,Olive,bookcase,living room wall,A Olive bookcase against a living room wall.
+152,Olive,kite,clear sky,A Olive kite flying in a clear sky.
+153,Olive,banana,orange,A Olive banana next to a sliced orange.
+154,Olive,cutting board,kitchen island,A Olive cutting board on a kitchen island.
+155,Olive,oven,modern kitchen,A Olive oven in a modern kitchen.
+156,Olive,taxi,building,A Olive taxi in front of a building.
+157,Yellow green,cutting board,kitchen island,A Yellow green cutting board on a kitchen island.
+158,Yellow green,wallet,wooden table,A Yellow green wallet on a wooden table.
+159,Yellow green,hammer,workbench,A Yellow green hammer on a workbench.
+160,Yellow green,table,rug,A Yellow green table on a patterned rug.
+161,Yellow green,saw,garage wall,A Yellow green saw hanging on a garage wall.
+162,Yellow green,balloon,ceiling,A Yellow green balloon floating near a ceiling.
+163,Yellow green,horse,stable,A Yellow green horse standing in a stable.
+164,Yellow green,taxi,building,A Yellow green taxi in front of a building.
+165,Yellow green,curtain,window frame,A Yellow green curtain hanging by a window.
+166,Yellow green,jeans,bed,A Yellow green jeans on a bed.
+167,Yellow green,minivan,driveway,A Yellow green minivan parked in a driveway.
+168,Yellow green,coat,door,A Yellow green coat hanging near the door.
+169,Olive green,apple,plate,A Olive green apple on a white plate.
+170,Olive green,oven,modern kitchen,A Olive green oven in a modern kitchen.
+171,Olive green,book,nightstand,A Olive green book on a nightstand.
+172,Olive green,towel,bathroom rack,A Olive green towel hanging on a bathroom rack.
+173,Olive green,wrench,toolbox,A Olive green wrench beside a toolbox.
+174,Olive green,couch,window,A Olive green couch in front of a window.
+175,Olive green,motorcycle,street corner,A Olive green motorcycle on a street corner.
+176,Olive green,football helmet,locker room bench,A Olive green football helmet on a locker room bench.
+177,Olive green,pillow,bed,A Olive green pillow on a bed.
+178,Olive green,golf ball,putting green,A Olive green golf ball on a putting green.
+179,Olive green,surfboard,sandy beach,A Olive green surfboard standing on a sandy beach.
+180,Olive green,clock,white wall,A Olive green clock on a white wall.
+181,Yellowish green,boat,pier,A Yellowish green boat docked at a pier.
+182,Yellowish green,duck,pond,A Yellowish green duck floating on a pond.
+183,Yellowish green,wrench,toolbox,A Yellowish green wrench beside a toolbox.
+184,Yellowish green,minivan,driveway,A Yellowish green minivan parked in a driveway.
+185,Yellowish green,sports ball,gym floor,A Yellowish green sports ball on a gym floor.
+186,Yellowish green,umbrella,bench,A Yellowish green umbrella resting against a bench.
+187,Yellowish green,apple,plate,A Yellowish green apple on a white plate.
+188,Yellowish green,baseball bat,dugout wall,A Yellowish green baseball bat leaning against a dugout wall.
+189,Yellowish green,cat,couch,A Yellowish green cat sleeping on a couch.
+190,Yellowish green,suit,closet,A Yellowish green suit hanging in a closet.
+191,Yellowish green,carrot,kitchen counter,A Yellowish green carrot placed on a kitchen counter.
+192,Yellowish green,taxi,building,A Yellowish green taxi in front of a building.
+193,Green,parrot,tree branch,A Green parrot on a tree branch.
+194,Green,thermos,picnic table,A Green thermos on a picnic table.
+195,Green,sink,marble countertop,A Green sink installed in a marble countertop.
+196,Green,papaya,wooden table,A Green papaya cut in half on a wooden table.
+197,Green,frisbee,grass,A Green frisbee lying on the grass.
+198,Green,car,sidewalk,A Green car parked near a sidewalk.
+199,Green,knife,cutting board,A Green knife on a cutting board.
+200,Green,suit,closet,A Green suit hanging in a closet.
+201,Green,lemon,breakfast tray,A Green lemon on a breakfast tray.
+202,Green,wrench,toolbox,A Green wrench beside a toolbox.
+203,Green,wallet,wooden table,A Green wallet on a wooden table.
+204,Green,saw,garage wall,A Green saw hanging on a garage wall.
+205,Bluish green,sports car,highway,A Bluish green sports car on a highway.
+206,Bluish green,hair dryer,bathroom counter,A Bluish green hair dryer on a bathroom counter.
+207,Bluish green,handbag,desk,A Bluish green handbag on a desk.
+208,Bluish green,kite,clear sky,A Bluish green kite flying in a clear sky.
+209,Bluish green,chair,wooden table,A Bluish green chair next to a wooden table.
+210,Bluish green,book,nightstand,A Bluish green book on a nightstand.
+211,Bluish green,umbrella,bench,A Bluish green umbrella resting against a bench.
+212,Bluish green,surfboard,sandy beach,A Bluish green surfboard standing on a sandy beach.
+213,Bluish green,jacket,coat rack,A Bluish green jacket hanging on a coat rack.
+214,Bluish green,mug,books,A Bluish green mug on a desk with books.
+215,Bluish green,sports ball,gym floor,A Bluish green sports ball on a gym floor.
+216,Bluish green,hammer,workbench,A Bluish green hammer on a workbench.
+217,Greenish blue,knife,cutting board,A Greenish blue knife on a cutting board.
+218,Greenish blue,sponge,faucet,A Greenish blue sponge near a faucet.
+219,Greenish blue,clock,white wall,A Greenish blue clock on a white wall.
+220,Greenish blue,remote,coffee table,A Greenish blue remote on a coffee table.
+221,Greenish blue,thermos,picnic table,A Greenish blue thermos on a picnic table.
+222,Greenish blue,crocodile,riverbank,A Greenish blue crocodile resting on a riverbank.
+223,Greenish blue,toaster,coffee machine,A Greenish blue toaster beside a coffee machine.
+224,Greenish blue,microwave,kitchen shelf,A Greenish blue microwave on a kitchen shelf.
+225,Greenish blue,duck,pond,A Greenish blue duck floating on a pond.
+226,Greenish blue,hat,chair,A Greenish blue hat resting on a chair.
+227,Greenish blue,suitcase,airport terminal,A Greenish blue suitcase in an airport terminal.
+228,Greenish blue,tie,hanger,A Greenish blue tie draped over a hanger.
+229,Blue,jeep,dirt road,A Blue jeep driving along a dirt road.
+230,Blue,desk,home office,A Blue desk in a home office.
+231,Blue,candle,mirror,A Blue candle beside a mirror.
+232,Blue,lemon,breakfast tray,A Blue lemon on a breakfast tray.
+233,Blue,horse,stable,A Blue horse standing in a stable.
+234,Blue,carrot,kitchen counter,A Blue carrot placed on a kitchen counter.
+235,Blue,boxing glove,shelf,A Blue boxing glove placed on a shelf.
+236,Blue,kite,clear sky,A Blue kite flying in a clear sky.
+237,Blue,wardrobe,small chair,A Blue wardrobe beside a small chair.
+238,Blue,apple,plate,A Blue apple on a white plate.
+239,Blue,orange,ceramic bowl,A Blue orange in a ceramic bowl.
+240,Blue,fan,window,A Blue fan placed near a window.
+241,Purplish blue,football helmet,locker room bench,A Purplish blue football helmet on a locker room bench.
+242,Purplish blue,papaya,wooden table,A Purplish blue papaya cut in half on a wooden table.
+243,Purplish blue,wardrobe,small chair,A Purplish blue wardrobe beside a small chair.
+244,Purplish blue,lemon,breakfast tray,A Purplish blue lemon on a breakfast tray.
+245,Purplish blue,strawberry,dessert plate,A Purplish blue strawberry on top of a dessert plate.
+246,Purplish blue,dog,ball,A Purplish blue dog playing with a ball.
+247,Purplish blue,orange,ceramic bowl,A Purplish blue orange in a ceramic bowl.
+248,Purplish blue,socks,dresser,A Purplish blue socks placed on a dresser.
+249,Purplish blue,sink,marble countertop,A Purplish blue sink installed in a marble countertop.
+250,Purplish blue,lipstick,vanity mirror,A Purplish blue lipstick on a vanity mirror.
+251,Purplish blue,toaster,coffee machine,A Purplish blue toaster beside a coffee machine.
+252,Purplish blue,suit,closet,A Purplish blue suit hanging in a closet.
+253,Violet,mug,books,A Violet mug on a desk with books.
+254,Violet,sports ball,gym floor,A Violet sports ball on a gym floor.
+255,Violet,sports car,highway,A Violet sports car on a highway.
+256,Violet,oven,modern kitchen,A Violet oven in a modern kitchen.
+257,Violet,snowboard,wall,A Violet snowboard resting against a wall.
+258,Violet,handbag,desk,A Violet handbag on a desk.
+259,Violet,desk,home office,A Violet desk in a home office.
+260,Violet,turtle,sandy beach,A Violet turtle on a sandy beach.
+261,Violet,teapot,breakfast tray,A Violet teapot on a breakfast tray.
+262,Violet,bus,bus stop,A Violet bus at a bus stop.
+263,Violet,hair dryer,bathroom counter,A Violet hair dryer on a bathroom counter.
+264,Violet,jeans,bed,A Violet jeans on a bed.
+265,Purple,cow,wooden fence,A Purple cow near a wooden fence.
+266,Purple,jacket,coat rack,A Purple jacket hanging on a coat rack.
+267,Purple,turtle,sandy beach,A Purple turtle on a sandy beach.
+268,Purple,backpack,wall,A Purple backpack leaning against the wall.
+269,Purple,knife,cutting board,A Purple knife on a cutting board.
+270,Purple,guava,wire fruit basket,A Purple guava resting in a wire fruit basket.
+271,Purple,refrigerator,kitchen,A Purple refrigerator in the corner of the kitchen.
+272,Purple,microwave,kitchen shelf,A Purple microwave on a kitchen shelf.
+273,Purple,balloon,ceiling,A Purple balloon floating near a ceiling.
+274,Purple,bus,bus stop,A Purple bus at a bus stop.
+275,Purple,papaya,wooden table,A Purple papaya cut in half on a wooden table.
+276,Purple,crocodile,riverbank,A Purple crocodile resting on a riverbank.
+277,Reddish purple,knife,cutting board,A Reddish purple knife on a cutting board.
+278,Reddish purple,horse,stable,A Reddish purple horse standing in a stable.
+279,Reddish purple,motorcycle,street corner,A Reddish purple motorcycle on a street corner.
+280,Reddish purple,desk,home office,A Reddish purple desk in a home office.
+281,Reddish purple,teapot,breakfast tray,A Reddish purple teapot on a breakfast tray.
+282,Reddish purple,wallet,wooden table,A Reddish purple wallet on a wooden table.
+283,Reddish purple,tie,hanger,A Reddish purple tie draped over a hanger.
+284,Reddish purple,airplane,runway,A Reddish purple airplane at the runway gate.
+285,Reddish purple,jacket,coat rack,A Reddish purple jacket hanging on a coat rack.
+286,Reddish purple,potted plant,bookshelf,A Reddish purple potted plant on a bookshelf.
+287,Reddish purple,lipstick,vanity mirror,A Reddish purple lipstick on a vanity mirror.
+288,Reddish purple,backpack,wall,A Reddish purple backpack leaning against the wall.
+289,Purplish pink,desk,home office,A Purplish pink desk in a home office.
+290,Purplish pink,orange,ceramic bowl,A Purplish pink orange in a ceramic bowl.
+291,Purplish pink,hat,chair,A Purplish pink hat resting on a chair.
+292,Purplish pink,kite,clear sky,A Purplish pink kite flying in a clear sky.
+293,Purplish pink,bus,bus stop,A Purplish pink bus at a bus stop.
+294,Purplish pink,guava,wire fruit basket,A Purplish pink guava resting in a wire fruit basket.
+295,Purplish pink,microwave,kitchen shelf,A Purplish pink microwave on a kitchen shelf.
+296,Purplish pink,sports ball,gym floor,A Purplish pink sports ball on a gym floor.
+297,Purplish pink,banana,orange,A Purplish pink banana next to a sliced orange.
+298,Purplish pink,truck,loading dock,A Purplish pink truck beside a loading dock.
+299,Purplish pink,hammer,workbench,A Purplish pink hammer on a workbench.
+300,Purplish pink,sink,marble countertop,A Purplish pink sink installed in a marble countertop.
+301,Purplish red,chair,wooden table,A Purplish red chair next to a wooden table.
+302,Purplish red,turtle,sandy beach,A Purplish red turtle on a sandy beach.
+303,Purplish red,suit,closet,A Purplish red suit hanging in a closet.
+304,Purplish red,sweatshirt,chair,A Purplish red sweatshirt draped over a chair.
+305,Purplish red,mug,books,A Purplish red mug on a desk with books.
+306,Purplish red,crocodile,riverbank,A Purplish red crocodile resting on a riverbank.
+307,Purplish red,papaya,wooden table,A Purplish red papaya cut in half on a wooden table.
+308,Purplish red,owl,wooden stump,A Purplish red owl perched on a wooden stump.
+309,Purplish red,apple,plate,A Purplish red apple on a white plate.
+310,Purplish red,elephant,watering hole,A Purplish red elephant standing near a watering hole.
+311,Purplish red,book,nightstand,A Purplish red book on a nightstand.
+312,Purplish red,coat,door,A Purplish red coat hanging near the door.
+313,White,trash can,kitchen corner,A White trash can in a kitchen corner.
+314,White,jacket,coat rack,A White jacket hanging on a coat rack.
+315,White,ruler,notebook,A White ruler beside an open notebook.
+316,White,knife,cutting board,A White knife on a cutting board.
+317,White,baseball glove,bench,A White baseball glove on a bench.
+318,White,hair dryer,bathroom counter,A White hair dryer on a bathroom counter.
+319,White,remote,coffee table,A White remote on a coffee table.
+320,White,suit,closet,A White suit hanging in a closet.
+321,White,boat,pier,A White boat docked at a pier.
+322,White,teapot,breakfast tray,A White teapot on a breakfast tray.
+323,White,curtain,window frame,A White curtain hanging by a window.
+324,White,mug,books,A White mug on a desk with books.
+325,Gray,papaya,wooden table,A Gray papaya cut in half on a wooden table.
+326,Gray,teddybear,child's bed,A Gray teddybear on a child's bed.
+327,Gray,computer mouse,desk,A Gray computer mouse on a desk.
+328,Gray,sports ball,gym floor,A Gray sports ball on a gym floor.
+329,Gray,iron,ironing board,A Gray iron on an ironing board.
+330,Gray,tissue box,coffee table,A Gray tissue box on a coffee table.
+331,Gray,guava,wire fruit basket,A Gray guava resting in a wire fruit basket.
+332,Gray,sweatshirt,chair,A Gray sweatshirt draped over a chair.
+333,Gray,towel,bathroom rack,A Gray towel hanging on a bathroom rack.
+334,Gray,umbrella,bench,A Gray umbrella resting against a bench.
+335,Gray,minivan,driveway,A Gray minivan parked in a driveway.
+336,Gray,socks,dresser,A Gray socks placed on a dresser.
+337,Black,car,sidewalk,A Black car parked near a sidewalk.
+338,Black,potted plant,bookshelf,A Black potted plant on a bookshelf.
+339,Black,lemon,breakfast tray,A Black lemon on a breakfast tray.
+340,Black,baseball bat,dugout wall,A Black baseball bat leaning against a dugout wall.
+341,Black,refrigerator,kitchen,A Black refrigerator in the corner of the kitchen.
+342,Black,sink,marble countertop,A Black sink installed in a marble countertop.
+343,Black,crocodile,riverbank,A Black crocodile resting on a riverbank.
+344,Black,jeep,dirt road,A Black jeep driving along a dirt road.
+345,Black,frisbee,grass,A Black frisbee lying on the grass.
+346,Black,desk,home office,A Black desk in a home office.
+347,Black,teddybear,child's bed,A Black teddybear on a child's bed.
+348,Black,broccoli,cutting board,A Black broccoli beside a cutting board.

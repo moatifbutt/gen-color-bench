@@ -1,0 +1,401 @@
+id,color_count,object1,color1,object2,color2,object3,color3,prompt
+1,2,hat,Light pink,suitcase,Vivid red,,,A Light pink hat resting on a Vivid red suitcase.
+2,2,minivan,Light grayish red,bicycle,Grayish red,,,A Light grayish red minivan parked beside a Grayish red bicycle in the driveway.
+3,2,snowboard,Vivid yellowish pink,skis,Grayish yellowish pink,,,A Vivid yellowish pink snowboard resting against Grayish yellowish pink skis by the cabin.
+4,2,carrot,Vivid reddish orange,broccoli,Grayish reddish orange,,,A Vivid reddish orange carrot and a Grayish reddish orange broccoli on a cutting board.
+5,3,couch,Deep reddish brown,table,Light grayish reddish brown,vase,Deep orange,A Deep reddish brown couch with a Light grayish reddish brown table and a Deep orange vase in the living room.
+6,3,boat,Light orange,jeep,Strong brown,airplane,Deep orange yellow,"A Light orange boat, a Strong brown jeep, and a Deep orange yellow airplane at the lakeside."
+7,2,sheep,Grayish yellowish brown,horse,Vivid greenish yellow,,,A Grayish yellowish brown sheep grazing next to a Vivid greenish yellow horse in the meadow.
+8,2,pillow,Light greenish yellow,curtain,Grayish greenish yellow,,,A Light greenish yellow pillow on the bed near a Grayish greenish yellow curtain by the window.
+9,2,skateboard,Grayish olive,frisbee,Dark grayish olive,,,A Grayish olive skateboard beside a Dark grayish olive frisbee on the grass.
+10,2,tie,Light olive gray,suit,Vivid yellow green,,,A Light olive gray tie draped over a Vivid yellow green suit in the closet.
+11,2,baseball bat,Deep yellow green,golf ball,Light yellow green,,,A Deep yellow green baseball bat next to a Light yellow green golf ball on the floor.
+12,2,refrigerator,Grayish yellow green,oven,Strong olive green,,,A Grayish yellow green refrigerator beside a Strong olive green oven in the kitchen.
+13,3,dog,Deep yellowish green,cat,Vivid green,horse,Light green,A Deep yellowish green dog next to a Vivid green cat and a Light green horse in the yard.
+14,2,duck,Grayish green,cow,Vivid blue,,,A Grayish green duck swimming near a Vivid blue cow by the pond.
+15,2,clock,Deep blue,candle,Grayish blue,,,A Deep blue clock beside a Grayish blue candle on the mantle.
+16,2,backpack,Light bluish gray,bicycle,Grayish violet,,,A Light bluish gray backpack hanging on a Grayish violet bicycle.
+17,3,papaya,Vivid purple,guava,Deep purple,carrot,Light reddish purple,"A Vivid purple papaya, a Deep purple guava, and a Light reddish purple carrot on the table."
+18,3,surfboard,Deep purplish pink,kite,Deep purplish red,frisbee,White,"A Deep purplish pink surfboard, a Deep purplish red kite, and a White frisbee on the beach."
+19,2,knife,Light gray,cutting board,Medium gray,,,A Light gray knife on a Medium gray cutting board in the kitchen.
+20,2,umbrella,Dark gray,car,Black,,,A Dark gray umbrella leaning against a Black car.
+21,2,remote,Light pink,computer mouse,Vivid red,,,A Light pink remote beside a Vivid red computer mouse on the desk.
+22,3,remote,Light grayish red,computer mouse,Grayish red,fan,Vivid yellowish pink,"A Light grayish red remote, a Grayish red computer mouse, and a Vivid yellowish pink fan on the desk."
+23,3,wardrobe,Grayish yellowish pink,bookcase,Vivid reddish orange,desk,Grayish reddish orange,A Grayish yellowish pink wardrobe beside a Vivid reddish orange bookcase and a Grayish reddish orange desk in the room.
+24,3,broccoli,Deep reddish brown,orange,Light grayish reddish brown,apple,Deep orange,A Deep reddish brown broccoli beside a Light grayish reddish brown orange and a Deep orange apple on the counter.
+25,2,backpack,Light orange,umbrella,Strong brown,,,A Light orange backpack leaning against a Strong brown umbrella by the door.
+26,2,boat,Deep orange yellow,jeep,Grayish yellowish brown,,,A Deep orange yellow boat docked near a Grayish yellowish brown jeep at the marina.
+27,2,socks,Vivid greenish yellow,towel,Light greenish yellow,,,A Vivid greenish yellow socks next to a Light greenish yellow towel on the dresser.
+28,3,chair,Grayish greenish yellow,desk,Grayish olive,bookcase,Dark grayish olive,"A Grayish greenish yellow chair, a Grayish olive desk, and a Dark grayish olive bookcase in the office."
+29,2,T-shirt,Light olive gray,jeans,Vivid yellow green,,,A Light olive gray T-shirt and Vivid yellow green jeans folded on the bed.
+30,2,teddybear,Deep yellow green,balloon,Light yellow green,,,A Deep yellow green teddybear holding a Light yellow green balloon on the bed.
+31,3,strawberry,Grayish yellow green,mango,Strong olive green,lemon,Deep yellowish green,"A Grayish yellow green strawberry, a Strong olive green mango, and a Deep yellowish green lemon on a plate."
+32,2,surfboard,Vivid green,kite,Light green,,,A Vivid green surfboard leaning near a Light green kite on the beach.
+33,2,sports ball,Grayish green,baseball glove,Vivid blue,,,A Grayish green sports ball next to a Vivid blue baseball glove on the bench.
+34,3,hat,Deep blue,suitcase,Grayish blue,umbrella,Light bluish gray,"A Deep blue hat, a Grayish blue suitcase, and a Light bluish gray umbrella at the entrance."
+35,2,microwave,Grayish violet,toaster,Vivid purple,,,A Grayish violet microwave next to a Vivid purple toaster on the counter.
+36,3,backpack,Deep purple,umbrella,Light reddish purple,suitcase,Deep purplish pink,"A Deep purple backpack, a Light reddish purple umbrella, and a Deep purplish pink suitcase by the door."
+37,2,dog,Deep purplish red,cat,White,,,A Deep purplish red dog sitting beside a White cat on the floor.
+38,2,sweatshirt,Light gray,pants,Medium gray,,,A Light gray sweatshirt folded beside Medium gray pants on the shelf.
+39,2,vase,Dark gray,clock,Black,,,A Dark gray vase next to a Black clock on the shelf.
+40,2,owl,Light pink,cat,Vivid red,,,A Light pink owl perched above a Vivid red cat at night.
+41,3,bicycle,Light grayish red,motorcycle,Grayish red,airplane,Vivid yellowish pink,"A Light grayish red bicycle, a Grayish red motorcycle, and a Vivid yellowish pink airplane at the airport."
+42,3,cow,Grayish yellowish pink,sheep,Vivid reddish orange,elephant,Grayish reddish orange,"A Grayish yellowish pink cow, a Vivid reddish orange sheep, and a Grayish reddish orange elephant at the zoo."
+43,2,fan,Deep reddish brown,sponge,Light grayish reddish brown,,,A Deep reddish brown fan beside a Light grayish reddish brown sponge on the shelf.
+44,2,airplane,Deep orange,truck,Light orange,,,A Deep orange airplane flying above a Light orange truck on the runway.
+45,2,handbag,Strong brown,suitcase,Deep orange yellow,,,A Strong brown handbag placed on a Deep orange yellow suitcase at the airport.
+46,3,mug,Grayish yellowish brown,teapot,Vivid greenish yellow,candle,Light greenish yellow,"A Grayish yellowish brown mug, a Vivid greenish yellow teapot, and a Light greenish yellow candle on the dining table."
+47,2,mango,Grayish greenish yellow,papaya,Grayish olive,,,A Grayish greenish yellow mango and a Grayish olive papaya in a fruit bowl.
+48,2,turtle,Dark grayish olive,crocodile,Light olive gray,,,A Dark grayish olive turtle resting near a Light olive gray crocodile by the river.
+49,2,wallet,Vivid yellow green,tie,Deep yellow green,,,A Vivid yellow green wallet beside a Deep yellow green tie on the table.
+50,2,hammer,Light yellow green,wrench,Grayish yellow green,,,A Light yellow green hammer next to a Grayish yellow green wrench on the workbench.
+51,2,table,Strong olive green,wardrobe,Deep yellowish green,,,A Strong olive green table beside a Deep yellowish green wardrobe in the bedroom.
+52,3,T-shirt,Vivid green,jeans,Light green,socks,Grayish green,"A Vivid green T-shirt, Light green jeans, and Grayish green socks on the bed."
+53,2,mug,Vivid blue,teapot,Deep blue,,,A Vivid blue mug beside a Deep blue teapot on the table.
+54,2,car,Grayish blue,bus,Light bluish gray,,,A Grayish blue car parked near a Light bluish gray bus on the street.
+55,2,bicycle,Grayish violet,motorcycle,Vivid purple,,,A Grayish violet bicycle next to a Vivid purple motorcycle in the garage.
+56,3,banana,Deep purple,apple,Light reddish purple,orange,Deep purplish pink,"A Deep purple banana, a Light reddish purple apple, and a Deep purplish pink orange in a fruit bowl."
+57,2,hair dryer,Deep purplish red,iron,White,,,A Deep purplish red hair dryer next to an White iron on the bathroom counter.
+58,3,clock,Light gray,vase,Medium gray,book,Dark gray,"A Light gray clock, a Medium gray vase, and a Dark gray book on the shelf."
+59,2,taxi,Black,bus,Light pink,,,A Black taxi and a Light pink bus at the station.
+60,3,microwave,Vivid red,toaster,Light grayish red,refrigerator,Grayish red,"A Vivid red microwave, a Light grayish red toaster, and a Grayish red refrigerator in the kitchen."
+61,2,couch,Vivid yellowish pink,bookcase,Grayish yellowish pink,,,A Vivid yellowish pink couch facing a Grayish yellowish pink bookcase in the living room.
+62,3,pillow,Vivid reddish orange,curtain,Grayish reddish orange,clock,Deep reddish brown,"A Vivid reddish orange pillow on the bed, a Grayish reddish orange curtain by the window, and a Deep reddish brown clock on the wall."
+63,2,football helmet,Light grayish reddish brown,boxing glove,Deep orange,,,A Light grayish reddish brown football helmet beside a Deep orange boxing glove on the shelf.
+64,2,chair,Light orange,desk,Strong brown,,,A Light orange chair and a Strong brown desk in a sunlit room.
+65,2,banana,Deep orange yellow,apple,Grayish yellowish brown,,,A Deep orange yellow banana and a Grayish yellowish brown apple on a wooden table.
+66,3,backpack,Vivid greenish yellow,bicycle,Light greenish yellow,umbrella,Grayish greenish yellow,A Vivid greenish yellow backpack on a Light greenish yellow bicycle next to a Grayish greenish yellow umbrella.
+67,2,book,Grayish olive,mug,Dark grayish olive,,,A Grayish olive book next to a Dark grayish olive mug on the coffee table.
+68,3,hammer,Light olive gray,wrench,Vivid yellow green,saw,Deep yellow green,"A Light olive gray hammer, a Vivid yellow green wrench, and a Deep yellow green saw on the workbench."
+69,2,ruler,Light yellow green,saw,Grayish yellow green,,,A Light yellow green ruler next to a Grayish yellow green saw on the workshop table.
+70,2,candle,Strong olive green,book,Deep yellowish green,,,A Strong olive green candle next to a Deep yellowish green book on the nightstand.
+71,3,handbag,Vivid green,wallet,Light green,hat,Grayish green,A Vivid green handbag with a Light green wallet and a Grayish green hat on the table.
+72,3,car,Vivid blue,bus,Deep blue,truck,Grayish blue,A Vivid blue car parked near a Deep blue bus and a Grayish blue truck on the street.
+73,2,potted plant,Light bluish gray,vase,Grayish violet,,,A Light bluish gray potted plant beside a Grayish violet vase on the windowsill.
+74,2,sink,Vivid purple,trash can,Deep purple,,,A Vivid purple sink beside a Deep purple trash can in the kitchen.
+75,3,skateboard,Light reddish purple,sports ball,Deep purplish pink,baseball bat,Deep purplish red,A Light reddish purple skateboard beside a Deep purplish pink sports ball and a Deep purplish red baseball bat.
+76,3,book,White,mug,Light gray,candle,Medium gray,"A White book, a Light gray mug, and a Medium gray candle on the coffee table."
+77,2,orange,Dark gray,guava,Black,,,A Dark gray orange beside a Black guava on the kitchen counter.
+78,2,lipstick,Light pink,handbag,Vivid red,,,A Light pink lipstick inside a Vivid red handbag on the vanity.
+79,3,tie,Light grayish red,hat,Grayish red,jacket,Vivid yellowish pink,"A Light grayish red tie, a Grayish red hat, and a Vivid yellowish pink jacket on the bed."
+80,2,sports car,Grayish yellowish pink,truck,Vivid reddish orange,,,A Grayish yellowish pink sports car next to a Vivid reddish orange truck in the parking lot.
+81,3,bear,Grayish reddish orange,turtle,Deep reddish brown,crocodile,Light grayish reddish brown,A Grayish reddish orange bear near a Deep reddish brown turtle and a Light grayish reddish brown crocodile by the river.
+82,2,horse,Deep orange,cow,Light orange,,,A Deep orange horse standing with a Light orange cow in the field.
+83,2,parrot,Strong brown,dog,Deep orange yellow,,,A Strong brown parrot perched near a Deep orange yellow dog in the yard.
+84,2,thermos,Grayish yellowish brown,tissue box,Vivid greenish yellow,,,A Grayish yellowish brown thermos next to a Vivid greenish yellow tissue box on the desk.
+85,2,jacket,Light greenish yellow,hat,Grayish greenish yellow,,,A Light greenish yellow jacket hanging beside a Grayish greenish yellow hat on the rack.
+86,2,coat,Grayish olive,hat,Dark grayish olive,,,A Grayish olive coat hanging next to a Dark grayish olive hat on the hook.
+87,2,strawberry,Light olive gray,lemon,Vivid yellow green,,,A Light olive gray strawberry next to a Vivid yellow green lemon on a plate.
+88,2,elephant,Deep yellow green,bear,Light yellow green,,,A Deep yellow green elephant near a Light yellow green bear in the wild.
+89,3,teddybear,Grayish yellow green,balloon,Strong olive green,football helmet,Deep yellowish green,A Grayish yellow green teddybear with a Strong olive green balloon next to a Deep yellowish green football helmet.
+90,2,hat,Vivid green,suitcase,Light green,,,A Vivid green hat resting on a Light green suitcase.
+91,2,minivan,Grayish green,bicycle,Vivid blue,,,A Grayish green minivan parked beside a Vivid blue bicycle in the driveway.
+92,2,snowboard,Deep blue,skis,Grayish blue,,,A Deep blue snowboard resting against Grayish blue skis by the cabin.
+93,2,carrot,Light bluish gray,broccoli,Grayish violet,,,A Light bluish gray carrot and a Grayish violet broccoli on a cutting board.
+94,3,couch,Vivid purple,table,Deep purple,vase,Light reddish purple,A Vivid purple couch with a Deep purple table and a Light reddish purple vase in the living room.
+95,3,boat,Deep purplish pink,jeep,Deep purplish red,airplane,White,"A Deep purplish pink boat, a Deep purplish red jeep, and a White airplane at the lakeside."
+96,2,sheep,Light gray,horse,Medium gray,,,A Light gray sheep grazing next to a Medium gray horse in the meadow.
+97,2,pillow,Dark gray,curtain,Black,,,A Dark gray pillow on the bed near a Black curtain by the window.
+98,2,skateboard,Light pink,frisbee,Vivid red,,,A Light pink skateboard beside a Vivid red frisbee on the grass.
+99,2,tie,Light grayish red,suit,Grayish red,,,A Light grayish red tie draped over a Grayish red suit in the closet.
+100,2,baseball bat,Vivid yellowish pink,golf ball,Grayish yellowish pink,,,A Vivid yellowish pink baseball bat next to a Grayish yellowish pink golf ball on the floor.
+101,2,refrigerator,Vivid reddish orange,oven,Grayish reddish orange,,,A Vivid reddish orange refrigerator beside a Grayish reddish orange oven in the kitchen.
+102,3,dog,Deep reddish brown,cat,Light grayish reddish brown,horse,Deep orange,A Deep reddish brown dog next to a Light grayish reddish brown cat and a Deep orange horse in the yard.
+103,2,duck,Light orange,cow,Strong brown,,,A Light orange duck swimming near a Strong brown cow by the pond.
+104,2,clock,Deep orange yellow,candle,Grayish yellowish brown,,,A Deep orange yellow clock beside a Grayish yellowish brown candle on the mantle.
+105,2,backpack,Vivid greenish yellow,bicycle,Light greenish yellow,,,A Vivid greenish yellow backpack hanging on a Light greenish yellow bicycle.
+106,3,papaya,Grayish greenish yellow,guava,Grayish olive,carrot,Dark grayish olive,"A Grayish greenish yellow papaya, a Grayish olive guava, and a Dark grayish olive carrot on the table."
+107,3,surfboard,Light olive gray,kite,Vivid yellow green,frisbee,Deep yellow green,"A Light olive gray surfboard, a Vivid yellow green kite, and a Deep yellow green frisbee on the beach."
+108,2,knife,Light yellow green,cutting board,Grayish yellow green,,,A Light yellow green knife on a Grayish yellow green cutting board in the kitchen.
+109,2,umbrella,Strong olive green,car,Deep yellowish green,,,A Strong olive green umbrella leaning against a Deep yellowish green car.
+110,2,remote,Vivid green,computer mouse,Light green,,,A Vivid green remote beside a Light green computer mouse on the desk.
+111,3,remote,Grayish green,computer mouse,Vivid blue,fan,Deep blue,"A Grayish green remote, a Vivid blue computer mouse, and a Deep blue fan on the desk."
+112,3,wardrobe,Grayish blue,bookcase,Light bluish gray,desk,Grayish violet,A Grayish blue wardrobe beside a Light bluish gray bookcase and a Grayish violet desk in the room.
+113,3,broccoli,Vivid purple,orange,Deep purple,apple,Light reddish purple,A Vivid purple broccoli beside a Deep purple orange and a Light reddish purple apple on the counter.
+114,2,backpack,Deep purplish pink,umbrella,Deep purplish red,,,A Deep purplish pink backpack leaning against a Deep purplish red umbrella by the door.
+115,2,boat,White,jeep,Light gray,,,A White boat docked near a Light gray jeep at the marina.
+116,2,socks,Medium gray,towel,Dark gray,,,A Medium gray socks next to a Dark gray towel on the dresser.
+117,3,chair,Black,desk,Light pink,bookcase,Vivid red,"A Black chair, a Light pink desk, and a Vivid red bookcase in the office."
+118,2,T-shirt,Light grayish red,jeans,Grayish red,,,A Light grayish red T-shirt and Grayish red jeans folded on the bed.
+119,2,teddybear,Vivid yellowish pink,balloon,Grayish yellowish pink,,,A Vivid yellowish pink teddybear holding a Grayish yellowish pink balloon on the bed.
+120,3,strawberry,Vivid reddish orange,mango,Grayish reddish orange,lemon,Deep reddish brown,"A Vivid reddish orange strawberry, a Grayish reddish orange mango, and a Deep reddish brown lemon on a plate."
+121,2,surfboard,Light grayish reddish brown,kite,Deep orange,,,A Light grayish reddish brown surfboard leaning near a Deep orange kite on the beach.
+122,2,sports ball,Light orange,baseball glove,Strong brown,,,A Light orange sports ball next to a Strong brown baseball glove on the bench.
+123,3,hat,Deep orange yellow,suitcase,Grayish yellowish brown,umbrella,Vivid greenish yellow,"A Deep orange yellow hat, a Grayish yellowish brown suitcase, and a Vivid greenish yellow umbrella at the entrance."
+124,2,microwave,Light greenish yellow,toaster,Grayish greenish yellow,,,A Light greenish yellow microwave next to a Grayish greenish yellow toaster on the counter.
+125,3,backpack,Grayish olive,umbrella,Dark grayish olive,suitcase,Light olive gray,"A Grayish olive backpack, a Dark grayish olive umbrella, and a Light olive gray suitcase by the door."
+126,2,dog,Vivid yellow green,cat,Deep yellow green,,,A Vivid yellow green dog sitting beside a Deep yellow green cat on the floor.
+127,2,sweatshirt,Light yellow green,pants,Grayish yellow green,,,A Light yellow green sweatshirt folded beside Grayish yellow green pants on the shelf.
+128,2,vase,Strong olive green,clock,Deep yellowish green,,,A Strong olive green vase next to a Deep yellowish green clock on the shelf.
+129,2,owl,Vivid green,cat,Light green,,,A Vivid green owl perched above a Light green cat at night.
+130,3,bicycle,Grayish green,motorcycle,Vivid blue,airplane,Deep blue,"A Grayish green bicycle, a Vivid blue motorcycle, and a Deep blue airplane at the airport."
+131,3,cow,Grayish blue,sheep,Light bluish gray,elephant,Grayish violet,"A Grayish blue cow, a Light bluish gray sheep, and a Grayish violet elephant at the zoo."
+132,2,fan,Vivid purple,sponge,Deep purple,,,A Vivid purple fan beside a Deep purple sponge on the shelf.
+133,2,airplane,Light reddish purple,truck,Deep purplish pink,,,A Light reddish purple airplane flying above a Deep purplish pink truck on the runway.
+134,2,handbag,Deep purplish red,suitcase,White,,,A Deep purplish red handbag placed on a White suitcase at the airport.
+135,3,mug,Light gray,teapot,Medium gray,candle,Dark gray,"A Light gray mug, a Medium gray teapot, and a Dark gray candle on the dining table."
+136,2,mango,Black,papaya,Light pink,,,A Black mango and a Light pink papaya in a fruit bowl.
+137,2,turtle,Vivid red,crocodile,Light grayish red,,,A Vivid red turtle resting near a Light grayish red crocodile by the river.
+138,2,wallet,Grayish red,tie,Vivid yellowish pink,,,A Grayish red wallet beside a Vivid yellowish pink tie on the table.
+139,2,hammer,Grayish yellowish pink,wrench,Vivid reddish orange,,,A Grayish yellowish pink hammer next to a Vivid reddish orange wrench on the workbench.
+140,2,table,Grayish reddish orange,wardrobe,Deep reddish brown,,,A Grayish reddish orange table beside a Deep reddish brown wardrobe in the bedroom.
+141,3,T-shirt,Light grayish reddish brown,jeans,Deep orange,socks,Light orange,"A Light grayish reddish brown T-shirt, Deep orange jeans, and Light orange socks on the bed."
+142,2,mug,Strong brown,teapot,Deep orange yellow,,,A Strong brown mug beside a Deep orange yellow teapot on the table.
+143,2,car,Grayish yellowish brown,bus,Vivid greenish yellow,,,A Grayish yellowish brown car parked near a Vivid greenish yellow bus on the street.
+144,2,bicycle,Light greenish yellow,motorcycle,Grayish greenish yellow,,,A Light greenish yellow bicycle next to a Grayish greenish yellow motorcycle in the garage.
+145,3,banana,Grayish olive,apple,Dark grayish olive,orange,Light olive gray,"A Grayish olive banana, a Dark grayish olive apple, and a Light olive gray orange in a fruit bowl."
+146,2,hair dryer,Vivid yellow green,iron,Deep yellow green,,,A Vivid yellow green hair dryer next to an Deep yellow green iron on the bathroom counter.
+147,3,clock,Light yellow green,vase,Grayish yellow green,book,Strong olive green,"A Light yellow green clock, a Grayish yellow green vase, and a Strong olive green book on the shelf."
+148,2,taxi,Deep yellowish green,bus,Vivid green,,,A Deep yellowish green taxi and a Vivid green bus at the station.
+149,3,microwave,Light green,toaster,Grayish green,refrigerator,Vivid blue,"A Light green microwave, a Grayish green toaster, and a Vivid blue refrigerator in the kitchen."
+150,2,couch,Deep blue,bookcase,Grayish blue,,,A Deep blue couch facing a Grayish blue bookcase in the living room.
+151,3,pillow,Light bluish gray,curtain,Grayish violet,clock,Vivid purple,"A Light bluish gray pillow on the bed, a Grayish violet curtain by the window, and a Vivid purple clock on the wall."
+152,2,football helmet,Deep purple,boxing glove,Light reddish purple,,,A Deep purple football helmet beside a Light reddish purple boxing glove on the shelf.
+153,2,chair,Deep purplish pink,desk,Deep purplish red,,,A Deep purplish pink chair and a Deep purplish red desk in a sunlit room.
+154,2,banana,White,apple,Light gray,,,A White banana and a Light gray apple on a wooden table.
+155,3,backpack,Medium gray,bicycle,Dark gray,umbrella,Black,A Medium gray backpack on a Dark gray bicycle next to a Black umbrella.
+156,2,book,Light pink,mug,Vivid red,,,A Light pink book next to a Vivid red mug on the coffee table.
+157,3,hammer,Light grayish red,wrench,Grayish red,saw,Vivid yellowish pink,"A Light grayish red hammer, a Grayish red wrench, and a Vivid yellowish pink saw on the workbench."
+158,2,ruler,Grayish yellowish pink,saw,Vivid reddish orange,,,A Grayish yellowish pink ruler next to a Vivid reddish orange saw on the workshop table.
+159,2,candle,Grayish reddish orange,book,Deep reddish brown,,,A Grayish reddish orange candle next to a Deep reddish brown book on the nightstand.
+160,3,handbag,Light grayish reddish brown,wallet,Deep orange,hat,Light orange,A Light grayish reddish brown handbag with a Deep orange wallet and a Light orange hat on the table.
+161,3,car,Strong brown,bus,Deep orange yellow,truck,Grayish yellowish brown,A Strong brown car parked near a Deep orange yellow bus and a Grayish yellowish brown truck on the street.
+162,2,potted plant,Vivid greenish yellow,vase,Light greenish yellow,,,A Vivid greenish yellow potted plant beside a Light greenish yellow vase on the windowsill.
+163,2,sink,Grayish greenish yellow,trash can,Grayish olive,,,A Grayish greenish yellow sink beside a Grayish olive trash can in the kitchen.
+164,3,skateboard,Dark grayish olive,sports ball,Light olive gray,baseball bat,Vivid yellow green,A Dark grayish olive skateboard beside a Light olive gray sports ball and a Vivid yellow green baseball bat.
+165,3,book,Deep yellow green,mug,Light yellow green,candle,Grayish yellow green,"A Deep yellow green book, a Light yellow green mug, and a Grayish yellow green candle on the coffee table."
+166,2,orange,Strong olive green,guava,Deep yellowish green,,,A Strong olive green orange beside a Deep yellowish green guava on the kitchen counter.
+167,2,lipstick,Vivid green,handbag,Light green,,,A Vivid green lipstick inside a Light green handbag on the vanity.
+168,3,tie,Grayish green,hat,Vivid blue,jacket,Deep blue,"A Grayish green tie, a Vivid blue hat, and a Deep blue jacket on the bed."
+169,2,sports car,Grayish blue,truck,Light bluish gray,,,A Grayish blue sports car next to a Light bluish gray truck in the parking lot.
+170,3,bear,Grayish violet,turtle,Vivid purple,crocodile,Deep purple,A Grayish violet bear near a Vivid purple turtle and a Deep purple crocodile by the river.
+171,2,horse,Light reddish purple,cow,Deep purplish pink,,,A Light reddish purple horse standing with a Deep purplish pink cow in the field.
+172,2,parrot,Deep purplish red,dog,White,,,A Deep purplish red parrot perched near a White dog in the yard.
+173,2,thermos,Light gray,tissue box,Medium gray,,,A Light gray thermos next to a Medium gray tissue box on the desk.
+174,2,jacket,Dark gray,hat,Black,,,A Dark gray jacket hanging beside a Black hat on the rack.
+175,2,coat,Light pink,hat,Vivid red,,,A Light pink coat hanging next to a Vivid red hat on the hook.
+176,2,strawberry,Light grayish red,lemon,Grayish red,,,A Light grayish red strawberry next to a Grayish red lemon on a plate.
+177,2,elephant,Vivid yellowish pink,bear,Grayish yellowish pink,,,A Vivid yellowish pink elephant near a Grayish yellowish pink bear in the wild.
+178,3,teddybear,Vivid reddish orange,balloon,Grayish reddish orange,football helmet,Deep reddish brown,A Vivid reddish orange teddybear with a Grayish reddish orange balloon next to a Deep reddish brown football helmet.
+179,2,hat,Light grayish reddish brown,suitcase,Deep orange,,,A Light grayish reddish brown hat resting on a Deep orange suitcase.
+180,2,minivan,Light orange,bicycle,Strong brown,,,A Light orange minivan parked beside a Strong brown bicycle in the driveway.
+181,2,snowboard,Deep orange yellow,skis,Grayish yellowish brown,,,A Deep orange yellow snowboard resting against Grayish yellowish brown skis by the cabin.
+182,2,carrot,Vivid greenish yellow,broccoli,Light greenish yellow,,,A Vivid greenish yellow carrot and a Light greenish yellow broccoli on a cutting board.
+183,3,couch,Grayish greenish yellow,table,Grayish olive,vase,Dark grayish olive,A Grayish greenish yellow couch with a Grayish olive table and a Dark grayish olive vase in the living room.
+184,3,boat,Light olive gray,jeep,Vivid yellow green,airplane,Deep yellow green,"A Light olive gray boat, a Vivid yellow green jeep, and a Deep yellow green airplane at the lakeside."
+185,2,sheep,Light yellow green,horse,Grayish yellow green,,,A Light yellow green sheep grazing next to a Grayish yellow green horse in the meadow.
+186,2,pillow,Strong olive green,curtain,Deep yellowish green,,,A Strong olive green pillow on the bed near a Deep yellowish green curtain by the window.
+187,2,skateboard,Vivid green,frisbee,Light green,,,A Vivid green skateboard beside a Light green frisbee on the grass.
+188,2,tie,Grayish green,suit,Vivid blue,,,A Grayish green tie draped over a Vivid blue suit in the closet.
+189,2,baseball bat,Deep blue,golf ball,Grayish blue,,,A Deep blue baseball bat next to a Grayish blue golf ball on the floor.
+190,2,refrigerator,Light bluish gray,oven,Grayish violet,,,A Light bluish gray refrigerator beside a Grayish violet oven in the kitchen.
+191,3,dog,Vivid purple,cat,Deep purple,horse,Light reddish purple,A Vivid purple dog next to a Deep purple cat and a Light reddish purple horse in the yard.
+192,2,duck,Deep purplish pink,cow,Deep purplish red,,,A Deep purplish pink duck swimming near a Deep purplish red cow by the pond.
+193,2,clock,White,candle,Light gray,,,A White clock beside a Light gray candle on the mantle.
+194,2,backpack,Medium gray,bicycle,Dark gray,,,A Medium gray backpack hanging on a Dark gray bicycle.
+195,3,papaya,Black,guava,Light pink,carrot,Vivid red,"A Black papaya, a Light pink guava, and a Vivid red carrot on the table."
+196,3,surfboard,Light grayish red,kite,Grayish red,frisbee,Vivid yellowish pink,"A Light grayish red surfboard, a Grayish red kite, and a Vivid yellowish pink frisbee on the beach."
+197,2,knife,Grayish yellowish pink,cutting board,Vivid reddish orange,,,A Grayish yellowish pink knife on a Vivid reddish orange cutting board in the kitchen.
+198,2,umbrella,Grayish reddish orange,car,Deep reddish brown,,,A Grayish reddish orange umbrella leaning against a Deep reddish brown car.
+199,2,remote,Light grayish reddish brown,computer mouse,Deep orange,,,A Light grayish reddish brown remote beside a Deep orange computer mouse on the desk.
+200,3,remote,Light orange,computer mouse,Strong brown,fan,Deep orange yellow,"A Light orange remote, a Strong brown computer mouse, and a Deep orange yellow fan on the desk."
+201,3,wardrobe,Grayish yellowish brown,bookcase,Vivid greenish yellow,desk,Light greenish yellow,A Grayish yellowish brown wardrobe beside a Vivid greenish yellow bookcase and a Light greenish yellow desk in the room.
+202,3,broccoli,Grayish greenish yellow,orange,Grayish olive,apple,Dark grayish olive,A Grayish greenish yellow broccoli beside a Grayish olive orange and a Dark grayish olive apple on the counter.
+203,2,backpack,Light olive gray,umbrella,Vivid yellow green,,,A Light olive gray backpack leaning against a Vivid yellow green umbrella by the door.
+204,2,boat,Deep yellow green,jeep,Light yellow green,,,A Deep yellow green boat docked near a Light yellow green jeep at the marina.
+205,2,socks,Grayish yellow green,towel,Strong olive green,,,A Grayish yellow green socks next to a Strong olive green towel on the dresser.
+206,3,chair,Deep yellowish green,desk,Vivid green,bookcase,Light green,"A Deep yellowish green chair, a Vivid green desk, and a Light green bookcase in the office."
+207,2,T-shirt,Grayish green,jeans,Vivid blue,,,A Grayish green T-shirt and Vivid blue jeans folded on the bed.
+208,2,teddybear,Deep blue,balloon,Grayish blue,,,A Deep blue teddybear holding a Grayish blue balloon on the bed.
+209,3,strawberry,Light bluish gray,mango,Grayish violet,lemon,Vivid purple,"A Light bluish gray strawberry, a Grayish violet mango, and a Vivid purple lemon on a plate."
+210,2,surfboard,Deep purple,kite,Light reddish purple,,,A Deep purple surfboard leaning near a Light reddish purple kite on the beach.
+211,2,sports ball,Deep purplish pink,baseball glove,Deep purplish red,,,A Deep purplish pink sports ball next to a Deep purplish red baseball glove on the bench.
+212,3,hat,White,suitcase,Light gray,umbrella,Medium gray,"A White hat, a Light gray suitcase, and a Medium gray umbrella at the entrance."
+213,2,microwave,Dark gray,toaster,Black,,,A Dark gray microwave next to a Black toaster on the counter.
+214,3,backpack,Light pink,umbrella,Vivid red,suitcase,Light grayish red,"A Light pink backpack, a Vivid red umbrella, and a Light grayish red suitcase by the door."
+215,2,dog,Grayish red,cat,Vivid yellowish pink,,,A Grayish red dog sitting beside a Vivid yellowish pink cat on the floor.
+216,2,sweatshirt,Grayish yellowish pink,pants,Vivid reddish orange,,,A Grayish yellowish pink sweatshirt folded beside Vivid reddish orange pants on the shelf.
+217,2,vase,Grayish reddish orange,clock,Deep reddish brown,,,A Grayish reddish orange vase next to a Deep reddish brown clock on the shelf.
+218,2,owl,Light grayish reddish brown,cat,Deep orange,,,A Light grayish reddish brown owl perched above a Deep orange cat at night.
+219,3,bicycle,Light orange,motorcycle,Strong brown,airplane,Deep orange yellow,"A Light orange bicycle, a Strong brown motorcycle, and a Deep orange yellow airplane at the airport."
+220,3,cow,Grayish yellowish brown,sheep,Vivid greenish yellow,elephant,Light greenish yellow,"A Grayish yellowish brown cow, a Vivid greenish yellow sheep, and a Light greenish yellow elephant at the zoo."
+221,2,fan,Grayish greenish yellow,sponge,Grayish olive,,,A Grayish greenish yellow fan beside a Grayish olive sponge on the shelf.
+222,2,airplane,Dark grayish olive,truck,Light olive gray,,,A Dark grayish olive airplane flying above a Light olive gray truck on the runway.
+223,2,handbag,Vivid yellow green,suitcase,Deep yellow green,,,A Vivid yellow green handbag placed on a Deep yellow green suitcase at the airport.
+224,3,mug,Light yellow green,teapot,Grayish yellow green,candle,Strong olive green,"A Light yellow green mug, a Grayish yellow green teapot, and a Strong olive green candle on the dining table."
+225,2,mango,Deep yellowish green,papaya,Vivid green,,,A Deep yellowish green mango and a Vivid green papaya in a fruit bowl.
+226,2,turtle,Light green,crocodile,Grayish green,,,A Light green turtle resting near a Grayish green crocodile by the river.
+227,2,wallet,Vivid blue,tie,Deep blue,,,A Vivid blue wallet beside a Deep blue tie on the table.
+228,2,hammer,Grayish blue,wrench,Light bluish gray,,,A Grayish blue hammer next to a Light bluish gray wrench on the workbench.
+229,2,table,Grayish violet,wardrobe,Vivid purple,,,A Grayish violet table beside a Vivid purple wardrobe in the bedroom.
+230,3,T-shirt,Deep purple,jeans,Light reddish purple,socks,Deep purplish pink,"A Deep purple T-shirt, Light reddish purple jeans, and Deep purplish pink socks on the bed."
+231,2,mug,Deep purplish red,teapot,White,,,A Deep purplish red mug beside a White teapot on the table.
+232,2,car,Light gray,bus,Medium gray,,,A Light gray car parked near a Medium gray bus on the street.
+233,2,bicycle,Dark gray,motorcycle,Black,,,A Dark gray bicycle next to a Black motorcycle in the garage.
+234,3,banana,Light pink,apple,Vivid red,orange,Light grayish red,"A Light pink banana, a Vivid red apple, and a Light grayish red orange in a fruit bowl."
+235,2,hair dryer,Grayish red,iron,Vivid yellowish pink,,,A Grayish red hair dryer next to an Vivid yellowish pink iron on the bathroom counter.
+236,3,clock,Grayish yellowish pink,vase,Vivid reddish orange,book,Grayish reddish orange,"A Grayish yellowish pink clock, a Vivid reddish orange vase, and a Grayish reddish orange book on the shelf."
+237,2,taxi,Deep reddish brown,bus,Light grayish reddish brown,,,A Deep reddish brown taxi and a Light grayish reddish brown bus at the station.
+238,3,microwave,Deep orange,toaster,Light orange,refrigerator,Strong brown,"A Deep orange microwave, a Light orange toaster, and a Strong brown refrigerator in the kitchen."
+239,2,couch,Deep orange yellow,bookcase,Grayish yellowish brown,,,A Deep orange yellow couch facing a Grayish yellowish brown bookcase in the living room.
+240,3,pillow,Vivid greenish yellow,curtain,Light greenish yellow,clock,Grayish greenish yellow,"A Vivid greenish yellow pillow on the bed, a Light greenish yellow curtain by the window, and a Grayish greenish yellow clock on the wall."
+241,2,football helmet,Grayish olive,boxing glove,Dark grayish olive,,,A Grayish olive football helmet beside a Dark grayish olive boxing glove on the shelf.
+242,2,chair,Light olive gray,desk,Vivid yellow green,,,A Light olive gray chair and a Vivid yellow green desk in a sunlit room.
+243,2,banana,Deep yellow green,apple,Light yellow green,,,A Deep yellow green banana and a Light yellow green apple on a wooden table.
+244,3,backpack,Grayish yellow green,bicycle,Strong olive green,umbrella,Deep yellowish green,A Grayish yellow green backpack on a Strong olive green bicycle next to a Deep yellowish green umbrella.
+245,2,book,Vivid green,mug,Light green,,,A Vivid green book next to a Light green mug on the coffee table.
+246,3,hammer,Grayish green,wrench,Vivid blue,saw,Deep blue,"A Grayish green hammer, a Vivid blue wrench, and a Deep blue saw on the workbench."
+247,2,ruler,Grayish blue,saw,Light bluish gray,,,A Grayish blue ruler next to a Light bluish gray saw on the workshop table.
+248,2,candle,Grayish violet,book,Vivid purple,,,A Grayish violet candle next to a Vivid purple book on the nightstand.
+249,3,handbag,Deep purple,wallet,Light reddish purple,hat,Deep purplish pink,A Deep purple handbag with a Light reddish purple wallet and a Deep purplish pink hat on the table.
+250,3,car,Deep purplish red,bus,White,truck,Light gray,A Deep purplish red car parked near a White bus and a Light gray truck on the street.
+251,2,potted plant,Medium gray,vase,Dark gray,,,A Medium gray potted plant beside a Dark gray vase on the windowsill.
+252,2,sink,Black,trash can,Light pink,,,A Black sink beside a Light pink trash can in the kitchen.
+253,3,skateboard,Vivid red,sports ball,Light grayish red,baseball bat,Grayish red,A Vivid red skateboard beside a Light grayish red sports ball and a Grayish red baseball bat.
+254,3,book,Vivid yellowish pink,mug,Grayish yellowish pink,candle,Vivid reddish orange,"A Vivid yellowish pink book, a Grayish yellowish pink mug, and a Vivid reddish orange candle on the coffee table."
+255,2,orange,Grayish reddish orange,guava,Deep reddish brown,,,A Grayish reddish orange orange beside a Deep reddish brown guava on the kitchen counter.
+256,2,lipstick,Light grayish reddish brown,handbag,Deep orange,,,A Light grayish reddish brown lipstick inside a Deep orange handbag on the vanity.
+257,3,tie,Light orange,hat,Strong brown,jacket,Deep orange yellow,"A Light orange tie, a Strong brown hat, and a Deep orange yellow jacket on the bed."
+258,2,sports car,Grayish yellowish brown,truck,Vivid greenish yellow,,,A Grayish yellowish brown sports car next to a Vivid greenish yellow truck in the parking lot.
+259,3,bear,Light greenish yellow,turtle,Grayish greenish yellow,crocodile,Grayish olive,A Light greenish yellow bear near a Grayish greenish yellow turtle and a Grayish olive crocodile by the river.
+260,2,horse,Dark grayish olive,cow,Light olive gray,,,A Dark grayish olive horse standing with a Light olive gray cow in the field.
+261,2,parrot,Vivid yellow green,dog,Deep yellow green,,,A Vivid yellow green parrot perched near a Deep yellow green dog in the yard.
+262,2,thermos,Light yellow green,tissue box,Grayish yellow green,,,A Light yellow green thermos next to a Grayish yellow green tissue box on the desk.
+263,2,jacket,Strong olive green,hat,Deep yellowish green,,,A Strong olive green jacket hanging beside a Deep yellowish green hat on the rack.
+264,2,coat,Vivid green,hat,Light green,,,A Vivid green coat hanging next to a Light green hat on the hook.
+265,2,strawberry,Grayish green,lemon,Vivid blue,,,A Grayish green strawberry next to a Vivid blue lemon on a plate.
+266,2,elephant,Deep blue,bear,Grayish blue,,,A Deep blue elephant near a Grayish blue bear in the wild.
+267,3,teddybear,Light bluish gray,balloon,Grayish violet,football helmet,Vivid purple,A Light bluish gray teddybear with a Grayish violet balloon next to a Vivid purple football helmet.
+268,2,hat,Deep purple,suitcase,Light reddish purple,,,A Deep purple hat resting on a Light reddish purple suitcase.
+269,2,minivan,Deep purplish pink,bicycle,Deep purplish red,,,A Deep purplish pink minivan parked beside a Deep purplish red bicycle in the driveway.
+270,2,snowboard,White,skis,Light gray,,,A White snowboard resting against Light gray skis by the cabin.
+271,2,carrot,Medium gray,broccoli,Dark gray,,,A Medium gray carrot and a Dark gray broccoli on a cutting board.
+272,3,couch,Black,table,Light pink,vase,Vivid red,A Black couch with a Light pink table and a Vivid red vase in the living room.
+273,3,boat,Light grayish red,jeep,Grayish red,airplane,Vivid yellowish pink,"A Light grayish red boat, a Grayish red jeep, and a Vivid yellowish pink airplane at the lakeside."
+274,2,sheep,Grayish yellowish pink,horse,Vivid reddish orange,,,A Grayish yellowish pink sheep grazing next to a Vivid reddish orange horse in the meadow.
+275,2,pillow,Grayish reddish orange,curtain,Deep reddish brown,,,A Grayish reddish orange pillow on the bed near a Deep reddish brown curtain by the window.
+276,2,skateboard,Light grayish reddish brown,frisbee,Deep orange,,,A Light grayish reddish brown skateboard beside a Deep orange frisbee on the grass.
+277,2,tie,Light orange,suit,Strong brown,,,A Light orange tie draped over a Strong brown suit in the closet.
+278,2,baseball bat,Deep orange yellow,golf ball,Grayish yellowish brown,,,A Deep orange yellow baseball bat next to a Grayish yellowish brown golf ball on the floor.
+279,2,refrigerator,Vivid greenish yellow,oven,Light greenish yellow,,,A Vivid greenish yellow refrigerator beside a Light greenish yellow oven in the kitchen.
+280,3,dog,Grayish greenish yellow,cat,Grayish olive,horse,Dark grayish olive,A Grayish greenish yellow dog next to a Grayish olive cat and a Dark grayish olive horse in the yard.
+281,2,duck,Light olive gray,cow,Vivid yellow green,,,A Light olive gray duck swimming near a Vivid yellow green cow by the pond.
+282,2,clock,Deep yellow green,candle,Light yellow green,,,A Deep yellow green clock beside a Light yellow green candle on the mantle.
+283,2,backpack,Grayish yellow green,bicycle,Strong olive green,,,A Grayish yellow green backpack hanging on a Strong olive green bicycle.
+284,3,papaya,Deep yellowish green,guava,Vivid green,carrot,Light green,"A Deep yellowish green papaya, a Vivid green guava, and a Light green carrot on the table."
+285,3,surfboard,Grayish green,kite,Vivid blue,frisbee,Deep blue,"A Grayish green surfboard, a Vivid blue kite, and a Deep blue frisbee on the beach."
+286,2,knife,Grayish blue,cutting board,Light bluish gray,,,A Grayish blue knife on a Light bluish gray cutting board in the kitchen.
+287,2,umbrella,Grayish violet,car,Vivid purple,,,A Grayish violet umbrella leaning against a Vivid purple car.
+288,2,remote,Deep purple,computer mouse,Light reddish purple,,,A Deep purple remote beside a Light reddish purple computer mouse on the desk.
+289,3,remote,Deep purplish pink,computer mouse,Deep purplish red,fan,White,"A Deep purplish pink remote, a Deep purplish red computer mouse, and a White fan on the desk."
+290,3,wardrobe,Light gray,bookcase,Medium gray,desk,Dark gray,A Light gray wardrobe beside a Medium gray bookcase and a Dark gray desk in the room.
+291,3,broccoli,Black,orange,Light pink,apple,Vivid red,A Black broccoli beside a Light pink orange and a Vivid red apple on the counter.
+292,2,backpack,Light grayish red,umbrella,Grayish red,,,A Light grayish red backpack leaning against a Grayish red umbrella by the door.
+293,2,boat,Vivid yellowish pink,jeep,Grayish yellowish pink,,,A Vivid yellowish pink boat docked near a Grayish yellowish pink jeep at the marina.
+294,2,socks,Vivid reddish orange,towel,Grayish reddish orange,,,A Vivid reddish orange socks next to a Grayish reddish orange towel on the dresser.
+295,3,chair,Deep reddish brown,desk,Light grayish reddish brown,bookcase,Deep orange,"A Deep reddish brown chair, a Light grayish reddish brown desk, and a Deep orange bookcase in the office."
+296,2,T-shirt,Light orange,jeans,Strong brown,,,A Light orange T-shirt and Strong brown jeans folded on the bed.
+297,2,teddybear,Deep orange yellow,balloon,Grayish yellowish brown,,,A Deep orange yellow teddybear holding a Grayish yellowish brown balloon on the bed.
+298,3,strawberry,Vivid greenish yellow,mango,Light greenish yellow,lemon,Grayish greenish yellow,"A Vivid greenish yellow strawberry, a Light greenish yellow mango, and a Grayish greenish yellow lemon on a plate."
+299,2,surfboard,Grayish olive,kite,Dark grayish olive,,,A Grayish olive surfboard leaning near a Dark grayish olive kite on the beach.
+300,2,sports ball,Light olive gray,baseball glove,Vivid yellow green,,,A Light olive gray sports ball next to a Vivid yellow green baseball glove on the bench.
+301,3,hat,Deep yellow green,suitcase,Light yellow green,umbrella,Grayish yellow green,"A Deep yellow green hat, a Light yellow green suitcase, and a Grayish yellow green umbrella at the entrance."
+302,2,microwave,Strong olive green,toaster,Deep yellowish green,,,A Strong olive green microwave next to a Deep yellowish green toaster on the counter.
+303,3,backpack,Vivid green,umbrella,Light green,suitcase,Grayish green,"A Vivid green backpack, a Light green umbrella, and a Grayish green suitcase by the door."
+304,2,dog,Vivid blue,cat,Deep blue,,,A Vivid blue dog sitting beside a Deep blue cat on the floor.
+305,2,sweatshirt,Grayish blue,pants,Light bluish gray,,,A Grayish blue sweatshirt folded beside Light bluish gray pants on the shelf.
+306,2,vase,Grayish violet,clock,Vivid purple,,,A Grayish violet vase next to a Vivid purple clock on the shelf.
+307,2,owl,Deep purple,cat,Light reddish purple,,,A Deep purple owl perched above a Light reddish purple cat at night.
+308,3,bicycle,Deep purplish pink,motorcycle,Deep purplish red,airplane,White,"A Deep purplish pink bicycle, a Deep purplish red motorcycle, and a White airplane at the airport."
+309,3,cow,Light gray,sheep,Medium gray,elephant,Dark gray,"A Light gray cow, a Medium gray sheep, and a Dark gray elephant at the zoo."
+310,2,fan,Black,sponge,Light pink,,,A Black fan beside a Light pink sponge on the shelf.
+311,2,airplane,Vivid red,truck,Light grayish red,,,A Vivid red airplane flying above a Light grayish red truck on the runway.
+312,2,handbag,Grayish red,suitcase,Vivid yellowish pink,,,A Grayish red handbag placed on a Vivid yellowish pink suitcase at the airport.
+313,3,mug,Grayish yellowish pink,teapot,Vivid reddish orange,candle,Grayish reddish orange,"A Grayish yellowish pink mug, a Vivid reddish orange teapot, and a Grayish reddish orange candle on the dining table."
+314,2,mango,Deep reddish brown,papaya,Light grayish reddish brown,,,A Deep reddish brown mango and a Light grayish reddish brown papaya in a fruit bowl.
+315,2,turtle,Deep orange,crocodile,Light orange,,,A Deep orange turtle resting near a Light orange crocodile by the river.
+316,2,wallet,Strong brown,tie,Deep orange yellow,,,A Strong brown wallet beside a Deep orange yellow tie on the table.
+317,2,hammer,Grayish yellowish brown,wrench,Vivid greenish yellow,,,A Grayish yellowish brown hammer next to a Vivid greenish yellow wrench on the workbench.
+318,2,table,Light greenish yellow,wardrobe,Grayish greenish yellow,,,A Light greenish yellow table beside a Grayish greenish yellow wardrobe in the bedroom.
+319,3,T-shirt,Grayish olive,jeans,Dark grayish olive,socks,Light olive gray,"A Grayish olive T-shirt, Dark grayish olive jeans, and Light olive gray socks on the bed."
+320,2,mug,Vivid yellow green,teapot,Deep yellow green,,,A Vivid yellow green mug beside a Deep yellow green teapot on the table.
+321,2,car,Light yellow green,bus,Grayish yellow green,,,A Light yellow green car parked near a Grayish yellow green bus on the street.
+322,2,bicycle,Strong olive green,motorcycle,Deep yellowish green,,,A Strong olive green bicycle next to a Deep yellowish green motorcycle in the garage.
+323,3,banana,Vivid green,apple,Light green,orange,Grayish green,"A Vivid green banana, a Light green apple, and a Grayish green orange in a fruit bowl."
+324,2,hair dryer,Vivid blue,iron,Deep blue,,,A Vivid blue hair dryer next to an Deep blue iron on the bathroom counter.
+325,3,clock,Grayish blue,vase,Light bluish gray,book,Grayish violet,"A Grayish blue clock, a Light bluish gray vase, and a Grayish violet book on the shelf."
+326,2,taxi,Vivid purple,bus,Deep purple,,,A Vivid purple taxi and a Deep purple bus at the station.
+327,3,microwave,Light reddish purple,toaster,Deep purplish pink,refrigerator,Deep purplish red,"A Light reddish purple microwave, a Deep purplish pink toaster, and a Deep purplish red refrigerator in the kitchen."
+328,2,couch,White,bookcase,Light gray,,,A White couch facing a Light gray bookcase in the living room.
+329,3,pillow,Medium gray,curtain,Dark gray,clock,Black,"A Medium gray pillow on the bed, a Dark gray curtain by the window, and a Black clock on the wall."
+330,2,football helmet,Light pink,boxing glove,Vivid red,,,A Light pink football helmet beside a Vivid red boxing glove on the shelf.
+331,2,chair,Light grayish red,desk,Grayish red,,,A Light grayish red chair and a Grayish red desk in a sunlit room.
+332,2,banana,Vivid yellowish pink,apple,Grayish yellowish pink,,,A Vivid yellowish pink banana and a Grayish yellowish pink apple on a wooden table.
+333,3,backpack,Vivid reddish orange,bicycle,Grayish reddish orange,umbrella,Deep reddish brown,A Vivid reddish orange backpack on a Grayish reddish orange bicycle next to a Deep reddish brown umbrella.
+334,2,book,Light grayish reddish brown,mug,Deep orange,,,A Light grayish reddish brown book next to a Deep orange mug on the coffee table.
+335,3,hammer,Light orange,wrench,Strong brown,saw,Deep orange yellow,"A Light orange hammer, a Strong brown wrench, and a Deep orange yellow saw on the workbench."
+336,2,ruler,Grayish yellowish brown,saw,Vivid greenish yellow,,,A Grayish yellowish brown ruler next to a Vivid greenish yellow saw on the workshop table.
+337,2,candle,Light greenish yellow,book,Grayish greenish yellow,,,A Light greenish yellow candle next to a Grayish greenish yellow book on the nightstand.
+338,3,handbag,Grayish olive,wallet,Dark grayish olive,hat,Light olive gray,A Grayish olive handbag with a Dark grayish olive wallet and a Light olive gray hat on the table.
+339,3,car,Vivid yellow green,bus,Deep yellow green,truck,Light yellow green,A Vivid yellow green car parked near a Deep yellow green bus and a Light yellow green truck on the street.
+340,2,potted plant,Grayish yellow green,vase,Strong olive green,,,A Grayish yellow green potted plant beside a Strong olive green vase on the windowsill.
+341,2,sink,Deep yellowish green,trash can,Vivid green,,,A Deep yellowish green sink beside a Vivid green trash can in the kitchen.
+342,3,skateboard,Light green,sports ball,Grayish green,baseball bat,Vivid blue,A Light green skateboard beside a Grayish green sports ball and a Vivid blue baseball bat.
+343,3,book,Deep blue,mug,Grayish blue,candle,Light bluish gray,"A Deep blue book, a Grayish blue mug, and a Light bluish gray candle on the coffee table."
+344,2,orange,Grayish violet,guava,Vivid purple,,,A Grayish violet orange beside a Vivid purple guava on the kitchen counter.
+345,2,lipstick,Deep purple,handbag,Light reddish purple,,,A Deep purple lipstick inside a Light reddish purple handbag on the vanity.
+346,3,tie,Deep purplish pink,hat,Deep purplish red,jacket,White,"A Deep purplish pink tie, a Deep purplish red hat, and a White jacket on the bed."
+347,2,sports car,Light gray,truck,Medium gray,,,A Light gray sports car next to a Medium gray truck in the parking lot.
+348,3,bear,Dark gray,turtle,Black,crocodile,Light pink,A Dark gray bear near a Black turtle and a Light pink crocodile by the river.
+349,2,horse,Vivid red,cow,Light grayish red,,,A Vivid red horse standing with a Light grayish red cow in the field.
+350,2,parrot,Grayish red,dog,Vivid yellowish pink,,,A Grayish red parrot perched near a Vivid yellowish pink dog in the yard.
+351,2,thermos,Grayish yellowish pink,tissue box,Vivid reddish orange,,,A Grayish yellowish pink thermos next to a Vivid reddish orange tissue box on the desk.
+352,2,jacket,Grayish reddish orange,hat,Deep reddish brown,,,A Grayish reddish orange jacket hanging beside a Deep reddish brown hat on the rack.
+353,2,coat,Light grayish reddish brown,hat,Deep orange,,,A Light grayish reddish brown coat hanging next to a Deep orange hat on the hook.
+354,2,strawberry,Light orange,lemon,Strong brown,,,A Light orange strawberry next to a Strong brown lemon on a plate.
+355,2,elephant,Deep orange yellow,bear,Grayish yellowish brown,,,A Deep orange yellow elephant near a Grayish yellowish brown bear in the wild.
+356,3,teddybear,Vivid greenish yellow,balloon,Light greenish yellow,football helmet,Grayish greenish yellow,A Vivid greenish yellow teddybear with a Light greenish yellow balloon next to a Grayish greenish yellow football helmet.
+357,2,hat,Grayish olive,suitcase,Dark grayish olive,,,A Grayish olive hat resting on a Dark grayish olive suitcase.
+358,2,minivan,Light olive gray,bicycle,Vivid yellow green,,,A Light olive gray minivan parked beside a Vivid yellow green bicycle in the driveway.
+359,2,snowboard,Deep yellow green,skis,Light yellow green,,,A Deep yellow green snowboard resting against Light yellow green skis by the cabin.
+360,2,carrot,Grayish yellow green,broccoli,Strong olive green,,,A Grayish yellow green carrot and a Strong olive green broccoli on a cutting board.
+361,3,couch,Deep yellowish green,table,Vivid green,vase,Light green,A Deep yellowish green couch with a Vivid green table and a Light green vase in the living room.
+362,3,boat,Grayish green,jeep,Vivid blue,airplane,Deep blue,"A Grayish green boat, a Vivid blue jeep, and a Deep blue airplane at the lakeside."
+363,2,sheep,Grayish blue,horse,Light bluish gray,,,A Grayish blue sheep grazing next to a Light bluish gray horse in the meadow.
+364,2,pillow,Grayish violet,curtain,Vivid purple,,,A Grayish violet pillow on the bed near a Vivid purple curtain by the window.
+365,2,skateboard,Deep purple,frisbee,Light reddish purple,,,A Deep purple skateboard beside a Light reddish purple frisbee on the grass.
+366,2,tie,Deep purplish pink,suit,Deep purplish red,,,A Deep purplish pink tie draped over a Deep purplish red suit in the closet.
+367,2,baseball bat,White,golf ball,Light gray,,,A White baseball bat next to a Light gray golf ball on the floor.
+368,2,refrigerator,Medium gray,oven,Dark gray,,,A Medium gray refrigerator beside a Dark gray oven in the kitchen.
+369,3,dog,Black,cat,Light pink,horse,Vivid red,A Black dog next to a Light pink cat and a Vivid red horse in the yard.
+370,2,duck,Light grayish red,cow,Grayish red,,,A Light grayish red duck swimming near a Grayish red cow by the pond.
+371,2,clock,Vivid yellowish pink,candle,Grayish yellowish pink,,,A Vivid yellowish pink clock beside a Grayish yellowish pink candle on the mantle.
+372,2,backpack,Vivid reddish orange,bicycle,Grayish reddish orange,,,A Vivid reddish orange backpack hanging on a Grayish reddish orange bicycle.
+373,3,papaya,Deep reddish brown,guava,Light grayish reddish brown,carrot,Deep orange,"A Deep reddish brown papaya, a Light grayish reddish brown guava, and a Deep orange carrot on the table."
+374,3,surfboard,Light orange,kite,Strong brown,frisbee,Deep orange yellow,"A Light orange surfboard, a Strong brown kite, and a Deep orange yellow frisbee on the beach."
+375,2,knife,Grayish yellowish brown,cutting board,Vivid greenish yellow,,,A Grayish yellowish brown knife on a Vivid greenish yellow cutting board in the kitchen.
+376,2,umbrella,Light greenish yellow,car,Grayish greenish yellow,,,A Light greenish yellow umbrella leaning against a Grayish greenish yellow car.
+377,2,remote,Grayish olive,computer mouse,Dark grayish olive,,,A Grayish olive remote beside a Dark grayish olive computer mouse on the desk.
+378,3,remote,Light olive gray,computer mouse,Vivid yellow green,fan,Deep yellow green,"A Light olive gray remote, a Vivid yellow green computer mouse, and a Deep yellow green fan on the desk."
+379,3,wardrobe,Light yellow green,bookcase,Grayish yellow green,desk,Strong olive green,A Light yellow green wardrobe beside a Grayish yellow green bookcase and a Strong olive green desk in the room.
+380,3,broccoli,Deep yellowish green,orange,Vivid green,apple,Light green,A Deep yellowish green broccoli beside a Vivid green orange and a Light green apple on the counter.
+381,2,backpack,Grayish green,umbrella,Vivid blue,,,A Grayish green backpack leaning against a Vivid blue umbrella by the door.
+382,2,boat,Deep blue,jeep,Grayish blue,,,A Deep blue boat docked near a Grayish blue jeep at the marina.
+383,2,socks,Light bluish gray,towel,Grayish violet,,,A Light bluish gray socks next to a Grayish violet towel on the dresser.
+384,3,chair,Vivid purple,desk,Deep purple,bookcase,Light reddish purple,"A Vivid purple chair, a Deep purple desk, and a Light reddish purple bookcase in the office."
+385,2,T-shirt,Deep purplish pink,jeans,Deep purplish red,,,A Deep purplish pink T-shirt and Deep purplish red jeans folded on the bed.
+386,2,teddybear,White,balloon,Light gray,,,A White teddybear holding a Light gray balloon on the bed.
+387,3,strawberry,Medium gray,mango,Dark gray,lemon,Black,"A Medium gray strawberry, a Dark gray mango, and a Black lemon on a plate."
+388,2,surfboard,Light pink,kite,Vivid red,,,A Light pink surfboard leaning near a Vivid red kite on the beach.
+389,2,sports ball,Light grayish red,baseball glove,Grayish red,,,A Light grayish red sports ball next to a Grayish red baseball glove on the bench.
+390,3,hat,Vivid yellowish pink,suitcase,Grayish yellowish pink,umbrella,Vivid reddish orange,"A Vivid yellowish pink hat, a Grayish yellowish pink suitcase, and a Vivid reddish orange umbrella at the entrance."
+391,2,microwave,Grayish reddish orange,toaster,Deep reddish brown,,,A Grayish reddish orange microwave next to a Deep reddish brown toaster on the counter.
+392,3,backpack,Light grayish reddish brown,umbrella,Deep orange,suitcase,Light orange,"A Light grayish reddish brown backpack, a Deep orange umbrella, and a Light orange suitcase by the door."
+393,2,dog,Strong brown,cat,Deep orange yellow,,,A Strong brown dog sitting beside a Deep orange yellow cat on the floor.
+394,2,sweatshirt,Grayish yellowish brown,pants,Vivid greenish yellow,,,A Grayish yellowish brown sweatshirt folded beside Vivid greenish yellow pants on the shelf.
+395,2,vase,Light greenish yellow,clock,Grayish greenish yellow,,,A Light greenish yellow vase next to a Grayish greenish yellow clock on the shelf.
+396,2,owl,Grayish olive,cat,Dark grayish olive,,,A Grayish olive owl perched above a Dark grayish olive cat at night.
+397,3,bicycle,Light olive gray,motorcycle,Vivid yellow green,airplane,Deep yellow green,"A Light olive gray bicycle, a Vivid yellow green motorcycle, and a Deep yellow green airplane at the airport."
+398,3,cow,Light yellow green,sheep,Grayish yellow green,elephant,Strong olive green,"A Light yellow green cow, a Grayish yellow green sheep, and a Strong olive green elephant at the zoo."
+399,2,fan,Deep yellowish green,sponge,Vivid green,,,A Deep yellowish green fan beside a Vivid green sponge on the shelf.
+400,2,airplane,Light green,truck,Grayish green,,,A Light green airplane flying above a Grayish green truck on the runway.

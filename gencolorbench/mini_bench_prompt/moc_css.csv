@@ -1,0 +1,351 @@
+id,color_count,object1,color1,object2,color2,object3,color3,prompt
+1,2,hat,crimson,suitcase,bisque,,,A crimson hat resting on a bisque suitcase.
+2,2,minivan,light yellow,bicycle,wheat,,,A light yellow minivan parked beside a wheat bicycle in the driveway.
+3,2,snowboard,sienna,skis,burly wood,,,A sienna snowboard resting against burly wood skis by the cabin.
+4,2,carrot,papaya whip,broccoli,brown,,,A papaya whip carrot and a brown broccoli on a cutting board.
+5,3,couch,navajo white,table,rosy brown,vase,orange,A navajo white couch with a rosy brown table and a orange vase in the living room.
+6,3,boat,dark golden rod,jeep,orange red,airplane,khaki,"A dark golden rod boat, a orange red jeep, and a khaki airplane at the lakeside."
+7,2,sheep,chartreuse,horse,yellow green,,,A chartreuse sheep grazing next to a yellow green horse in the meadow.
+8,2,pillow,dark sea green,curtain,pale green,,,A dark sea green pillow on the bed near a pale green curtain by the window.
+9,2,skateboard,dark slate grey,frisbee,medium sea green,,,A dark slate grey skateboard beside a medium sea green frisbee on the grass.
+10,2,tie,pale turquoise,suit,aqua,,,A pale turquoise tie draped over a aqua suit in the closet.
+11,2,baseball bat,medium spring green,golf ball,dark slate gray,,,A medium spring green baseball bat next to a dark slate gray golf ball on the floor.
+12,2,refrigerator,powder blue,oven,sky blue,,,A powder blue refrigerator beside a sky blue oven in the kitchen.
+13,3,dog,medium blue,cat,light slate gray,horse,medium slate blue,A medium blue dog next to a light slate gray cat and a medium slate blue horse in the yard.
+14,2,duck,magenta,cow,blue violet,,,A magenta duck swimming near a blue violet cow by the pond.
+15,2,clock,orchid,candle,purple,,,A orchid clock beside a purple candle on the mantle.
+16,2,backpack,dark orchid,bicycle,sea shell,,,A dark orchid backpack hanging on a sea shell bicycle.
+17,3,papaya,honey dew,guava,ghost white,carrot,floral white,"A honey dew papaya, a ghost white guava, and a floral white carrot on the table."
+18,3,surfboard,dark gray,kite,dim gray,frisbee,thistle,"A dark gray surfboard, a dim gray kite, and a thistle frisbee on the beach."
+19,2,knife,black,cutting board,cornsilk,,,A black knife on a cornsilk cutting board in the kitchen.
+20,2,umbrella,light blue,car,cyan,,,A light blue umbrella leaning against a cyan car.
+21,2,remote,crimson,computer mouse,bisque,,,A crimson remote beside a bisque computer mouse on the desk.
+22,3,remote,light yellow,computer mouse,wheat,fan,sienna,"A light yellow remote, a wheat computer mouse, and a sienna fan on the desk."
+23,3,wardrobe,burly wood,bookcase,papaya whip,desk,brown,A burly wood wardrobe beside a papaya whip bookcase and a brown desk in the room.
+24,3,broccoli,navajo white,orange,rosy brown,apple,orange,A navajo white broccoli beside a rosy brown orange and a orange apple on the counter.
+25,2,backpack,dark golden rod,umbrella,orange red,,,A dark golden rod backpack leaning against a orange red umbrella by the door.
+26,2,boat,khaki,jeep,chartreuse,,,A khaki boat docked near a chartreuse jeep at the marina.
+27,2,socks,yellow green,towel,dark sea green,,,A yellow green socks next to a dark sea green towel on the dresser.
+28,3,chair,pale green,desk,dark slate grey,bookcase,medium sea green,"A pale green chair, a dark slate grey desk, and a medium sea green bookcase in the office."
+29,2,T-shirt,pale turquoise,jeans,aqua,,,A pale turquoise T-shirt and aqua jeans folded on the bed.
+30,2,teddybear,medium spring green,balloon,dark slate gray,,,A medium spring green teddybear holding a dark slate gray balloon on the bed.
+31,3,strawberry,powder blue,mango,sky blue,lemon,medium blue,"A powder blue strawberry, a sky blue mango, and a medium blue lemon on a plate."
+32,2,surfboard,light slate gray,kite,medium slate blue,,,A light slate gray surfboard leaning near a medium slate blue kite on the beach.
+33,2,sports ball,magenta,baseball glove,blue violet,,,A magenta sports ball next to a blue violet baseball glove on the bench.
+34,3,hat,orchid,suitcase,purple,umbrella,dark orchid,"A orchid hat, a purple suitcase, and a dark orchid umbrella at the entrance."
+35,2,microwave,sea shell,toaster,honey dew,,,A sea shell microwave next to a honey dew toaster on the counter.
+36,3,backpack,ghost white,umbrella,floral white,suitcase,dark gray,"A ghost white backpack, a floral white umbrella, and a dark gray suitcase by the door."
+37,2,dog,dim gray,cat,thistle,,,A dim gray dog sitting beside a thistle cat on the floor.
+38,2,sweatshirt,black,pants,cornsilk,,,A black sweatshirt folded beside cornsilk pants on the shelf.
+39,2,vase,light blue,clock,cyan,,,A light blue vase next to a cyan clock on the shelf.
+40,2,owl,crimson,cat,bisque,,,A crimson owl perched above a bisque cat at night.
+41,3,bicycle,light yellow,motorcycle,wheat,airplane,sienna,"A light yellow bicycle, a wheat motorcycle, and a sienna airplane at the airport."
+42,3,cow,burly wood,sheep,papaya whip,elephant,brown,"A burly wood cow, a papaya whip sheep, and a brown elephant at the zoo."
+43,2,fan,navajo white,sponge,rosy brown,,,A navajo white fan beside a rosy brown sponge on the shelf.
+44,2,airplane,orange,truck,dark golden rod,,,A orange airplane flying above a dark golden rod truck on the runway.
+45,2,handbag,orange red,suitcase,khaki,,,A orange red handbag placed on a khaki suitcase at the airport.
+46,3,mug,chartreuse,teapot,yellow green,candle,dark sea green,"A chartreuse mug, a yellow green teapot, and a dark sea green candle on the dining table."
+47,2,mango,pale green,papaya,dark slate grey,,,A pale green mango and a dark slate grey papaya in a fruit bowl.
+48,2,turtle,medium sea green,crocodile,pale turquoise,,,A medium sea green turtle resting near a pale turquoise crocodile by the river.
+49,2,wallet,aqua,tie,medium spring green,,,A aqua wallet beside a medium spring green tie on the table.
+50,2,hammer,dark slate gray,wrench,powder blue,,,A dark slate gray hammer next to a powder blue wrench on the workbench.
+51,2,table,sky blue,wardrobe,medium blue,,,A sky blue table beside a medium blue wardrobe in the bedroom.
+52,3,T-shirt,light slate gray,jeans,medium slate blue,socks,magenta,"A light slate gray T-shirt, medium slate blue jeans, and magenta socks on the bed."
+53,2,mug,blue violet,teapot,orchid,,,A blue violet mug beside a orchid teapot on the table.
+54,2,car,purple,bus,dark orchid,,,A purple car parked near a dark orchid bus on the street.
+55,2,bicycle,sea shell,motorcycle,honey dew,,,A sea shell bicycle next to a honey dew motorcycle in the garage.
+56,3,banana,ghost white,apple,floral white,orange,dark gray,"A ghost white banana, a floral white apple, and a dark gray orange in a fruit bowl."
+57,2,hair dryer,dim gray,iron,thistle,,,A dim gray hair dryer next to an thistle iron on the bathroom counter.
+58,3,clock,black,vase,cornsilk,book,light blue,"A black clock, a cornsilk vase, and a light blue book on the shelf."
+59,2,taxi,cyan,bus,crimson,,,A cyan taxi and a crimson bus at the station.
+60,3,microwave,bisque,toaster,light yellow,refrigerator,wheat,"A bisque microwave, a light yellow toaster, and a wheat refrigerator in the kitchen."
+61,2,couch,sienna,bookcase,burly wood,,,A sienna couch facing a burly wood bookcase in the living room.
+62,3,pillow,papaya whip,curtain,brown,clock,navajo white,"A papaya whip pillow on the bed, a brown curtain by the window, and a navajo white clock on the wall."
+63,2,football helmet,rosy brown,boxing glove,orange,,,A rosy brown football helmet beside a orange boxing glove on the shelf.
+64,2,chair,dark golden rod,desk,orange red,,,A dark golden rod chair and a orange red desk in a sunlit room.
+65,2,banana,khaki,apple,chartreuse,,,A khaki banana and a chartreuse apple on a wooden table.
+66,3,backpack,yellow green,bicycle,dark sea green,umbrella,pale green,A yellow green backpack on a dark sea green bicycle next to a pale green umbrella.
+67,2,book,dark slate grey,mug,medium sea green,,,A dark slate grey book next to a medium sea green mug on the coffee table.
+68,3,hammer,pale turquoise,wrench,aqua,saw,medium spring green,"A pale turquoise hammer, a aqua wrench, and a medium spring green saw on the workbench."
+69,2,ruler,dark slate gray,saw,powder blue,,,A dark slate gray ruler next to a powder blue saw on the workshop table.
+70,2,candle,sky blue,book,medium blue,,,A sky blue candle next to a medium blue book on the nightstand.
+71,3,handbag,light slate gray,wallet,medium slate blue,hat,magenta,A light slate gray handbag with a medium slate blue wallet and a magenta hat on the table.
+72,3,car,blue violet,bus,orchid,truck,purple,A blue violet car parked near a orchid bus and a purple truck on the street.
+73,2,potted plant,dark orchid,vase,sea shell,,,A dark orchid potted plant beside a sea shell vase on the windowsill.
+74,2,sink,honey dew,trash can,ghost white,,,A honey dew sink beside a ghost white trash can in the kitchen.
+75,3,skateboard,floral white,sports ball,dark gray,baseball bat,dim gray,A floral white skateboard beside a dark gray sports ball and a dim gray baseball bat.
+76,3,book,thistle,mug,black,candle,cornsilk,"A thistle book, a black mug, and a cornsilk candle on the coffee table."
+77,2,orange,light blue,guava,cyan,,,A light blue orange beside a cyan guava on the kitchen counter.
+78,2,lipstick,crimson,handbag,bisque,,,A crimson lipstick inside a bisque handbag on the vanity.
+79,3,tie,light yellow,hat,wheat,jacket,sienna,"A light yellow tie, a wheat hat, and a sienna jacket on the bed."
+80,2,sports car,burly wood,truck,papaya whip,,,A burly wood sports car next to a papaya whip truck in the parking lot.
+81,3,bear,brown,turtle,navajo white,crocodile,rosy brown,A brown bear near a navajo white turtle and a rosy brown crocodile by the river.
+82,2,horse,orange,cow,dark golden rod,,,A orange horse standing with a dark golden rod cow in the field.
+83,2,parrot,orange red,dog,khaki,,,A orange red parrot perched near a khaki dog in the yard.
+84,2,thermos,chartreuse,tissue box,yellow green,,,A chartreuse thermos next to a yellow green tissue box on the desk.
+85,2,jacket,dark sea green,hat,pale green,,,A dark sea green jacket hanging beside a pale green hat on the rack.
+86,2,coat,dark slate grey,hat,medium sea green,,,A dark slate grey coat hanging next to a medium sea green hat on the hook.
+87,2,strawberry,pale turquoise,lemon,aqua,,,A pale turquoise strawberry next to a aqua lemon on a plate.
+88,2,elephant,medium spring green,bear,dark slate gray,,,A medium spring green elephant near a dark slate gray bear in the wild.
+89,3,teddybear,powder blue,balloon,sky blue,football helmet,medium blue,A powder blue teddybear with a sky blue balloon next to a medium blue football helmet.
+90,2,hat,light slate gray,suitcase,medium slate blue,,,A light slate gray hat resting on a medium slate blue suitcase.
+91,2,minivan,magenta,bicycle,blue violet,,,A magenta minivan parked beside a blue violet bicycle in the driveway.
+92,2,snowboard,orchid,skis,purple,,,A orchid snowboard resting against purple skis by the cabin.
+93,2,carrot,dark orchid,broccoli,sea shell,,,A dark orchid carrot and a sea shell broccoli on a cutting board.
+94,3,couch,honey dew,table,ghost white,vase,floral white,A honey dew couch with a ghost white table and a floral white vase in the living room.
+95,3,boat,dark gray,jeep,dim gray,airplane,thistle,"A dark gray boat, a dim gray jeep, and a thistle airplane at the lakeside."
+96,2,sheep,black,horse,cornsilk,,,A black sheep grazing next to a cornsilk horse in the meadow.
+97,2,pillow,light blue,curtain,cyan,,,A light blue pillow on the bed near a cyan curtain by the window.
+98,2,skateboard,crimson,frisbee,bisque,,,A crimson skateboard beside a bisque frisbee on the grass.
+99,2,tie,light yellow,suit,wheat,,,A light yellow tie draped over a wheat suit in the closet.
+100,2,baseball bat,sienna,golf ball,burly wood,,,A sienna baseball bat next to a burly wood golf ball on the floor.
+101,2,refrigerator,papaya whip,oven,brown,,,A papaya whip refrigerator beside a brown oven in the kitchen.
+102,3,dog,navajo white,cat,rosy brown,horse,orange,A navajo white dog next to a rosy brown cat and a orange horse in the yard.
+103,2,duck,dark golden rod,cow,orange red,,,A dark golden rod duck swimming near a orange red cow by the pond.
+104,2,clock,khaki,candle,chartreuse,,,A khaki clock beside a chartreuse candle on the mantle.
+105,2,backpack,yellow green,bicycle,dark sea green,,,A yellow green backpack hanging on a dark sea green bicycle.
+106,3,papaya,pale green,guava,dark slate grey,carrot,medium sea green,"A pale green papaya, a dark slate grey guava, and a medium sea green carrot on the table."
+107,3,surfboard,pale turquoise,kite,aqua,frisbee,medium spring green,"A pale turquoise surfboard, a aqua kite, and a medium spring green frisbee on the beach."
+108,2,knife,dark slate gray,cutting board,powder blue,,,A dark slate gray knife on a powder blue cutting board in the kitchen.
+109,2,umbrella,sky blue,car,medium blue,,,A sky blue umbrella leaning against a medium blue car.
+110,2,remote,light slate gray,computer mouse,medium slate blue,,,A light slate gray remote beside a medium slate blue computer mouse on the desk.
+111,3,remote,magenta,computer mouse,blue violet,fan,orchid,"A magenta remote, a blue violet computer mouse, and a orchid fan on the desk."
+112,3,wardrobe,purple,bookcase,dark orchid,desk,sea shell,A purple wardrobe beside a dark orchid bookcase and a sea shell desk in the room.
+113,3,broccoli,honey dew,orange,ghost white,apple,floral white,A honey dew broccoli beside a ghost white orange and a floral white apple on the counter.
+114,2,backpack,dark gray,umbrella,dim gray,,,A dark gray backpack leaning against a dim gray umbrella by the door.
+115,2,boat,thistle,jeep,black,,,A thistle boat docked near a black jeep at the marina.
+116,2,socks,cornsilk,towel,light blue,,,A cornsilk socks next to a light blue towel on the dresser.
+117,3,chair,cyan,desk,crimson,bookcase,bisque,"A cyan chair, a crimson desk, and a bisque bookcase in the office."
+118,2,T-shirt,light yellow,jeans,wheat,,,A light yellow T-shirt and wheat jeans folded on the bed.
+119,2,teddybear,sienna,balloon,burly wood,,,A sienna teddybear holding a burly wood balloon on the bed.
+120,3,strawberry,papaya whip,mango,brown,lemon,navajo white,"A papaya whip strawberry, a brown mango, and a navajo white lemon on a plate."
+121,2,surfboard,rosy brown,kite,orange,,,A rosy brown surfboard leaning near a orange kite on the beach.
+122,2,sports ball,dark golden rod,baseball glove,orange red,,,A dark golden rod sports ball next to a orange red baseball glove on the bench.
+123,3,hat,khaki,suitcase,chartreuse,umbrella,yellow green,"A khaki hat, a chartreuse suitcase, and a yellow green umbrella at the entrance."
+124,2,microwave,dark sea green,toaster,pale green,,,A dark sea green microwave next to a pale green toaster on the counter.
+125,3,backpack,dark slate grey,umbrella,medium sea green,suitcase,pale turquoise,"A dark slate grey backpack, a medium sea green umbrella, and a pale turquoise suitcase by the door."
+126,2,dog,aqua,cat,medium spring green,,,A aqua dog sitting beside a medium spring green cat on the floor.
+127,2,sweatshirt,dark slate gray,pants,powder blue,,,A dark slate gray sweatshirt folded beside powder blue pants on the shelf.
+128,2,vase,sky blue,clock,medium blue,,,A sky blue vase next to a medium blue clock on the shelf.
+129,2,owl,light slate gray,cat,medium slate blue,,,A light slate gray owl perched above a medium slate blue cat at night.
+130,3,bicycle,magenta,motorcycle,blue violet,airplane,orchid,"A magenta bicycle, a blue violet motorcycle, and a orchid airplane at the airport."
+131,3,cow,purple,sheep,dark orchid,elephant,sea shell,"A purple cow, a dark orchid sheep, and a sea shell elephant at the zoo."
+132,2,fan,honey dew,sponge,ghost white,,,A honey dew fan beside a ghost white sponge on the shelf.
+133,2,airplane,floral white,truck,dark gray,,,A floral white airplane flying above a dark gray truck on the runway.
+134,2,handbag,dim gray,suitcase,thistle,,,A dim gray handbag placed on a thistle suitcase at the airport.
+135,3,mug,black,teapot,cornsilk,candle,light blue,"A black mug, a cornsilk teapot, and a light blue candle on the dining table."
+136,2,mango,cyan,papaya,crimson,,,A cyan mango and a crimson papaya in a fruit bowl.
+137,2,turtle,bisque,crocodile,light yellow,,,A bisque turtle resting near a light yellow crocodile by the river.
+138,2,wallet,wheat,tie,sienna,,,A wheat wallet beside a sienna tie on the table.
+139,2,hammer,burly wood,wrench,papaya whip,,,A burly wood hammer next to a papaya whip wrench on the workbench.
+140,2,table,brown,wardrobe,navajo white,,,A brown table beside a navajo white wardrobe in the bedroom.
+141,3,T-shirt,rosy brown,jeans,orange,socks,dark golden rod,"A rosy brown T-shirt, orange jeans, and dark golden rod socks on the bed."
+142,2,mug,orange red,teapot,khaki,,,A orange red mug beside a khaki teapot on the table.
+143,2,car,chartreuse,bus,yellow green,,,A chartreuse car parked near a yellow green bus on the street.
+144,2,bicycle,dark sea green,motorcycle,pale green,,,A dark sea green bicycle next to a pale green motorcycle in the garage.
+145,3,banana,dark slate grey,apple,medium sea green,orange,pale turquoise,"A dark slate grey banana, a medium sea green apple, and a pale turquoise orange in a fruit bowl."
+146,2,hair dryer,aqua,iron,medium spring green,,,A aqua hair dryer next to an medium spring green iron on the bathroom counter.
+147,3,clock,dark slate gray,vase,powder blue,book,sky blue,"A dark slate gray clock, a powder blue vase, and a sky blue book on the shelf."
+148,2,taxi,medium blue,bus,light slate gray,,,A medium blue taxi and a light slate gray bus at the station.
+149,3,microwave,medium slate blue,toaster,magenta,refrigerator,blue violet,"A medium slate blue microwave, a magenta toaster, and a blue violet refrigerator in the kitchen."
+150,2,couch,orchid,bookcase,purple,,,A orchid couch facing a purple bookcase in the living room.
+151,3,pillow,dark orchid,curtain,sea shell,clock,honey dew,"A dark orchid pillow on the bed, a sea shell curtain by the window, and a honey dew clock on the wall."
+152,2,football helmet,ghost white,boxing glove,floral white,,,A ghost white football helmet beside a floral white boxing glove on the shelf.
+153,2,chair,dark gray,desk,dim gray,,,A dark gray chair and a dim gray desk in a sunlit room.
+154,2,banana,thistle,apple,black,,,A thistle banana and a black apple on a wooden table.
+155,3,backpack,cornsilk,bicycle,light blue,umbrella,cyan,A cornsilk backpack on a light blue bicycle next to a cyan umbrella.
+156,2,book,crimson,mug,bisque,,,A crimson book next to a bisque mug on the coffee table.
+157,3,hammer,light yellow,wrench,wheat,saw,sienna,"A light yellow hammer, a wheat wrench, and a sienna saw on the workbench."
+158,2,ruler,burly wood,saw,papaya whip,,,A burly wood ruler next to a papaya whip saw on the workshop table.
+159,2,candle,brown,book,navajo white,,,A brown candle next to a navajo white book on the nightstand.
+160,3,handbag,rosy brown,wallet,orange,hat,dark golden rod,A rosy brown handbag with a orange wallet and a dark golden rod hat on the table.
+161,3,car,orange red,bus,khaki,truck,chartreuse,A orange red car parked near a khaki bus and a chartreuse truck on the street.
+162,2,potted plant,yellow green,vase,dark sea green,,,A yellow green potted plant beside a dark sea green vase on the windowsill.
+163,2,sink,pale green,trash can,dark slate grey,,,A pale green sink beside a dark slate grey trash can in the kitchen.
+164,3,skateboard,medium sea green,sports ball,pale turquoise,baseball bat,aqua,A medium sea green skateboard beside a pale turquoise sports ball and a aqua baseball bat.
+165,3,book,medium spring green,mug,dark slate gray,candle,powder blue,"A medium spring green book, a dark slate gray mug, and a powder blue candle on the coffee table."
+166,2,orange,sky blue,guava,medium blue,,,A sky blue orange beside a medium blue guava on the kitchen counter.
+167,2,lipstick,light slate gray,handbag,medium slate blue,,,A light slate gray lipstick inside a medium slate blue handbag on the vanity.
+168,3,tie,magenta,hat,blue violet,jacket,orchid,"A magenta tie, a blue violet hat, and a orchid jacket on the bed."
+169,2,sports car,purple,truck,dark orchid,,,A purple sports car next to a dark orchid truck in the parking lot.
+170,3,bear,sea shell,turtle,honey dew,crocodile,ghost white,A sea shell bear near a honey dew turtle and a ghost white crocodile by the river.
+171,2,horse,floral white,cow,dark gray,,,A floral white horse standing with a dark gray cow in the field.
+172,2,parrot,dim gray,dog,thistle,,,A dim gray parrot perched near a thistle dog in the yard.
+173,2,thermos,black,tissue box,cornsilk,,,A black thermos next to a cornsilk tissue box on the desk.
+174,2,jacket,light blue,hat,cyan,,,A light blue jacket hanging beside a cyan hat on the rack.
+175,2,coat,crimson,hat,bisque,,,A crimson coat hanging next to a bisque hat on the hook.
+176,2,strawberry,light yellow,lemon,wheat,,,A light yellow strawberry next to a wheat lemon on a plate.
+177,2,elephant,sienna,bear,burly wood,,,A sienna elephant near a burly wood bear in the wild.
+178,3,teddybear,papaya whip,balloon,brown,football helmet,navajo white,A papaya whip teddybear with a brown balloon next to a navajo white football helmet.
+179,2,hat,rosy brown,suitcase,orange,,,A rosy brown hat resting on a orange suitcase.
+180,2,minivan,dark golden rod,bicycle,orange red,,,A dark golden rod minivan parked beside a orange red bicycle in the driveway.
+181,2,snowboard,khaki,skis,chartreuse,,,A khaki snowboard resting against chartreuse skis by the cabin.
+182,2,carrot,yellow green,broccoli,dark sea green,,,A yellow green carrot and a dark sea green broccoli on a cutting board.
+183,3,couch,pale green,table,dark slate grey,vase,medium sea green,A pale green couch with a dark slate grey table and a medium sea green vase in the living room.
+184,3,boat,pale turquoise,jeep,aqua,airplane,medium spring green,"A pale turquoise boat, a aqua jeep, and a medium spring green airplane at the lakeside."
+185,2,sheep,dark slate gray,horse,powder blue,,,A dark slate gray sheep grazing next to a powder blue horse in the meadow.
+186,2,pillow,sky blue,curtain,medium blue,,,A sky blue pillow on the bed near a medium blue curtain by the window.
+187,2,skateboard,light slate gray,frisbee,medium slate blue,,,A light slate gray skateboard beside a medium slate blue frisbee on the grass.
+188,2,tie,magenta,suit,blue violet,,,A magenta tie draped over a blue violet suit in the closet.
+189,2,baseball bat,orchid,golf ball,purple,,,A orchid baseball bat next to a purple golf ball on the floor.
+190,2,refrigerator,dark orchid,oven,sea shell,,,A dark orchid refrigerator beside a sea shell oven in the kitchen.
+191,3,dog,honey dew,cat,ghost white,horse,floral white,A honey dew dog next to a ghost white cat and a floral white horse in the yard.
+192,2,duck,dark gray,cow,dim gray,,,A dark gray duck swimming near a dim gray cow by the pond.
+193,2,clock,thistle,candle,black,,,A thistle clock beside a black candle on the mantle.
+194,2,backpack,cornsilk,bicycle,light blue,,,A cornsilk backpack hanging on a light blue bicycle.
+195,3,papaya,cyan,guava,crimson,carrot,bisque,"A cyan papaya, a crimson guava, and a bisque carrot on the table."
+196,3,surfboard,light yellow,kite,wheat,frisbee,sienna,"A light yellow surfboard, a wheat kite, and a sienna frisbee on the beach."
+197,2,knife,burly wood,cutting board,papaya whip,,,A burly wood knife on a papaya whip cutting board in the kitchen.
+198,2,umbrella,brown,car,navajo white,,,A brown umbrella leaning against a navajo white car.
+199,2,remote,rosy brown,computer mouse,orange,,,A rosy brown remote beside a orange computer mouse on the desk.
+200,3,remote,dark golden rod,computer mouse,orange red,fan,khaki,"A dark golden rod remote, a orange red computer mouse, and a khaki fan on the desk."
+201,3,wardrobe,chartreuse,bookcase,yellow green,desk,dark sea green,A chartreuse wardrobe beside a yellow green bookcase and a dark sea green desk in the room.
+202,3,broccoli,pale green,orange,dark slate grey,apple,medium sea green,A pale green broccoli beside a dark slate grey orange and a medium sea green apple on the counter.
+203,2,backpack,pale turquoise,umbrella,aqua,,,A pale turquoise backpack leaning against a aqua umbrella by the door.
+204,2,boat,medium spring green,jeep,dark slate gray,,,A medium spring green boat docked near a dark slate gray jeep at the marina.
+205,2,socks,powder blue,towel,sky blue,,,A powder blue socks next to a sky blue towel on the dresser.
+206,3,chair,medium blue,desk,light slate gray,bookcase,medium slate blue,"A medium blue chair, a light slate gray desk, and a medium slate blue bookcase in the office."
+207,2,T-shirt,magenta,jeans,blue violet,,,A magenta T-shirt and blue violet jeans folded on the bed.
+208,2,teddybear,orchid,balloon,purple,,,A orchid teddybear holding a purple balloon on the bed.
+209,3,strawberry,dark orchid,mango,sea shell,lemon,honey dew,"A dark orchid strawberry, a sea shell mango, and a honey dew lemon on a plate."
+210,2,surfboard,ghost white,kite,floral white,,,A ghost white surfboard leaning near a floral white kite on the beach.
+211,2,sports ball,dark gray,baseball glove,dim gray,,,A dark gray sports ball next to a dim gray baseball glove on the bench.
+212,3,hat,thistle,suitcase,black,umbrella,cornsilk,"A thistle hat, a black suitcase, and a cornsilk umbrella at the entrance."
+213,2,microwave,light blue,toaster,cyan,,,A light blue microwave next to a cyan toaster on the counter.
+214,3,backpack,crimson,umbrella,bisque,suitcase,light yellow,"A crimson backpack, a bisque umbrella, and a light yellow suitcase by the door."
+215,2,dog,wheat,cat,sienna,,,A wheat dog sitting beside a sienna cat on the floor.
+216,2,sweatshirt,burly wood,pants,papaya whip,,,A burly wood sweatshirt folded beside papaya whip pants on the shelf.
+217,2,vase,brown,clock,navajo white,,,A brown vase next to a navajo white clock on the shelf.
+218,2,owl,rosy brown,cat,orange,,,A rosy brown owl perched above a orange cat at night.
+219,3,bicycle,dark golden rod,motorcycle,orange red,airplane,khaki,"A dark golden rod bicycle, a orange red motorcycle, and a khaki airplane at the airport."
+220,3,cow,chartreuse,sheep,yellow green,elephant,dark sea green,"A chartreuse cow, a yellow green sheep, and a dark sea green elephant at the zoo."
+221,2,fan,pale green,sponge,dark slate grey,,,A pale green fan beside a dark slate grey sponge on the shelf.
+222,2,airplane,medium sea green,truck,pale turquoise,,,A medium sea green airplane flying above a pale turquoise truck on the runway.
+223,2,handbag,aqua,suitcase,medium spring green,,,A aqua handbag placed on a medium spring green suitcase at the airport.
+224,3,mug,dark slate gray,teapot,powder blue,candle,sky blue,"A dark slate gray mug, a powder blue teapot, and a sky blue candle on the dining table."
+225,2,mango,medium blue,papaya,light slate gray,,,A medium blue mango and a light slate gray papaya in a fruit bowl.
+226,2,turtle,medium slate blue,crocodile,magenta,,,A medium slate blue turtle resting near a magenta crocodile by the river.
+227,2,wallet,blue violet,tie,orchid,,,A blue violet wallet beside a orchid tie on the table.
+228,2,hammer,purple,wrench,dark orchid,,,A purple hammer next to a dark orchid wrench on the workbench.
+229,2,table,sea shell,wardrobe,honey dew,,,A sea shell table beside a honey dew wardrobe in the bedroom.
+230,3,T-shirt,ghost white,jeans,floral white,socks,dark gray,"A ghost white T-shirt, floral white jeans, and dark gray socks on the bed."
+231,2,mug,dim gray,teapot,thistle,,,A dim gray mug beside a thistle teapot on the table.
+232,2,car,black,bus,cornsilk,,,A black car parked near a cornsilk bus on the street.
+233,2,bicycle,light blue,motorcycle,cyan,,,A light blue bicycle next to a cyan motorcycle in the garage.
+234,3,banana,crimson,apple,bisque,orange,light yellow,"A crimson banana, a bisque apple, and a light yellow orange in a fruit bowl."
+235,2,hair dryer,wheat,iron,sienna,,,A wheat hair dryer next to an sienna iron on the bathroom counter.
+236,3,clock,burly wood,vase,papaya whip,book,brown,"A burly wood clock, a papaya whip vase, and a brown book on the shelf."
+237,2,taxi,navajo white,bus,rosy brown,,,A navajo white taxi and a rosy brown bus at the station.
+238,3,microwave,orange,toaster,dark golden rod,refrigerator,orange red,"A orange microwave, a dark golden rod toaster, and a orange red refrigerator in the kitchen."
+239,2,couch,khaki,bookcase,chartreuse,,,A khaki couch facing a chartreuse bookcase in the living room.
+240,3,pillow,yellow green,curtain,dark sea green,clock,pale green,"A yellow green pillow on the bed, a dark sea green curtain by the window, and a pale green clock on the wall."
+241,2,football helmet,dark slate grey,boxing glove,medium sea green,,,A dark slate grey football helmet beside a medium sea green boxing glove on the shelf.
+242,2,chair,pale turquoise,desk,aqua,,,A pale turquoise chair and a aqua desk in a sunlit room.
+243,2,banana,medium spring green,apple,dark slate gray,,,A medium spring green banana and a dark slate gray apple on a wooden table.
+244,3,backpack,powder blue,bicycle,sky blue,umbrella,medium blue,A powder blue backpack on a sky blue bicycle next to a medium blue umbrella.
+245,2,book,light slate gray,mug,medium slate blue,,,A light slate gray book next to a medium slate blue mug on the coffee table.
+246,3,hammer,magenta,wrench,blue violet,saw,orchid,"A magenta hammer, a blue violet wrench, and a orchid saw on the workbench."
+247,2,ruler,purple,saw,dark orchid,,,A purple ruler next to a dark orchid saw on the workshop table.
+248,2,candle,sea shell,book,honey dew,,,A sea shell candle next to a honey dew book on the nightstand.
+249,3,handbag,ghost white,wallet,floral white,hat,dark gray,A ghost white handbag with a floral white wallet and a dark gray hat on the table.
+250,3,car,dim gray,bus,thistle,truck,black,A dim gray car parked near a thistle bus and a black truck on the street.
+251,2,potted plant,cornsilk,vase,light blue,,,A cornsilk potted plant beside a light blue vase on the windowsill.
+252,2,sink,cyan,trash can,crimson,,,A cyan sink beside a crimson trash can in the kitchen.
+253,3,skateboard,bisque,sports ball,light yellow,baseball bat,wheat,A bisque skateboard beside a light yellow sports ball and a wheat baseball bat.
+254,3,book,sienna,mug,burly wood,candle,papaya whip,"A sienna book, a burly wood mug, and a papaya whip candle on the coffee table."
+255,2,orange,brown,guava,navajo white,,,A brown orange beside a navajo white guava on the kitchen counter.
+256,2,lipstick,rosy brown,handbag,orange,,,A rosy brown lipstick inside a orange handbag on the vanity.
+257,3,tie,dark golden rod,hat,orange red,jacket,khaki,"A dark golden rod tie, a orange red hat, and a khaki jacket on the bed."
+258,2,sports car,chartreuse,truck,yellow green,,,A chartreuse sports car next to a yellow green truck in the parking lot.
+259,3,bear,dark sea green,turtle,pale green,crocodile,dark slate grey,A dark sea green bear near a pale green turtle and a dark slate grey crocodile by the river.
+260,2,horse,medium sea green,cow,pale turquoise,,,A medium sea green horse standing with a pale turquoise cow in the field.
+261,2,parrot,aqua,dog,medium spring green,,,A aqua parrot perched near a medium spring green dog in the yard.
+262,2,thermos,dark slate gray,tissue box,powder blue,,,A dark slate gray thermos next to a powder blue tissue box on the desk.
+263,2,jacket,sky blue,hat,medium blue,,,A sky blue jacket hanging beside a medium blue hat on the rack.
+264,2,coat,light slate gray,hat,medium slate blue,,,A light slate gray coat hanging next to a medium slate blue hat on the hook.
+265,2,strawberry,magenta,lemon,blue violet,,,A magenta strawberry next to a blue violet lemon on a plate.
+266,2,elephant,orchid,bear,purple,,,A orchid elephant near a purple bear in the wild.
+267,3,teddybear,dark orchid,balloon,sea shell,football helmet,honey dew,A dark orchid teddybear with a sea shell balloon next to a honey dew football helmet.
+268,2,hat,ghost white,suitcase,floral white,,,A ghost white hat resting on a floral white suitcase.
+269,2,minivan,dark gray,bicycle,dim gray,,,A dark gray minivan parked beside a dim gray bicycle in the driveway.
+270,2,snowboard,thistle,skis,black,,,A thistle snowboard resting against black skis by the cabin.
+271,2,carrot,cornsilk,broccoli,light blue,,,A cornsilk carrot and a light blue broccoli on a cutting board.
+272,3,couch,cyan,table,crimson,vase,bisque,A cyan couch with a crimson table and a bisque vase in the living room.
+273,3,boat,light yellow,jeep,wheat,airplane,sienna,"A light yellow boat, a wheat jeep, and a sienna airplane at the lakeside."
+274,2,sheep,burly wood,horse,papaya whip,,,A burly wood sheep grazing next to a papaya whip horse in the meadow.
+275,2,pillow,brown,curtain,navajo white,,,A brown pillow on the bed near a navajo white curtain by the window.
+276,2,skateboard,rosy brown,frisbee,orange,,,A rosy brown skateboard beside a orange frisbee on the grass.
+277,2,tie,dark golden rod,suit,orange red,,,A dark golden rod tie draped over a orange red suit in the closet.
+278,2,baseball bat,khaki,golf ball,chartreuse,,,A khaki baseball bat next to a chartreuse golf ball on the floor.
+279,2,refrigerator,yellow green,oven,dark sea green,,,A yellow green refrigerator beside a dark sea green oven in the kitchen.
+280,3,dog,pale green,cat,dark slate grey,horse,medium sea green,A pale green dog next to a dark slate grey cat and a medium sea green horse in the yard.
+281,2,duck,pale turquoise,cow,aqua,,,A pale turquoise duck swimming near a aqua cow by the pond.
+282,2,clock,medium spring green,candle,dark slate gray,,,A medium spring green clock beside a dark slate gray candle on the mantle.
+283,2,backpack,powder blue,bicycle,sky blue,,,A powder blue backpack hanging on a sky blue bicycle.
+284,3,papaya,medium blue,guava,light slate gray,carrot,medium slate blue,"A medium blue papaya, a light slate gray guava, and a medium slate blue carrot on the table."
+285,3,surfboard,magenta,kite,blue violet,frisbee,orchid,"A magenta surfboard, a blue violet kite, and a orchid frisbee on the beach."
+286,2,knife,purple,cutting board,dark orchid,,,A purple knife on a dark orchid cutting board in the kitchen.
+287,2,umbrella,sea shell,car,honey dew,,,A sea shell umbrella leaning against a honey dew car.
+288,2,remote,ghost white,computer mouse,floral white,,,A ghost white remote beside a floral white computer mouse on the desk.
+289,3,remote,dark gray,computer mouse,dim gray,fan,thistle,"A dark gray remote, a dim gray computer mouse, and a thistle fan on the desk."
+290,3,wardrobe,black,bookcase,cornsilk,desk,light blue,A black wardrobe beside a cornsilk bookcase and a light blue desk in the room.
+291,3,broccoli,cyan,orange,crimson,apple,bisque,A cyan broccoli beside a crimson orange and a bisque apple on the counter.
+292,2,backpack,light yellow,umbrella,wheat,,,A light yellow backpack leaning against a wheat umbrella by the door.
+293,2,boat,sienna,jeep,burly wood,,,A sienna boat docked near a burly wood jeep at the marina.
+294,2,socks,papaya whip,towel,brown,,,A papaya whip socks next to a brown towel on the dresser.
+295,3,chair,navajo white,desk,rosy brown,bookcase,orange,"A navajo white chair, a rosy brown desk, and a orange bookcase in the office."
+296,2,T-shirt,dark golden rod,jeans,orange red,,,A dark golden rod T-shirt and orange red jeans folded on the bed.
+297,2,teddybear,khaki,balloon,chartreuse,,,A khaki teddybear holding a chartreuse balloon on the bed.
+298,3,strawberry,yellow green,mango,dark sea green,lemon,pale green,"A yellow green strawberry, a dark sea green mango, and a pale green lemon on a plate."
+299,2,surfboard,dark slate grey,kite,medium sea green,,,A dark slate grey surfboard leaning near a medium sea green kite on the beach.
+300,2,sports ball,pale turquoise,baseball glove,aqua,,,A pale turquoise sports ball next to a aqua baseball glove on the bench.
+301,3,hat,medium spring green,suitcase,dark slate gray,umbrella,powder blue,"A medium spring green hat, a dark slate gray suitcase, and a powder blue umbrella at the entrance."
+302,2,microwave,sky blue,toaster,medium blue,,,A sky blue microwave next to a medium blue toaster on the counter.
+303,3,backpack,light slate gray,umbrella,medium slate blue,suitcase,magenta,"A light slate gray backpack, a medium slate blue umbrella, and a magenta suitcase by the door."
+304,2,dog,blue violet,cat,orchid,,,A blue violet dog sitting beside a orchid cat on the floor.
+305,2,sweatshirt,purple,pants,dark orchid,,,A purple sweatshirt folded beside dark orchid pants on the shelf.
+306,2,vase,sea shell,clock,honey dew,,,A sea shell vase next to a honey dew clock on the shelf.
+307,2,owl,ghost white,cat,floral white,,,A ghost white owl perched above a floral white cat at night.
+308,3,bicycle,dark gray,motorcycle,dim gray,airplane,thistle,"A dark gray bicycle, a dim gray motorcycle, and a thistle airplane at the airport."
+309,3,cow,black,sheep,cornsilk,elephant,light blue,"A black cow, a cornsilk sheep, and a light blue elephant at the zoo."
+310,2,fan,cyan,sponge,crimson,,,A cyan fan beside a crimson sponge on the shelf.
+311,2,airplane,bisque,truck,light yellow,,,A bisque airplane flying above a light yellow truck on the runway.
+312,2,handbag,wheat,suitcase,sienna,,,A wheat handbag placed on a sienna suitcase at the airport.
+313,3,mug,burly wood,teapot,papaya whip,candle,brown,"A burly wood mug, a papaya whip teapot, and a brown candle on the dining table."
+314,2,mango,navajo white,papaya,rosy brown,,,A navajo white mango and a rosy brown papaya in a fruit bowl.
+315,2,turtle,orange,crocodile,dark golden rod,,,A orange turtle resting near a dark golden rod crocodile by the river.
+316,2,wallet,orange red,tie,khaki,,,A orange red wallet beside a khaki tie on the table.
+317,2,hammer,chartreuse,wrench,yellow green,,,A chartreuse hammer next to a yellow green wrench on the workbench.
+318,2,table,dark sea green,wardrobe,pale green,,,A dark sea green table beside a pale green wardrobe in the bedroom.
+319,3,T-shirt,dark slate grey,jeans,medium sea green,socks,pale turquoise,"A dark slate grey T-shirt, medium sea green jeans, and pale turquoise socks on the bed."
+320,2,mug,aqua,teapot,medium spring green,,,A aqua mug beside a medium spring green teapot on the table.
+321,2,car,dark slate gray,bus,powder blue,,,A dark slate gray car parked near a powder blue bus on the street.
+322,2,bicycle,sky blue,motorcycle,medium blue,,,A sky blue bicycle next to a medium blue motorcycle in the garage.
+323,3,banana,light slate gray,apple,medium slate blue,orange,magenta,"A light slate gray banana, a medium slate blue apple, and a magenta orange in a fruit bowl."
+324,2,hair dryer,blue violet,iron,orchid,,,A blue violet hair dryer next to an orchid iron on the bathroom counter.
+325,3,clock,purple,vase,dark orchid,book,sea shell,"A purple clock, a dark orchid vase, and a sea shell book on the shelf."
+326,2,taxi,honey dew,bus,ghost white,,,A honey dew taxi and a ghost white bus at the station.
+327,3,microwave,floral white,toaster,dark gray,refrigerator,dim gray,"A floral white microwave, a dark gray toaster, and a dim gray refrigerator in the kitchen."
+328,2,couch,thistle,bookcase,black,,,A thistle couch facing a black bookcase in the living room.
+329,3,pillow,cornsilk,curtain,light blue,clock,cyan,"A cornsilk pillow on the bed, a light blue curtain by the window, and a cyan clock on the wall."
+330,2,football helmet,crimson,boxing glove,bisque,,,A crimson football helmet beside a bisque boxing glove on the shelf.
+331,2,chair,light yellow,desk,wheat,,,A light yellow chair and a wheat desk in a sunlit room.
+332,2,banana,sienna,apple,burly wood,,,A sienna banana and a burly wood apple on a wooden table.
+333,3,backpack,papaya whip,bicycle,brown,umbrella,navajo white,A papaya whip backpack on a brown bicycle next to a navajo white umbrella.
+334,2,book,rosy brown,mug,orange,,,A rosy brown book next to a orange mug on the coffee table.
+335,3,hammer,dark golden rod,wrench,orange red,saw,khaki,"A dark golden rod hammer, a orange red wrench, and a khaki saw on the workbench."
+336,2,ruler,chartreuse,saw,yellow green,,,A chartreuse ruler next to a yellow green saw on the workshop table.
+337,2,candle,dark sea green,book,pale green,,,A dark sea green candle next to a pale green book on the nightstand.
+338,3,handbag,dark slate grey,wallet,medium sea green,hat,pale turquoise,A dark slate grey handbag with a medium sea green wallet and a pale turquoise hat on the table.
+339,3,car,aqua,bus,medium spring green,truck,dark slate gray,A aqua car parked near a medium spring green bus and a dark slate gray truck on the street.
+340,2,potted plant,powder blue,vase,sky blue,,,A powder blue potted plant beside a sky blue vase on the windowsill.
+341,2,sink,medium blue,trash can,light slate gray,,,A medium blue sink beside a light slate gray trash can in the kitchen.
+342,3,skateboard,medium slate blue,sports ball,magenta,baseball bat,blue violet,A medium slate blue skateboard beside a magenta sports ball and a blue violet baseball bat.
+343,3,book,orchid,mug,purple,candle,dark orchid,"A orchid book, a purple mug, and a dark orchid candle on the coffee table."
+344,2,orange,sea shell,guava,honey dew,,,A sea shell orange beside a honey dew guava on the kitchen counter.
+345,2,lipstick,ghost white,handbag,floral white,,,A ghost white lipstick inside a floral white handbag on the vanity.
+346,3,tie,dark gray,hat,dim gray,jacket,thistle,"A dark gray tie, a dim gray hat, and a thistle jacket on the bed."
+347,2,sports car,black,truck,cornsilk,,,A black sports car next to a cornsilk truck in the parking lot.
+348,3,bear,light blue,turtle,cyan,crocodile,crimson,A light blue bear near a cyan turtle and a crimson crocodile by the river.
+349,2,horse,bisque,cow,light yellow,,,A bisque horse standing with a light yellow cow in the field.
+350,2,parrot,wheat,dog,sienna,,,A wheat parrot perched near a sienna dog in the yard.

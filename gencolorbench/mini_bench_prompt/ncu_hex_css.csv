@@ -1,0 +1,676 @@
+id,css_name,color_name,hex,r,g,b,object,prompt
+1,Crimson,crimson,#DC143C,220,20,60,boxing glove,A close-up of a boxing glove in the color #DC143C.
+2,Crimson,crimson,#DC143C,220,20,60,clock,A realistic #DC143C-colored clock.
+3,Crimson,crimson,#DC143C,220,20,60,vehicle,A highly detailed vehicle in hex #DC143C.
+4,Crimson,crimson,#DC143C,220,20,60,baseball bat,An image of a baseball bat in hex color #DC143C.
+5,Crimson,crimson,#DC143C,220,20,60,sports ball,A realistic #DC143C-colored sports ball.
+6,Crimson,crimson,#DC143C,220,20,60,umbrella,A close-up of a umbrella in the color #DC143C.
+7,Crimson,crimson,#DC143C,220,20,60,chair,A realistic #DC143C-colored chair.
+8,Crimson,crimson,#DC143C,220,20,60,couch,A couch rendered entirely in #DC143C.
+9,Crimson,crimson,#DC143C,220,20,60,parrot,A close-up of a parrot in the color #DC143C.
+10,Crimson,crimson,#DC143C,220,20,60,banana,A banana designed in #DC143C color.
+11,Crimson,crimson,#DC143C,220,20,60,wardrobe,A highly detailed wardrobe in hex #DC143C.
+12,Crimson,crimson,#DC143C,220,20,60,bus,A bus rendered in #DC143C color.
+13,Crimson,crimson,#DC143C,220,20,60,iron,An image of a iron in hex color #DC143C.
+14,Crimson,crimson,#DC143C,220,20,60,sweatshirt,A sweatshirt with hex color #DC143C.
+15,Crimson,crimson,#DC143C,220,20,60,suitcase,A suitcase rendered entirely in #DC143C.
+16,Bisque,bisque,#FFE4C4,255,228,196,minivan,A minivan rendered entirely in #FFE4C4.
+17,Bisque,bisque,#FFE4C4,255,228,196,baseball bat,A baseball bat in color #FFE4C4.
+18,Bisque,bisque,#FFE4C4,255,228,196,elephant,A realistic #FFE4C4-colored elephant.
+19,Bisque,bisque,#FFE4C4,255,228,196,suitcase,A suitcase rendered in #FFE4C4 color.
+20,Bisque,bisque,#FFE4C4,255,228,196,fan,A highly detailed fan in hex #FFE4C4.
+21,Bisque,bisque,#FFE4C4,255,228,196,couch,A photo of a couch in the color #FFE4C4.
+22,Bisque,bisque,#FFE4C4,255,228,196,banana,A highly detailed banana in hex #FFE4C4.
+23,Bisque,bisque,#FFE4C4,255,228,196,mango,A close-up of a mango in the color #FFE4C4.
+24,Bisque,bisque,#FFE4C4,255,228,196,boxing glove,A boxing glove in color #FFE4C4.
+25,Bisque,bisque,#FFE4C4,255,228,196,sports car,An image of a sports car in hex color #FFE4C4.
+26,Bisque,bisque,#FFE4C4,255,228,196,sweatshirt,A close-up of a sweatshirt in the color #FFE4C4.
+27,Bisque,bisque,#FFE4C4,255,228,196,skateboard,A skateboard rendered in #FFE4C4 color.
+28,Bisque,bisque,#FFE4C4,255,228,196,bus,A bus in color #FFE4C4.
+29,Bisque,bisque,#FFE4C4,255,228,196,desk,A close-up of a desk in the color #FFE4C4.
+30,Bisque,bisque,#FFE4C4,255,228,196,clock,A clock in color #FFE4C4.
+31,LightYellow,light yellow,#FFFFE0,255,255,224,mango,A mango rendered entirely in #FFFFE0.
+32,LightYellow,light yellow,#FFFFE0,255,255,224,baseball bat,A baseball bat rendered in #FFFFE0 color.
+33,LightYellow,light yellow,#FFFFE0,255,255,224,desk,A realistic #FFFFE0-colored desk.
+34,LightYellow,light yellow,#FFFFE0,255,255,224,boxing glove,A close-up of a boxing glove in the color #FFFFE0.
+35,LightYellow,light yellow,#FFFFE0,255,255,224,taxi,A photo of a taxi in the color #FFFFE0.
+36,LightYellow,light yellow,#FFFFE0,255,255,224,bear,An image of a bear in hex color #FFFFE0.
+37,LightYellow,light yellow,#FFFFE0,255,255,224,snowboard,A close-up of a snowboard in the color #FFFFE0.
+38,LightYellow,light yellow,#FFFFE0,255,255,224,sports car,An image of a sports car in hex color #FFFFE0.
+39,LightYellow,light yellow,#FFFFE0,255,255,224,suitcase,A photo of a suitcase in the color #FFFFE0.
+40,LightYellow,light yellow,#FFFFE0,255,255,224,sponge,A sponge rendered entirely in #FFFFE0.
+41,LightYellow,light yellow,#FFFFE0,255,255,224,apple,A apple rendered in #FFFFE0 color.
+42,LightYellow,light yellow,#FFFFE0,255,255,224,ruler,A ruler in color #FFFFE0.
+43,LightYellow,light yellow,#FFFFE0,255,255,224,sports ball,A close-up of a sports ball in the color #FFFFE0.
+44,LightYellow,light yellow,#FFFFE0,255,255,224,parrot,A highly detailed parrot in hex #FFFFE0.
+45,LightYellow,light yellow,#FFFFE0,255,255,224,iron,A photo of a iron in the color #FFFFE0.
+46,Wheat,wheat,#F5DEB3,245,222,179,suitcase,A photo of a suitcase in the color #F5DEB3.
+47,Wheat,wheat,#F5DEB3,245,222,179,snowboard,A close-up of a snowboard in the color #F5DEB3.
+48,Wheat,wheat,#F5DEB3,245,222,179,mug,A mug with hex color #F5DEB3.
+49,Wheat,wheat,#F5DEB3,245,222,179,guava,A realistic #F5DEB3-colored guava.
+50,Wheat,wheat,#F5DEB3,245,222,179,sponge,A sponge designed in #F5DEB3 color.
+51,Wheat,wheat,#F5DEB3,245,222,179,desk,A desk in color #F5DEB3.
+52,Wheat,wheat,#F5DEB3,245,222,179,elephant,An image of a elephant in hex color #F5DEB3.
+53,Wheat,wheat,#F5DEB3,245,222,179,skateboard,A skateboard in color #F5DEB3.
+54,Wheat,wheat,#F5DEB3,245,222,179,chair,A chair with hex color #F5DEB3.
+55,Wheat,wheat,#F5DEB3,245,222,179,sports ball,A sports ball with hex color #F5DEB3.
+56,Wheat,wheat,#F5DEB3,245,222,179,jeans,A jeans rendered entirely in #F5DEB3.
+57,Wheat,wheat,#F5DEB3,245,222,179,parrot,A highly detailed parrot in hex #F5DEB3.
+58,Wheat,wheat,#F5DEB3,245,222,179,pants,A pants in color #F5DEB3.
+59,Wheat,wheat,#F5DEB3,245,222,179,wardrobe,A wardrobe rendered entirely in #F5DEB3.
+60,Wheat,wheat,#F5DEB3,245,222,179,ruler,A ruler rendered entirely in #F5DEB3.
+61,Sienna,sienna,#A0522D,160,82,45,pants,An image of a pants in hex color #A0522D.
+62,Sienna,sienna,#A0522D,160,82,45,desk,A desk rendered in #A0522D color.
+63,Sienna,sienna,#A0522D,160,82,45,duck,A realistic #A0522D-colored duck.
+64,Sienna,sienna,#A0522D,160,82,45,skateboard,A skateboard with hex color #A0522D.
+65,Sienna,sienna,#A0522D,160,82,45,jeans,A realistic #A0522D-colored jeans.
+66,Sienna,sienna,#A0522D,160,82,45,bicycle,A bicycle in color #A0522D.
+67,Sienna,sienna,#A0522D,160,82,45,clock,A clock rendered in #A0522D color.
+68,Sienna,sienna,#A0522D,160,82,45,parrot,A realistic #A0522D-colored parrot.
+69,Sienna,sienna,#A0522D,160,82,45,baseball bat,A highly detailed baseball bat in hex #A0522D.
+70,Sienna,sienna,#A0522D,160,82,45,minivan,A close-up of a minivan in the color #A0522D.
+71,Sienna,sienna,#A0522D,160,82,45,football helmet,A football helmet with hex color #A0522D.
+72,Sienna,sienna,#A0522D,160,82,45,microwave,A photo of a microwave in the color #A0522D.
+73,Sienna,sienna,#A0522D,160,82,45,wardrobe,A wardrobe with hex color #A0522D.
+74,Sienna,sienna,#A0522D,160,82,45,bear,A realistic #A0522D-colored bear.
+75,Sienna,sienna,#A0522D,160,82,45,sponge,A realistic #A0522D-colored sponge.
+76,BurlyWood,burly wood,#DEB887,222,184,135,bicycle,A realistic #DEB887-colored bicycle.
+77,BurlyWood,burly wood,#DEB887,222,184,135,pants,A pants with hex color #DEB887.
+78,BurlyWood,burly wood,#DEB887,222,184,135,remote,A remote with hex color #DEB887.
+79,BurlyWood,burly wood,#DEB887,222,184,135,mug,A mug designed in #DEB887 color.
+80,BurlyWood,burly wood,#DEB887,222,184,135,vehicle,A realistic #DEB887-colored vehicle.
+81,BurlyWood,burly wood,#DEB887,222,184,135,clock,A clock with hex color #DEB887.
+82,BurlyWood,burly wood,#DEB887,222,184,135,taxi,A taxi rendered in #DEB887 color.
+83,BurlyWood,burly wood,#DEB887,222,184,135,oven,A realistic #DEB887-colored oven.
+84,BurlyWood,burly wood,#DEB887,222,184,135,sports ball,A highly detailed sports ball in hex #DEB887.
+85,BurlyWood,burly wood,#DEB887,222,184,135,orange,A orange rendered entirely in #DEB887.
+86,BurlyWood,burly wood,#DEB887,222,184,135,socks,A close-up of a socks in the color #DEB887.
+87,BurlyWood,burly wood,#DEB887,222,184,135,banana,A realistic #DEB887-colored banana.
+88,BurlyWood,burly wood,#DEB887,222,184,135,parrot,A close-up of a parrot in the color #DEB887.
+89,BurlyWood,burly wood,#DEB887,222,184,135,ruler,A ruler rendered in #DEB887 color.
+90,BurlyWood,burly wood,#DEB887,222,184,135,apple,A apple rendered entirely in #DEB887.
+91,PapayaWhip,papaya whip,#FFEFD5,255,239,213,ruler,A ruler in color #FFEFD5.
+92,PapayaWhip,papaya whip,#FFEFD5,255,239,213,snowboard,An image of a snowboard in hex color #FFEFD5.
+93,PapayaWhip,papaya whip,#FFEFD5,255,239,213,taxi,A close-up of a taxi in the color #FFEFD5.
+94,PapayaWhip,papaya whip,#FFEFD5,255,239,213,teapot,A teapot in color #FFEFD5.
+95,PapayaWhip,papaya whip,#FFEFD5,255,239,213,duck,An image of a duck in hex color #FFEFD5.
+96,PapayaWhip,papaya whip,#FFEFD5,255,239,213,fan,A photo of a fan in the color #FFEFD5.
+97,PapayaWhip,papaya whip,#FFEFD5,255,239,213,clock,A clock in color #FFEFD5.
+98,PapayaWhip,papaya whip,#FFEFD5,255,239,213,sports ball,A realistic #FFEFD5-colored sports ball.
+99,PapayaWhip,papaya whip,#FFEFD5,255,239,213,umbrella,A close-up of a umbrella in the color #FFEFD5.
+100,PapayaWhip,papaya whip,#FFEFD5,255,239,213,apple,A apple rendered in #FFEFD5 color.
+101,PapayaWhip,papaya whip,#FFEFD5,255,239,213,minivan,A minivan designed in #FFEFD5 color.
+102,PapayaWhip,papaya whip,#FFEFD5,255,239,213,vehicle,A close-up of a vehicle in the color #FFEFD5.
+103,PapayaWhip,papaya whip,#FFEFD5,255,239,213,socks,A realistic #FFEFD5-colored socks.
+104,PapayaWhip,papaya whip,#FFEFD5,255,239,213,sponge,A sponge with hex color #FFEFD5.
+105,PapayaWhip,papaya whip,#FFEFD5,255,239,213,bicycle,A highly detailed bicycle in hex #FFEFD5.
+106,Brown,brown,#A52A2A,165,42,42,sweatshirt,An image of a sweatshirt in hex color #A52A2A.
+107,Brown,brown,#A52A2A,165,42,42,candle,A candle rendered entirely in #A52A2A.
+108,Brown,brown,#A52A2A,165,42,42,sports ball,A photo of a sports ball in the color #A52A2A.
+109,Brown,brown,#A52A2A,165,42,42,sponge,A sponge in color #A52A2A.
+110,Brown,brown,#A52A2A,165,42,42,papaya,A close-up of a papaya in the color #A52A2A.
+111,Brown,brown,#A52A2A,165,42,42,tie,A close-up of a tie in the color #A52A2A.
+112,Brown,brown,#A52A2A,165,42,42,couch,A close-up of a couch in the color #A52A2A.
+113,Brown,brown,#A52A2A,165,42,42,football helmet,A realistic #A52A2A-colored football helmet.
+114,Brown,brown,#A52A2A,165,42,42,wardrobe,A wardrobe designed in #A52A2A color.
+115,Brown,brown,#A52A2A,165,42,42,sports car,A sports car with hex color #A52A2A.
+116,Brown,brown,#A52A2A,165,42,42,socks,A socks rendered entirely in #A52A2A.
+117,Brown,brown,#A52A2A,165,42,42,snowboard,A snowboard with hex color #A52A2A.
+118,Brown,brown,#A52A2A,165,42,42,desk,A desk rendered in #A52A2A color.
+119,Brown,brown,#A52A2A,165,42,42,orange,A orange designed in #A52A2A color.
+120,Brown,brown,#A52A2A,165,42,42,pants,A close-up of a pants in the color #A52A2A.
+121,NavajoWhite,navajo white,#FFDEAD,255,222,173,apple,An image of a apple in hex color #FFDEAD.
+122,NavajoWhite,navajo white,#FFDEAD,255,222,173,teapot,A teapot with hex color #FFDEAD.
+123,NavajoWhite,navajo white,#FFDEAD,255,222,173,jeans,A jeans rendered entirely in #FFDEAD.
+124,NavajoWhite,navajo white,#FFDEAD,255,222,173,couch,An image of a couch in hex color #FFDEAD.
+125,NavajoWhite,navajo white,#FFDEAD,255,222,173,orange,A orange rendered entirely in #FFDEAD.
+126,NavajoWhite,navajo white,#FFDEAD,255,222,173,parrot,A parrot rendered in #FFDEAD color.
+127,NavajoWhite,navajo white,#FFDEAD,255,222,173,bicycle,A bicycle designed in #FFDEAD color.
+128,NavajoWhite,navajo white,#FFDEAD,255,222,173,banana,A banana rendered in #FFDEAD color.
+129,NavajoWhite,navajo white,#FFDEAD,255,222,173,sports ball,A sports ball rendered entirely in #FFDEAD.
+130,NavajoWhite,navajo white,#FFDEAD,255,222,173,bear,A realistic #FFDEAD-colored bear.
+131,NavajoWhite,navajo white,#FFDEAD,255,222,173,papaya,A papaya designed in #FFDEAD color.
+132,NavajoWhite,navajo white,#FFDEAD,255,222,173,mug,A mug with hex color #FFDEAD.
+133,NavajoWhite,navajo white,#FFDEAD,255,222,173,candle,A close-up of a candle in the color #FFDEAD.
+134,NavajoWhite,navajo white,#FFDEAD,255,222,173,suitcase,A suitcase rendered in #FFDEAD color.
+135,NavajoWhite,navajo white,#FFDEAD,255,222,173,guava,A close-up of a guava in the color #FFDEAD.
+136,RosyBrown,rosy brown,#BC8F8F,188,143,143,orange,A orange with hex color #BC8F8F.
+137,RosyBrown,rosy brown,#BC8F8F,188,143,143,socks,A socks in color #BC8F8F.
+138,RosyBrown,rosy brown,#BC8F8F,188,143,143,parrot,A highly detailed parrot in hex #BC8F8F.
+139,RosyBrown,rosy brown,#BC8F8F,188,143,143,fan,A fan in color #BC8F8F.
+140,RosyBrown,rosy brown,#BC8F8F,188,143,143,remote,A close-up of a remote in the color #BC8F8F.
+141,RosyBrown,rosy brown,#BC8F8F,188,143,143,ruler,A ruler rendered entirely in #BC8F8F.
+142,RosyBrown,rosy brown,#BC8F8F,188,143,143,boxing glove,A boxing glove in color #BC8F8F.
+143,RosyBrown,rosy brown,#BC8F8F,188,143,143,sponge,A highly detailed sponge in hex #BC8F8F.
+144,RosyBrown,rosy brown,#BC8F8F,188,143,143,candle,A close-up of a candle in the color #BC8F8F.
+145,RosyBrown,rosy brown,#BC8F8F,188,143,143,crocodile,A highly detailed crocodile in hex #BC8F8F.
+146,RosyBrown,rosy brown,#BC8F8F,188,143,143,duck,A highly detailed duck in hex #BC8F8F.
+147,RosyBrown,rosy brown,#BC8F8F,188,143,143,bear,An image of a bear in hex color #BC8F8F.
+148,RosyBrown,rosy brown,#BC8F8F,188,143,143,football helmet,A highly detailed football helmet in hex #BC8F8F.
+149,RosyBrown,rosy brown,#BC8F8F,188,143,143,sweatshirt,A sweatshirt in color #BC8F8F.
+150,RosyBrown,rosy brown,#BC8F8F,188,143,143,banana,A banana rendered entirely in #BC8F8F.
+151,Orange,orange,#FFA500,255,165,0,ruler,A ruler in color #FFA500.
+152,Orange,orange,#FFA500,255,165,0,socks,An image of a socks in hex color #FFA500.
+153,Orange,orange,#FFA500,255,165,0,sweatshirt,A sweatshirt designed in #FFA500 color.
+154,Orange,orange,#FFA500,255,165,0,duck,A highly detailed duck in hex #FFA500.
+155,Orange,orange,#FFA500,255,165,0,remote,A highly detailed remote in hex #FFA500.
+156,Orange,orange,#FFA500,255,165,0,skateboard,A skateboard in color #FFA500.
+157,Orange,orange,#FFA500,255,165,0,suitcase,A suitcase in color #FFA500.
+158,Orange,orange,#FFA500,255,165,0,snowboard,A realistic #FFA500-colored snowboard.
+159,Orange,orange,#FFA500,255,165,0,sports ball,A close-up of a sports ball in the color #FFA500.
+160,Orange,orange,#FFA500,255,165,0,boxing glove,A realistic #FFA500-colored boxing glove.
+161,Orange,orange,#FFA500,255,165,0,guava,A guava rendered in #FFA500 color.
+162,Orange,orange,#FFA500,255,165,0,chair,A chair with hex color #FFA500.
+163,Orange,orange,#FFA500,255,165,0,oven,A photo of a oven in the color #FFA500.
+164,Orange,orange,#FFA500,255,165,0,desk,A desk in color #FFA500.
+165,Orange,orange,#FFA500,255,165,0,pants,A close-up of a pants in the color #FFA500.
+166,DarkGoldenRod,dark golden rod,#B8860B,184,134,11,taxi,A taxi in color #B8860B.
+167,DarkGoldenRod,dark golden rod,#B8860B,184,134,11,microwave,A realistic #B8860B-colored microwave.
+168,DarkGoldenRod,dark golden rod,#B8860B,184,134,11,bear,A bear with hex color #B8860B.
+169,DarkGoldenRod,dark golden rod,#B8860B,184,134,11,teapot,A teapot rendered in #B8860B color.
+170,DarkGoldenRod,dark golden rod,#B8860B,184,134,11,parrot,A parrot rendered in #B8860B color.
+171,DarkGoldenRod,dark golden rod,#B8860B,184,134,11,oven,A highly detailed oven in hex #B8860B.
+172,DarkGoldenRod,dark golden rod,#B8860B,184,134,11,football helmet,A close-up of a football helmet in the color #B8860B.
+173,DarkGoldenRod,dark golden rod,#B8860B,184,134,11,duck,A photo of a duck in the color #B8860B.
+174,DarkGoldenRod,dark golden rod,#B8860B,184,134,11,bicycle,A close-up of a bicycle in the color #B8860B.
+175,DarkGoldenRod,dark golden rod,#B8860B,184,134,11,jeans,A jeans rendered in #B8860B color.
+176,DarkGoldenRod,dark golden rod,#B8860B,184,134,11,boxing glove,A realistic #B8860B-colored boxing glove.
+177,DarkGoldenRod,dark golden rod,#B8860B,184,134,11,couch,A couch designed in #B8860B color.
+178,DarkGoldenRod,dark golden rod,#B8860B,184,134,11,chair,A chair rendered in #B8860B color.
+179,DarkGoldenRod,dark golden rod,#B8860B,184,134,11,skateboard,An image of a skateboard in hex color #B8860B.
+180,DarkGoldenRod,dark golden rod,#B8860B,184,134,11,clock,A clock in color #B8860B.
+181,OrangeRed,orange red,#FF4500,255,69,0,boxing glove,A boxing glove with hex color #FF4500.
+182,OrangeRed,orange red,#FF4500,255,69,0,wardrobe,A realistic #FF4500-colored wardrobe.
+183,OrangeRed,orange red,#FF4500,255,69,0,baseball bat,An image of a baseball bat in hex color #FF4500.
+184,OrangeRed,orange red,#FF4500,255,69,0,bus,A photo of a bus in the color #FF4500.
+185,OrangeRed,orange red,#FF4500,255,69,0,bicycle,A highly detailed bicycle in hex #FF4500.
+186,OrangeRed,orange red,#FF4500,255,69,0,minivan,A realistic #FF4500-colored minivan.
+187,OrangeRed,orange red,#FF4500,255,69,0,chair,A chair with hex color #FF4500.
+188,OrangeRed,orange red,#FF4500,255,69,0,skateboard,A skateboard rendered entirely in #FF4500.
+189,OrangeRed,orange red,#FF4500,255,69,0,bear,A bear with hex color #FF4500.
+190,OrangeRed,orange red,#FF4500,255,69,0,teapot,An image of a teapot in hex color #FF4500.
+191,OrangeRed,orange red,#FF4500,255,69,0,jeans,A jeans rendered in #FF4500 color.
+192,OrangeRed,orange red,#FF4500,255,69,0,sponge,A photo of a sponge in the color #FF4500.
+193,OrangeRed,orange red,#FF4500,255,69,0,snowboard,An image of a snowboard in hex color #FF4500.
+194,OrangeRed,orange red,#FF4500,255,69,0,clock,A photo of a clock in the color #FF4500.
+195,OrangeRed,orange red,#FF4500,255,69,0,apple,A close-up of a apple in the color #FF4500.
+196,Khaki,khaki,#F0E68C,240,230,140,iron,A iron rendered entirely in #F0E68C.
+197,Khaki,khaki,#F0E68C,240,230,140,sports ball,A close-up of a sports ball in the color #F0E68C.
+198,Khaki,khaki,#F0E68C,240,230,140,ruler,A ruler rendered in #F0E68C color.
+199,Khaki,khaki,#F0E68C,240,230,140,couch,A couch with hex color #F0E68C.
+200,Khaki,khaki,#F0E68C,240,230,140,sports car,A sports car in color #F0E68C.
+201,Khaki,khaki,#F0E68C,240,230,140,jeans,A jeans rendered entirely in #F0E68C.
+202,Khaki,khaki,#F0E68C,240,230,140,papaya,An image of a papaya in hex color #F0E68C.
+203,Khaki,khaki,#F0E68C,240,230,140,elephant,A elephant designed in #F0E68C color.
+204,Khaki,khaki,#F0E68C,240,230,140,sponge,A close-up of a sponge in the color #F0E68C.
+205,Khaki,khaki,#F0E68C,240,230,140,bear,A close-up of a bear in the color #F0E68C.
+206,Khaki,khaki,#F0E68C,240,230,140,cow,A cow designed in #F0E68C color.
+207,Khaki,khaki,#F0E68C,240,230,140,football helmet,A photo of a football helmet in the color #F0E68C.
+208,Khaki,khaki,#F0E68C,240,230,140,vehicle,A vehicle rendered in #F0E68C color.
+209,Khaki,khaki,#F0E68C,240,230,140,boxing glove,A close-up of a boxing glove in the color #F0E68C.
+210,Khaki,khaki,#F0E68C,240,230,140,minivan,A close-up of a minivan in the color #F0E68C.
+211,Chartreuse,chartreuse,#7FFF00,127,255,0,vehicle,A vehicle rendered in #7FFF00 color.
+212,Chartreuse,chartreuse,#7FFF00,127,255,0,ruler,A ruler with hex color #7FFF00.
+213,Chartreuse,chartreuse,#7FFF00,127,255,0,tie,A highly detailed tie in hex #7FFF00.
+214,Chartreuse,chartreuse,#7FFF00,127,255,0,guava,A guava rendered in #7FFF00 color.
+215,Chartreuse,chartreuse,#7FFF00,127,255,0,minivan,An image of a minivan in hex color #7FFF00.
+216,Chartreuse,chartreuse,#7FFF00,127,255,0,baseball bat,A baseball bat in color #7FFF00.
+217,Chartreuse,chartreuse,#7FFF00,127,255,0,apple,A highly detailed apple in hex #7FFF00.
+218,Chartreuse,chartreuse,#7FFF00,127,255,0,boxing glove,A boxing glove rendered entirely in #7FFF00.
+219,Chartreuse,chartreuse,#7FFF00,127,255,0,sports car,A photo of a sports car in the color #7FFF00.
+220,Chartreuse,chartreuse,#7FFF00,127,255,0,crocodile,A photo of a crocodile in the color #7FFF00.
+221,Chartreuse,chartreuse,#7FFF00,127,255,0,sponge,A sponge rendered entirely in #7FFF00.
+222,Chartreuse,chartreuse,#7FFF00,127,255,0,parrot,A highly detailed parrot in hex #7FFF00.
+223,Chartreuse,chartreuse,#7FFF00,127,255,0,snowboard,A realistic #7FFF00-colored snowboard.
+224,Chartreuse,chartreuse,#7FFF00,127,255,0,fan,A fan in color #7FFF00.
+225,Chartreuse,chartreuse,#7FFF00,127,255,0,clock,A clock rendered entirely in #7FFF00.
+226,YellowGreen,yellow green,#9ACD32,154,205,50,sweatshirt,A sweatshirt rendered in #9ACD32 color.
+227,YellowGreen,yellow green,#9ACD32,154,205,50,tie,A realistic #9ACD32-colored tie.
+228,YellowGreen,yellow green,#9ACD32,154,205,50,skateboard,A skateboard rendered in #9ACD32 color.
+229,YellowGreen,yellow green,#9ACD32,154,205,50,bus,A bus rendered entirely in #9ACD32.
+230,YellowGreen,yellow green,#9ACD32,154,205,50,wardrobe,A photo of a wardrobe in the color #9ACD32.
+231,YellowGreen,yellow green,#9ACD32,154,205,50,bicycle,A bicycle rendered entirely in #9ACD32.
+232,YellowGreen,yellow green,#9ACD32,154,205,50,duck,A duck rendered in #9ACD32 color.
+233,YellowGreen,yellow green,#9ACD32,154,205,50,parrot,A realistic #9ACD32-colored parrot.
+234,YellowGreen,yellow green,#9ACD32,154,205,50,sponge,A sponge with hex color #9ACD32.
+235,YellowGreen,yellow green,#9ACD32,154,205,50,taxi,A close-up of a taxi in the color #9ACD32.
+236,YellowGreen,yellow green,#9ACD32,154,205,50,snowboard,A snowboard rendered entirely in #9ACD32.
+237,YellowGreen,yellow green,#9ACD32,154,205,50,apple,A apple rendered entirely in #9ACD32.
+238,YellowGreen,yellow green,#9ACD32,154,205,50,minivan,A minivan with hex color #9ACD32.
+239,YellowGreen,yellow green,#9ACD32,154,205,50,remote,A highly detailed remote in hex #9ACD32.
+240,YellowGreen,yellow green,#9ACD32,154,205,50,clock,A highly detailed clock in hex #9ACD32.
+241,DarkSeaGreen,dark sea green,#8FBC8F,143,188,143,oven,A oven with hex color #8FBC8F.
+242,DarkSeaGreen,dark sea green,#8FBC8F,143,188,143,guava,A guava in color #8FBC8F.
+243,DarkSeaGreen,dark sea green,#8FBC8F,143,188,143,jeans,A jeans rendered in #8FBC8F color.
+244,DarkSeaGreen,dark sea green,#8FBC8F,143,188,143,bicycle,A realistic #8FBC8F-colored bicycle.
+245,DarkSeaGreen,dark sea green,#8FBC8F,143,188,143,fan,A highly detailed fan in hex #8FBC8F.
+246,DarkSeaGreen,dark sea green,#8FBC8F,143,188,143,microwave,A photo of a microwave in the color #8FBC8F.
+247,DarkSeaGreen,dark sea green,#8FBC8F,143,188,143,suitcase,A suitcase in color #8FBC8F.
+248,DarkSeaGreen,dark sea green,#8FBC8F,143,188,143,wardrobe,A close-up of a wardrobe in the color #8FBC8F.
+249,DarkSeaGreen,dark sea green,#8FBC8F,143,188,143,socks,A socks rendered in #8FBC8F color.
+250,DarkSeaGreen,dark sea green,#8FBC8F,143,188,143,remote,A close-up of a remote in the color #8FBC8F.
+251,DarkSeaGreen,dark sea green,#8FBC8F,143,188,143,desk,A close-up of a desk in the color #8FBC8F.
+252,DarkSeaGreen,dark sea green,#8FBC8F,143,188,143,teapot,A teapot with hex color #8FBC8F.
+253,DarkSeaGreen,dark sea green,#8FBC8F,143,188,143,parrot,An image of a parrot in hex color #8FBC8F.
+254,DarkSeaGreen,dark sea green,#8FBC8F,143,188,143,football helmet,An image of a football helmet in hex color #8FBC8F.
+255,DarkSeaGreen,dark sea green,#8FBC8F,143,188,143,candle,A close-up of a candle in the color #8FBC8F.
+256,PaleGreen,pale green,#98FB98,152,251,152,candle,A candle rendered entirely in #98FB98.
+257,PaleGreen,pale green,#98FB98,152,251,152,football helmet,A close-up of a football helmet in the color #98FB98.
+258,PaleGreen,pale green,#98FB98,152,251,152,apple,A apple with hex color #98FB98.
+259,PaleGreen,pale green,#98FB98,152,251,152,desk,A realistic #98FB98-colored desk.
+260,PaleGreen,pale green,#98FB98,152,251,152,papaya,A papaya designed in #98FB98 color.
+261,PaleGreen,pale green,#98FB98,152,251,152,boxing glove,An image of a boxing glove in hex color #98FB98.
+262,PaleGreen,pale green,#98FB98,152,251,152,sweatshirt,A realistic #98FB98-colored sweatshirt.
+263,PaleGreen,pale green,#98FB98,152,251,152,tie,A close-up of a tie in the color #98FB98.
+264,PaleGreen,pale green,#98FB98,152,251,152,mango,A mango in color #98FB98.
+265,PaleGreen,pale green,#98FB98,152,251,152,mug,A mug designed in #98FB98 color.
+266,PaleGreen,pale green,#98FB98,152,251,152,guava,A guava with hex color #98FB98.
+267,PaleGreen,pale green,#98FB98,152,251,152,sports ball,A sports ball designed in #98FB98 color.
+268,PaleGreen,pale green,#98FB98,152,251,152,elephant,A realistic #98FB98-colored elephant.
+269,PaleGreen,pale green,#98FB98,152,251,152,bicycle,A realistic #98FB98-colored bicycle.
+270,PaleGreen,pale green,#98FB98,152,251,152,couch,A highly detailed couch in hex #98FB98.
+271,DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79,remote,A remote rendered in #2F4F4F color.
+272,DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79,teapot,A teapot designed in #2F4F4F color.
+273,DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79,football helmet,A football helmet in color #2F4F4F.
+274,DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79,crocodile,A crocodile rendered in #2F4F4F color.
+275,DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79,wardrobe,A close-up of a wardrobe in the color #2F4F4F.
+276,DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79,jeans,A jeans rendered in #2F4F4F color.
+277,DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79,sponge,A photo of a sponge in the color #2F4F4F.
+278,DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79,bear,A photo of a bear in the color #2F4F4F.
+279,DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79,candle,A realistic #2F4F4F-colored candle.
+280,DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79,iron,A iron in color #2F4F4F.
+281,DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79,skateboard,A skateboard with hex color #2F4F4F.
+282,DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79,sports ball,A sports ball with hex color #2F4F4F.
+283,DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79,baseball bat,A close-up of a baseball bat in the color #2F4F4F.
+284,DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79,mug,A mug rendered entirely in #2F4F4F.
+285,DarkSlateGrey,dark slate grey,#2F4F4F,47,79,79,parrot,A parrot with hex color #2F4F4F.
+286,MediumSeaGreen,medium sea green,#3CB371,60,179,113,fan,A fan designed in #3CB371 color.
+287,MediumSeaGreen,medium sea green,#3CB371,60,179,113,suitcase,An image of a suitcase in hex color #3CB371.
+288,MediumSeaGreen,medium sea green,#3CB371,60,179,113,apple,A photo of a apple in the color #3CB371.
+289,MediumSeaGreen,medium sea green,#3CB371,60,179,113,papaya,A papaya rendered in #3CB371 color.
+290,MediumSeaGreen,medium sea green,#3CB371,60,179,113,ruler,A ruler rendered entirely in #3CB371.
+291,MediumSeaGreen,medium sea green,#3CB371,60,179,113,minivan,A minivan rendered entirely in #3CB371.
+292,MediumSeaGreen,medium sea green,#3CB371,60,179,113,parrot,A realistic #3CB371-colored parrot.
+293,MediumSeaGreen,medium sea green,#3CB371,60,179,113,desk,A realistic #3CB371-colored desk.
+294,MediumSeaGreen,medium sea green,#3CB371,60,179,113,snowboard,A highly detailed snowboard in hex #3CB371.
+295,MediumSeaGreen,medium sea green,#3CB371,60,179,113,orange,A close-up of a orange in the color #3CB371.
+296,MediumSeaGreen,medium sea green,#3CB371,60,179,113,sponge,A sponge designed in #3CB371 color.
+297,MediumSeaGreen,medium sea green,#3CB371,60,179,113,socks,A close-up of a socks in the color #3CB371.
+298,MediumSeaGreen,medium sea green,#3CB371,60,179,113,mango,A mango rendered in #3CB371 color.
+299,MediumSeaGreen,medium sea green,#3CB371,60,179,113,vehicle,A vehicle rendered entirely in #3CB371.
+300,MediumSeaGreen,medium sea green,#3CB371,60,179,113,duck,A duck designed in #3CB371 color.
+301,PaleTurquoise,pale turquoise,#AFEEEE,175,238,238,vehicle,A vehicle designed in #AFEEEE color.
+302,PaleTurquoise,pale turquoise,#AFEEEE,175,238,238,mango,A mango with hex color #AFEEEE.
+303,PaleTurquoise,pale turquoise,#AFEEEE,175,238,238,minivan,An image of a minivan in hex color #AFEEEE.
+304,PaleTurquoise,pale turquoise,#AFEEEE,175,238,238,ruler,A ruler rendered in #AFEEEE color.
+305,PaleTurquoise,pale turquoise,#AFEEEE,175,238,238,guava,A guava rendered entirely in #AFEEEE.
+306,PaleTurquoise,pale turquoise,#AFEEEE,175,238,238,bear,A photo of a bear in the color #AFEEEE.
+307,PaleTurquoise,pale turquoise,#AFEEEE,175,238,238,desk,A close-up of a desk in the color #AFEEEE.
+308,PaleTurquoise,pale turquoise,#AFEEEE,175,238,238,chair,A chair designed in #AFEEEE color.
+309,PaleTurquoise,pale turquoise,#AFEEEE,175,238,238,parrot,A photo of a parrot in the color #AFEEEE.
+310,PaleTurquoise,pale turquoise,#AFEEEE,175,238,238,fan,A photo of a fan in the color #AFEEEE.
+311,PaleTurquoise,pale turquoise,#AFEEEE,175,238,238,snowboard,A snowboard rendered entirely in #AFEEEE.
+312,PaleTurquoise,pale turquoise,#AFEEEE,175,238,238,sweatshirt,A sweatshirt rendered in #AFEEEE color.
+313,PaleTurquoise,pale turquoise,#AFEEEE,175,238,238,banana,A banana rendered entirely in #AFEEEE.
+314,PaleTurquoise,pale turquoise,#AFEEEE,175,238,238,wardrobe,A wardrobe rendered in #AFEEEE color.
+315,PaleTurquoise,pale turquoise,#AFEEEE,175,238,238,pants,A pants in color #AFEEEE.
+316,Aqua,aqua,#00FFFF,0,255,255,candle,A candle designed in #00FFFF color.
+317,Aqua,aqua,#00FFFF,0,255,255,vehicle,A vehicle in color #00FFFF.
+318,Aqua,aqua,#00FFFF,0,255,255,parrot,A highly detailed parrot in hex #00FFFF.
+319,Aqua,aqua,#00FFFF,0,255,255,orange,A close-up of a orange in the color #00FFFF.
+320,Aqua,aqua,#00FFFF,0,255,255,sports car,A sports car designed in #00FFFF color.
+321,Aqua,aqua,#00FFFF,0,255,255,umbrella,A umbrella rendered in #00FFFF color.
+322,Aqua,aqua,#00FFFF,0,255,255,apple,A photo of a apple in the color #00FFFF.
+323,Aqua,aqua,#00FFFF,0,255,255,bus,A bus with hex color #00FFFF.
+324,Aqua,aqua,#00FFFF,0,255,255,sponge,A highly detailed sponge in hex #00FFFF.
+325,Aqua,aqua,#00FFFF,0,255,255,sports ball,A highly detailed sports ball in hex #00FFFF.
+326,Aqua,aqua,#00FFFF,0,255,255,tie,A tie in color #00FFFF.
+327,Aqua,aqua,#00FFFF,0,255,255,socks,A socks with hex color #00FFFF.
+328,Aqua,aqua,#00FFFF,0,255,255,elephant,A elephant rendered in #00FFFF color.
+329,Aqua,aqua,#00FFFF,0,255,255,sweatshirt,A sweatshirt in color #00FFFF.
+330,Aqua,aqua,#00FFFF,0,255,255,chair,A highly detailed chair in hex #00FFFF.
+331,MediumSpringGreen,medium spring green,#00FA9A,0,250,154,vehicle,A photo of a vehicle in the color #00FA9A.
+332,MediumSpringGreen,medium spring green,#00FA9A,0,250,154,oven,A oven in color #00FA9A.
+333,MediumSpringGreen,medium spring green,#00FA9A,0,250,154,sweatshirt,A realistic #00FA9A-colored sweatshirt.
+334,MediumSpringGreen,medium spring green,#00FA9A,0,250,154,mango,A photo of a mango in the color #00FA9A.
+335,MediumSpringGreen,medium spring green,#00FA9A,0,250,154,guava,An image of a guava in hex color #00FA9A.
+336,MediumSpringGreen,medium spring green,#00FA9A,0,250,154,tie,A tie rendered entirely in #00FA9A.
+337,MediumSpringGreen,medium spring green,#00FA9A,0,250,154,apple,A apple designed in #00FA9A color.
+338,MediumSpringGreen,medium spring green,#00FA9A,0,250,154,socks,A socks in color #00FA9A.
+339,MediumSpringGreen,medium spring green,#00FA9A,0,250,154,sports ball,A sports ball rendered entirely in #00FA9A.
+340,MediumSpringGreen,medium spring green,#00FA9A,0,250,154,couch,A photo of a couch in the color #00FA9A.
+341,MediumSpringGreen,medium spring green,#00FA9A,0,250,154,sponge,A sponge designed in #00FA9A color.
+342,MediumSpringGreen,medium spring green,#00FA9A,0,250,154,clock,A clock with hex color #00FA9A.
+343,MediumSpringGreen,medium spring green,#00FA9A,0,250,154,bus,A bus rendered entirely in #00FA9A.
+344,MediumSpringGreen,medium spring green,#00FA9A,0,250,154,sports car,A sports car with hex color #00FA9A.
+345,MediumSpringGreen,medium spring green,#00FA9A,0,250,154,wardrobe,A realistic #00FA9A-colored wardrobe.
+346,DarkSlateGray,dark slate gray,#2F4F4F,47,79,79,snowboard,A snowboard designed in #2F4F4F color.
+347,DarkSlateGray,dark slate gray,#2F4F4F,47,79,79,baseball bat,A highly detailed baseball bat in hex #2F4F4F.
+348,DarkSlateGray,dark slate gray,#2F4F4F,47,79,79,football helmet,A highly detailed football helmet in hex #2F4F4F.
+349,DarkSlateGray,dark slate gray,#2F4F4F,47,79,79,parrot,A parrot rendered entirely in #2F4F4F.
+350,DarkSlateGray,dark slate gray,#2F4F4F,47,79,79,candle,A photo of a candle in the color #2F4F4F.
+351,DarkSlateGray,dark slate gray,#2F4F4F,47,79,79,desk,An image of a desk in hex color #2F4F4F.
+352,DarkSlateGray,dark slate gray,#2F4F4F,47,79,79,wardrobe,A wardrobe designed in #2F4F4F color.
+353,DarkSlateGray,dark slate gray,#2F4F4F,47,79,79,socks,A photo of a socks in the color #2F4F4F.
+354,DarkSlateGray,dark slate gray,#2F4F4F,47,79,79,sponge,A sponge with hex color #2F4F4F.
+355,DarkSlateGray,dark slate gray,#2F4F4F,47,79,79,remote,A remote designed in #2F4F4F color.
+356,DarkSlateGray,dark slate gray,#2F4F4F,47,79,79,sports ball,A close-up of a sports ball in the color #2F4F4F.
+357,DarkSlateGray,dark slate gray,#2F4F4F,47,79,79,banana,A photo of a banana in the color #2F4F4F.
+358,DarkSlateGray,dark slate gray,#2F4F4F,47,79,79,pants,A pants rendered in #2F4F4F color.
+359,DarkSlateGray,dark slate gray,#2F4F4F,47,79,79,teapot,A photo of a teapot in the color #2F4F4F.
+360,DarkSlateGray,dark slate gray,#2F4F4F,47,79,79,jeans,A jeans rendered in #2F4F4F color.
+361,PowderBlue,powder blue,#B0E0E6,176,224,230,pants,An image of a pants in hex color #B0E0E6.
+362,PowderBlue,powder blue,#B0E0E6,176,224,230,sponge,A sponge in color #B0E0E6.
+363,PowderBlue,powder blue,#B0E0E6,176,224,230,baseball bat,A baseball bat rendered in #B0E0E6 color.
+364,PowderBlue,powder blue,#B0E0E6,176,224,230,jeans,A close-up of a jeans in the color #B0E0E6.
+365,PowderBlue,powder blue,#B0E0E6,176,224,230,bicycle,A bicycle rendered entirely in #B0E0E6.
+366,PowderBlue,powder blue,#B0E0E6,176,224,230,duck,A close-up of a duck in the color #B0E0E6.
+367,PowderBlue,powder blue,#B0E0E6,176,224,230,tie,A tie rendered in #B0E0E6 color.
+368,PowderBlue,powder blue,#B0E0E6,176,224,230,banana,A highly detailed banana in hex #B0E0E6.
+369,PowderBlue,powder blue,#B0E0E6,176,224,230,sports ball,A photo of a sports ball in the color #B0E0E6.
+370,PowderBlue,powder blue,#B0E0E6,176,224,230,papaya,A papaya designed in #B0E0E6 color.
+371,PowderBlue,powder blue,#B0E0E6,176,224,230,mug,A realistic #B0E0E6-colored mug.
+372,PowderBlue,powder blue,#B0E0E6,176,224,230,socks,A realistic #B0E0E6-colored socks.
+373,PowderBlue,powder blue,#B0E0E6,176,224,230,candle,A photo of a candle in the color #B0E0E6.
+374,PowderBlue,powder blue,#B0E0E6,176,224,230,ruler,A ruler rendered entirely in #B0E0E6.
+375,PowderBlue,powder blue,#B0E0E6,176,224,230,teapot,A realistic #B0E0E6-colored teapot.
+376,SkyBlue,sky blue,#87CEEB,135,206,235,minivan,A minivan designed in #87CEEB color.
+377,SkyBlue,sky blue,#87CEEB,135,206,235,sports car,A sports car rendered in #87CEEB color.
+378,SkyBlue,sky blue,#87CEEB,135,206,235,desk,A highly detailed desk in hex #87CEEB.
+379,SkyBlue,sky blue,#87CEEB,135,206,235,baseball bat,A realistic #87CEEB-colored baseball bat.
+380,SkyBlue,sky blue,#87CEEB,135,206,235,oven,A highly detailed oven in hex #87CEEB.
+381,SkyBlue,sky blue,#87CEEB,135,206,235,skateboard,A skateboard rendered in #87CEEB color.
+382,SkyBlue,sky blue,#87CEEB,135,206,235,umbrella,A umbrella in color #87CEEB.
+383,SkyBlue,sky blue,#87CEEB,135,206,235,clock,A close-up of a clock in the color #87CEEB.
+384,SkyBlue,sky blue,#87CEEB,135,206,235,tie,A tie rendered in #87CEEB color.
+385,SkyBlue,sky blue,#87CEEB,135,206,235,remote,A close-up of a remote in the color #87CEEB.
+386,SkyBlue,sky blue,#87CEEB,135,206,235,pants,A photo of a pants in the color #87CEEB.
+387,SkyBlue,sky blue,#87CEEB,135,206,235,parrot,A parrot with hex color #87CEEB.
+388,SkyBlue,sky blue,#87CEEB,135,206,235,cow,A cow rendered in #87CEEB color.
+389,SkyBlue,sky blue,#87CEEB,135,206,235,socks,An image of a socks in hex color #87CEEB.
+390,SkyBlue,sky blue,#87CEEB,135,206,235,suitcase,A realistic #87CEEB-colored suitcase.
+391,MediumBlue,medium blue,#0000CD,0,0,205,chair,A chair with hex color #0000CD.
+392,MediumBlue,medium blue,#0000CD,0,0,205,baseball bat,An image of a baseball bat in hex color #0000CD.
+393,MediumBlue,medium blue,#0000CD,0,0,205,bus,A bus rendered in #0000CD color.
+394,MediumBlue,medium blue,#0000CD,0,0,205,orange,A orange designed in #0000CD color.
+395,MediumBlue,medium blue,#0000CD,0,0,205,jeans,A jeans in color #0000CD.
+396,MediumBlue,medium blue,#0000CD,0,0,205,microwave,A microwave in color #0000CD.
+397,MediumBlue,medium blue,#0000CD,0,0,205,fan,A fan rendered entirely in #0000CD.
+398,MediumBlue,medium blue,#0000CD,0,0,205,mug,A mug designed in #0000CD color.
+399,MediumBlue,medium blue,#0000CD,0,0,205,couch,A couch in color #0000CD.
+400,MediumBlue,medium blue,#0000CD,0,0,205,bicycle,A highly detailed bicycle in hex #0000CD.
+401,MediumBlue,medium blue,#0000CD,0,0,205,boxing glove,An image of a boxing glove in hex color #0000CD.
+402,MediumBlue,medium blue,#0000CD,0,0,205,candle,A candle with hex color #0000CD.
+403,MediumBlue,medium blue,#0000CD,0,0,205,parrot,A parrot with hex color #0000CD.
+404,MediumBlue,medium blue,#0000CD,0,0,205,teapot,A highly detailed teapot in hex #0000CD.
+405,MediumBlue,medium blue,#0000CD,0,0,205,minivan,A minivan rendered in #0000CD color.
+406,LightSlateGray,light slate gray,#778899,119,136,153,banana,A highly detailed banana in hex #778899.
+407,LightSlateGray,light slate gray,#778899,119,136,153,sports ball,A highly detailed sports ball in hex #778899.
+408,LightSlateGray,light slate gray,#778899,119,136,153,clock,An image of a clock in hex color #778899.
+409,LightSlateGray,light slate gray,#778899,119,136,153,jeans,A highly detailed jeans in hex #778899.
+410,LightSlateGray,light slate gray,#778899,119,136,153,papaya,A papaya in color #778899.
+411,LightSlateGray,light slate gray,#778899,119,136,153,pants,A close-up of a pants in the color #778899.
+412,LightSlateGray,light slate gray,#778899,119,136,153,boxing glove,A close-up of a boxing glove in the color #778899.
+413,LightSlateGray,light slate gray,#778899,119,136,153,umbrella,A umbrella rendered in #778899 color.
+414,LightSlateGray,light slate gray,#778899,119,136,153,duck,A duck in color #778899.
+415,LightSlateGray,light slate gray,#778899,119,136,153,mango,A mango with hex color #778899.
+416,LightSlateGray,light slate gray,#778899,119,136,153,teapot,A close-up of a teapot in the color #778899.
+417,LightSlateGray,light slate gray,#778899,119,136,153,ruler,A ruler with hex color #778899.
+418,LightSlateGray,light slate gray,#778899,119,136,153,oven,A realistic #778899-colored oven.
+419,LightSlateGray,light slate gray,#778899,119,136,153,wardrobe,A wardrobe in color #778899.
+420,LightSlateGray,light slate gray,#778899,119,136,153,socks,A socks with hex color #778899.
+421,MediumSlateBlue,medium slate blue,#7B68EE,123,104,238,bicycle,A bicycle rendered entirely in #7B68EE.
+422,MediumSlateBlue,medium slate blue,#7B68EE,123,104,238,papaya,A papaya in color #7B68EE.
+423,MediumSlateBlue,medium slate blue,#7B68EE,123,104,238,teapot,A realistic #7B68EE-colored teapot.
+424,MediumSlateBlue,medium slate blue,#7B68EE,123,104,238,pants,A close-up of a pants in the color #7B68EE.
+425,MediumSlateBlue,medium slate blue,#7B68EE,123,104,238,candle,A candle with hex color #7B68EE.
+426,MediumSlateBlue,medium slate blue,#7B68EE,123,104,238,microwave,A microwave rendered in #7B68EE color.
+427,MediumSlateBlue,medium slate blue,#7B68EE,123,104,238,bus,A bus with hex color #7B68EE.
+428,MediumSlateBlue,medium slate blue,#7B68EE,123,104,238,umbrella,A umbrella in color #7B68EE.
+429,MediumSlateBlue,medium slate blue,#7B68EE,123,104,238,boxing glove,An image of a boxing glove in hex color #7B68EE.
+430,MediumSlateBlue,medium slate blue,#7B68EE,123,104,238,socks,A socks with hex color #7B68EE.
+431,MediumSlateBlue,medium slate blue,#7B68EE,123,104,238,desk,A desk rendered in #7B68EE color.
+432,MediumSlateBlue,medium slate blue,#7B68EE,123,104,238,apple,A highly detailed apple in hex #7B68EE.
+433,MediumSlateBlue,medium slate blue,#7B68EE,123,104,238,ruler,A highly detailed ruler in hex #7B68EE.
+434,MediumSlateBlue,medium slate blue,#7B68EE,123,104,238,skateboard,A skateboard rendered in #7B68EE color.
+435,MediumSlateBlue,medium slate blue,#7B68EE,123,104,238,tie,A tie designed in #7B68EE color.
+436,Magenta,magenta,#FF00FF,255,0,255,clock,A clock in color #FF00FF.
+437,Magenta,magenta,#FF00FF,255,0,255,desk,A close-up of a desk in the color #FF00FF.
+438,Magenta,magenta,#FF00FF,255,0,255,oven,A highly detailed oven in hex #FF00FF.
+439,Magenta,magenta,#FF00FF,255,0,255,guava,A highly detailed guava in hex #FF00FF.
+440,Magenta,magenta,#FF00FF,255,0,255,baseball bat,An image of a baseball bat in hex color #FF00FF.
+441,Magenta,magenta,#FF00FF,255,0,255,crocodile,A crocodile rendered in #FF00FF color.
+442,Magenta,magenta,#FF00FF,255,0,255,parrot,A highly detailed parrot in hex #FF00FF.
+443,Magenta,magenta,#FF00FF,255,0,255,mug,An image of a mug in hex color #FF00FF.
+444,Magenta,magenta,#FF00FF,255,0,255,teapot,A teapot with hex color #FF00FF.
+445,Magenta,magenta,#FF00FF,255,0,255,banana,A banana designed in #FF00FF color.
+446,Magenta,magenta,#FF00FF,255,0,255,bus,A realistic #FF00FF-colored bus.
+447,Magenta,magenta,#FF00FF,255,0,255,wardrobe,A wardrobe designed in #FF00FF color.
+448,Magenta,magenta,#FF00FF,255,0,255,remote,A remote rendered in #FF00FF color.
+449,Magenta,magenta,#FF00FF,255,0,255,skateboard,A skateboard with hex color #FF00FF.
+450,Magenta,magenta,#FF00FF,255,0,255,vehicle,A highly detailed vehicle in hex #FF00FF.
+451,BlueViolet,blue violet,#8A2BE2,138,43,226,wardrobe,A wardrobe rendered entirely in #8A2BE2.
+452,BlueViolet,blue violet,#8A2BE2,138,43,226,boxing glove,A realistic #8A2BE2-colored boxing glove.
+453,BlueViolet,blue violet,#8A2BE2,138,43,226,mug,An image of a mug in hex color #8A2BE2.
+454,BlueViolet,blue violet,#8A2BE2,138,43,226,banana,A banana designed in #8A2BE2 color.
+455,BlueViolet,blue violet,#8A2BE2,138,43,226,candle,A candle in color #8A2BE2.
+456,BlueViolet,blue violet,#8A2BE2,138,43,226,sports car,A photo of a sports car in the color #8A2BE2.
+457,BlueViolet,blue violet,#8A2BE2,138,43,226,papaya,A papaya rendered in #8A2BE2 color.
+458,BlueViolet,blue violet,#8A2BE2,138,43,226,minivan,A photo of a minivan in the color #8A2BE2.
+459,BlueViolet,blue violet,#8A2BE2,138,43,226,remote,A remote in color #8A2BE2.
+460,BlueViolet,blue violet,#8A2BE2,138,43,226,couch,A couch rendered entirely in #8A2BE2.
+461,BlueViolet,blue violet,#8A2BE2,138,43,226,bear,A realistic #8A2BE2-colored bear.
+462,BlueViolet,blue violet,#8A2BE2,138,43,226,pants,An image of a pants in hex color #8A2BE2.
+463,BlueViolet,blue violet,#8A2BE2,138,43,226,football helmet,A realistic #8A2BE2-colored football helmet.
+464,BlueViolet,blue violet,#8A2BE2,138,43,226,iron,A iron designed in #8A2BE2 color.
+465,BlueViolet,blue violet,#8A2BE2,138,43,226,microwave,A microwave rendered entirely in #8A2BE2.
+466,Orchid,orchid,#DA70D6,218,112,214,orange,A orange in color #DA70D6.
+467,Orchid,orchid,#DA70D6,218,112,214,tie,An image of a tie in hex color #DA70D6.
+468,Orchid,orchid,#DA70D6,218,112,214,duck,A highly detailed duck in hex #DA70D6.
+469,Orchid,orchid,#DA70D6,218,112,214,taxi,A close-up of a taxi in the color #DA70D6.
+470,Orchid,orchid,#DA70D6,218,112,214,football helmet,A football helmet with hex color #DA70D6.
+471,Orchid,orchid,#DA70D6,218,112,214,mug,A mug rendered in #DA70D6 color.
+472,Orchid,orchid,#DA70D6,218,112,214,teapot,A realistic #DA70D6-colored teapot.
+473,Orchid,orchid,#DA70D6,218,112,214,fan,An image of a fan in hex color #DA70D6.
+474,Orchid,orchid,#DA70D6,218,112,214,suitcase,A realistic #DA70D6-colored suitcase.
+475,Orchid,orchid,#DA70D6,218,112,214,baseball bat,A baseball bat rendered entirely in #DA70D6.
+476,Orchid,orchid,#DA70D6,218,112,214,jeans,A jeans in color #DA70D6.
+477,Orchid,orchid,#DA70D6,218,112,214,chair,A close-up of a chair in the color #DA70D6.
+478,Orchid,orchid,#DA70D6,218,112,214,microwave,A microwave in color #DA70D6.
+479,Orchid,orchid,#DA70D6,218,112,214,snowboard,A snowboard designed in #DA70D6 color.
+480,Orchid,orchid,#DA70D6,218,112,214,boxing glove,A boxing glove in color #DA70D6.
+481,Purple,purple,#800080,128,0,128,snowboard,A snowboard in color #800080.
+482,Purple,purple,#800080,128,0,128,elephant,A elephant rendered in #800080 color.
+483,Purple,purple,#800080,128,0,128,mug,A mug rendered entirely in #800080.
+484,Purple,purple,#800080,128,0,128,microwave,A photo of a microwave in the color #800080.
+485,Purple,purple,#800080,128,0,128,crocodile,A realistic #800080-colored crocodile.
+486,Purple,purple,#800080,128,0,128,baseball bat,A baseball bat rendered in #800080 color.
+487,Purple,purple,#800080,128,0,128,papaya,An image of a papaya in hex color #800080.
+488,Purple,purple,#800080,128,0,128,candle,A candle rendered in #800080 color.
+489,Purple,purple,#800080,128,0,128,pants,A pants rendered in #800080 color.
+490,Purple,purple,#800080,128,0,128,sports ball,A highly detailed sports ball in hex #800080.
+491,Purple,purple,#800080,128,0,128,desk,A highly detailed desk in hex #800080.
+492,Purple,purple,#800080,128,0,128,sponge,A sponge designed in #800080 color.
+493,Purple,purple,#800080,128,0,128,mango,A mango with hex color #800080.
+494,Purple,purple,#800080,128,0,128,tie,A tie designed in #800080 color.
+495,Purple,purple,#800080,128,0,128,chair,A realistic #800080-colored chair.
+496,DarkOrchid,dark orchid,#9932CC,153,50,204,candle,A candle designed in #9932CC color.
+497,DarkOrchid,dark orchid,#9932CC,153,50,204,sports car,A sports car rendered entirely in #9932CC.
+498,DarkOrchid,dark orchid,#9932CC,153,50,204,minivan,A minivan rendered entirely in #9932CC.
+499,DarkOrchid,dark orchid,#9932CC,153,50,204,jeans,A jeans with hex color #9932CC.
+500,DarkOrchid,dark orchid,#9932CC,153,50,204,parrot,A parrot designed in #9932CC color.
+501,DarkOrchid,dark orchid,#9932CC,153,50,204,mango,An image of a mango in hex color #9932CC.
+502,DarkOrchid,dark orchid,#9932CC,153,50,204,desk,A desk with hex color #9932CC.
+503,DarkOrchid,dark orchid,#9932CC,153,50,204,remote,A realistic #9932CC-colored remote.
+504,DarkOrchid,dark orchid,#9932CC,153,50,204,tie,A highly detailed tie in hex #9932CC.
+505,DarkOrchid,dark orchid,#9932CC,153,50,204,sports ball,A photo of a sports ball in the color #9932CC.
+506,DarkOrchid,dark orchid,#9932CC,153,50,204,boxing glove,A boxing glove in color #9932CC.
+507,DarkOrchid,dark orchid,#9932CC,153,50,204,umbrella,A umbrella designed in #9932CC color.
+508,DarkOrchid,dark orchid,#9932CC,153,50,204,papaya,A papaya in color #9932CC.
+509,DarkOrchid,dark orchid,#9932CC,153,50,204,bus,A realistic #9932CC-colored bus.
+510,DarkOrchid,dark orchid,#9932CC,153,50,204,pants,A pants designed in #9932CC color.
+511,SeaShell,sea shell,#FFF5EE,255,245,238,bicycle,A realistic #FFF5EE-colored bicycle.
+512,SeaShell,sea shell,#FFF5EE,255,245,238,elephant,An image of a elephant in hex color #FFF5EE.
+513,SeaShell,sea shell,#FFF5EE,255,245,238,papaya,A highly detailed papaya in hex #FFF5EE.
+514,SeaShell,sea shell,#FFF5EE,255,245,238,snowboard,A snowboard in color #FFF5EE.
+515,SeaShell,sea shell,#FFF5EE,255,245,238,sponge,A close-up of a sponge in the color #FFF5EE.
+516,SeaShell,sea shell,#FFF5EE,255,245,238,apple,A apple rendered in #FFF5EE color.
+517,SeaShell,sea shell,#FFF5EE,255,245,238,candle,A close-up of a candle in the color #FFF5EE.
+518,SeaShell,sea shell,#FFF5EE,255,245,238,skateboard,A skateboard in color #FFF5EE.
+519,SeaShell,sea shell,#FFF5EE,255,245,238,minivan,A minivan rendered entirely in #FFF5EE.
+520,SeaShell,sea shell,#FFF5EE,255,245,238,guava,A guava in color #FFF5EE.
+521,SeaShell,sea shell,#FFF5EE,255,245,238,banana,A banana in color #FFF5EE.
+522,SeaShell,sea shell,#FFF5EE,255,245,238,socks,A socks designed in #FFF5EE color.
+523,SeaShell,sea shell,#FFF5EE,255,245,238,mango,A mango with hex color #FFF5EE.
+524,SeaShell,sea shell,#FFF5EE,255,245,238,remote,A remote rendered in #FFF5EE color.
+525,SeaShell,sea shell,#FFF5EE,255,245,238,mug,An image of a mug in hex color #FFF5EE.
+526,HoneyDew,honey dew,#F0FFF0,240,255,240,bus,A highly detailed bus in hex #F0FFF0.
+527,HoneyDew,honey dew,#F0FFF0,240,255,240,remote,A remote rendered entirely in #F0FFF0.
+528,HoneyDew,honey dew,#F0FFF0,240,255,240,orange,A highly detailed orange in hex #F0FFF0.
+529,HoneyDew,honey dew,#F0FFF0,240,255,240,microwave,A close-up of a microwave in the color #F0FFF0.
+530,HoneyDew,honey dew,#F0FFF0,240,255,240,sports car,A sports car designed in #F0FFF0 color.
+531,HoneyDew,honey dew,#F0FFF0,240,255,240,taxi,A highly detailed taxi in hex #F0FFF0.
+532,HoneyDew,honey dew,#F0FFF0,240,255,240,wardrobe,A wardrobe with hex color #F0FFF0.
+533,HoneyDew,honey dew,#F0FFF0,240,255,240,elephant,A close-up of a elephant in the color #F0FFF0.
+534,HoneyDew,honey dew,#F0FFF0,240,255,240,sports ball,A sports ball designed in #F0FFF0 color.
+535,HoneyDew,honey dew,#F0FFF0,240,255,240,duck,A duck rendered in #F0FFF0 color.
+536,HoneyDew,honey dew,#F0FFF0,240,255,240,papaya,A papaya designed in #F0FFF0 color.
+537,HoneyDew,honey dew,#F0FFF0,240,255,240,cow,A cow rendered in #F0FFF0 color.
+538,HoneyDew,honey dew,#F0FFF0,240,255,240,bear,An image of a bear in hex color #F0FFF0.
+539,HoneyDew,honey dew,#F0FFF0,240,255,240,parrot,A parrot designed in #F0FFF0 color.
+540,HoneyDew,honey dew,#F0FFF0,240,255,240,banana,A banana rendered in #F0FFF0 color.
+541,GhostWhite,ghost white,#F8F8FF,248,248,255,iron,A iron in color #F8F8FF.
+542,GhostWhite,ghost white,#F8F8FF,248,248,255,parrot,A close-up of a parrot in the color #F8F8FF.
+543,GhostWhite,ghost white,#F8F8FF,248,248,255,bear,A bear rendered entirely in #F8F8FF.
+544,GhostWhite,ghost white,#F8F8FF,248,248,255,apple,A highly detailed apple in hex #F8F8FF.
+545,GhostWhite,ghost white,#F8F8FF,248,248,255,teapot,A photo of a teapot in the color #F8F8FF.
+546,GhostWhite,ghost white,#F8F8FF,248,248,255,sports car,A highly detailed sports car in hex #F8F8FF.
+547,GhostWhite,ghost white,#F8F8FF,248,248,255,socks,A socks rendered in #F8F8FF color.
+548,GhostWhite,ghost white,#F8F8FF,248,248,255,oven,A oven rendered in #F8F8FF color.
+549,GhostWhite,ghost white,#F8F8FF,248,248,255,wardrobe,An image of a wardrobe in hex color #F8F8FF.
+550,GhostWhite,ghost white,#F8F8FF,248,248,255,skateboard,A skateboard rendered entirely in #F8F8FF.
+551,GhostWhite,ghost white,#F8F8FF,248,248,255,desk,A desk rendered in #F8F8FF color.
+552,GhostWhite,ghost white,#F8F8FF,248,248,255,pants,An image of a pants in hex color #F8F8FF.
+553,GhostWhite,ghost white,#F8F8FF,248,248,255,tie,A highly detailed tie in hex #F8F8FF.
+554,GhostWhite,ghost white,#F8F8FF,248,248,255,mango,An image of a mango in hex color #F8F8FF.
+555,GhostWhite,ghost white,#F8F8FF,248,248,255,candle,A highly detailed candle in hex #F8F8FF.
+556,FloralWhite,floral white,#FFFAF0,255,250,240,mug,A mug with hex color #FFFAF0.
+557,FloralWhite,floral white,#FFFAF0,255,250,240,microwave,A microwave in color #FFFAF0.
+558,FloralWhite,floral white,#FFFAF0,255,250,240,umbrella,A umbrella rendered in #FFFAF0 color.
+559,FloralWhite,floral white,#FFFAF0,255,250,240,pants,A photo of a pants in the color #FFFAF0.
+560,FloralWhite,floral white,#FFFAF0,255,250,240,sports car,A sports car rendered entirely in #FFFAF0.
+561,FloralWhite,floral white,#FFFAF0,255,250,240,iron,A iron with hex color #FFFAF0.
+562,FloralWhite,floral white,#FFFAF0,255,250,240,tie,A close-up of a tie in the color #FFFAF0.
+563,FloralWhite,floral white,#FFFAF0,255,250,240,skateboard,A skateboard with hex color #FFFAF0.
+564,FloralWhite,floral white,#FFFAF0,255,250,240,chair,A realistic #FFFAF0-colored chair.
+565,FloralWhite,floral white,#FFFAF0,255,250,240,couch,A photo of a couch in the color #FFFAF0.
+566,FloralWhite,floral white,#FFFAF0,255,250,240,bus,A realistic #FFFAF0-colored bus.
+567,FloralWhite,floral white,#FFFAF0,255,250,240,oven,A realistic #FFFAF0-colored oven.
+568,FloralWhite,floral white,#FFFAF0,255,250,240,teapot,A teapot rendered in #FFFAF0 color.
+569,FloralWhite,floral white,#FFFAF0,255,250,240,jeans,A jeans with hex color #FFFAF0.
+570,FloralWhite,floral white,#FFFAF0,255,250,240,taxi,A taxi rendered in #FFFAF0 color.
+571,DarkGray,dark gray,#A9A9A9,169,169,169,candle,A realistic #A9A9A9-colored candle.
+572,DarkGray,dark gray,#A9A9A9,169,169,169,microwave,A microwave in color #A9A9A9.
+573,DarkGray,dark gray,#A9A9A9,169,169,169,minivan,A minivan designed in #A9A9A9 color.
+574,DarkGray,dark gray,#A9A9A9,169,169,169,clock,A photo of a clock in the color #A9A9A9.
+575,DarkGray,dark gray,#A9A9A9,169,169,169,desk,A desk rendered in #A9A9A9 color.
+576,DarkGray,dark gray,#A9A9A9,169,169,169,apple,A highly detailed apple in hex #A9A9A9.
+577,DarkGray,dark gray,#A9A9A9,169,169,169,elephant,A elephant rendered entirely in #A9A9A9.
+578,DarkGray,dark gray,#A9A9A9,169,169,169,umbrella,A photo of a umbrella in the color #A9A9A9.
+579,DarkGray,dark gray,#A9A9A9,169,169,169,guava,A guava in color #A9A9A9.
+580,DarkGray,dark gray,#A9A9A9,169,169,169,jeans,A close-up of a jeans in the color #A9A9A9.
+581,DarkGray,dark gray,#A9A9A9,169,169,169,taxi,A taxi designed in #A9A9A9 color.
+582,DarkGray,dark gray,#A9A9A9,169,169,169,banana,An image of a banana in hex color #A9A9A9.
+583,DarkGray,dark gray,#A9A9A9,169,169,169,socks,A highly detailed socks in hex #A9A9A9.
+584,DarkGray,dark gray,#A9A9A9,169,169,169,bicycle,A realistic #A9A9A9-colored bicycle.
+585,DarkGray,dark gray,#A9A9A9,169,169,169,skateboard,A photo of a skateboard in the color #A9A9A9.
+586,DimGray,dim gray,#696969,105,105,105,football helmet,A football helmet in color #696969.
+587,DimGray,dim gray,#696969,105,105,105,umbrella,A close-up of a umbrella in the color #696969.
+588,DimGray,dim gray,#696969,105,105,105,snowboard,A realistic #696969-colored snowboard.
+589,DimGray,dim gray,#696969,105,105,105,apple,A apple with hex color #696969.
+590,DimGray,dim gray,#696969,105,105,105,boxing glove,A boxing glove rendered entirely in #696969.
+591,DimGray,dim gray,#696969,105,105,105,desk,A desk designed in #696969 color.
+592,DimGray,dim gray,#696969,105,105,105,oven,A photo of a oven in the color #696969.
+593,DimGray,dim gray,#696969,105,105,105,papaya,A realistic #696969-colored papaya.
+594,DimGray,dim gray,#696969,105,105,105,clock,A clock rendered entirely in #696969.
+595,DimGray,dim gray,#696969,105,105,105,chair,A highly detailed chair in hex #696969.
+596,DimGray,dim gray,#696969,105,105,105,bus,A bus with hex color #696969.
+597,DimGray,dim gray,#696969,105,105,105,jeans,A jeans rendered entirely in #696969.
+598,DimGray,dim gray,#696969,105,105,105,fan,A fan in color #696969.
+599,DimGray,dim gray,#696969,105,105,105,mug,A mug designed in #696969 color.
+600,DimGray,dim gray,#696969,105,105,105,socks,A highly detailed socks in hex #696969.
+601,Thistle,thistle,#D8BFD8,216,191,216,papaya,A papaya rendered in #D8BFD8 color.
+602,Thistle,thistle,#D8BFD8,216,191,216,baseball bat,A close-up of a baseball bat in the color #D8BFD8.
+603,Thistle,thistle,#D8BFD8,216,191,216,bus,A bus in color #D8BFD8.
+604,Thistle,thistle,#D8BFD8,216,191,216,taxi,A taxi designed in #D8BFD8 color.
+605,Thistle,thistle,#D8BFD8,216,191,216,suitcase,A suitcase in color #D8BFD8.
+606,Thistle,thistle,#D8BFD8,216,191,216,teapot,A close-up of a teapot in the color #D8BFD8.
+607,Thistle,thistle,#D8BFD8,216,191,216,boxing glove,A highly detailed boxing glove in hex #D8BFD8.
+608,Thistle,thistle,#D8BFD8,216,191,216,sports ball,An image of a sports ball in hex color #D8BFD8.
+609,Thistle,thistle,#D8BFD8,216,191,216,ruler,An image of a ruler in hex color #D8BFD8.
+610,Thistle,thistle,#D8BFD8,216,191,216,couch,A photo of a couch in the color #D8BFD8.
+611,Thistle,thistle,#D8BFD8,216,191,216,socks,A close-up of a socks in the color #D8BFD8.
+612,Thistle,thistle,#D8BFD8,216,191,216,parrot,A parrot with hex color #D8BFD8.
+613,Thistle,thistle,#D8BFD8,216,191,216,sports car,A highly detailed sports car in hex #D8BFD8.
+614,Thistle,thistle,#D8BFD8,216,191,216,orange,A close-up of a orange in the color #D8BFD8.
+615,Thistle,thistle,#D8BFD8,216,191,216,guava,A guava in color #D8BFD8.
+616,Black,black,#000000,0,0,0,jeans,An image of a jeans in hex color #000000.
+617,Black,black,#000000,0,0,0,suitcase,A suitcase with hex color #000000.
+618,Black,black,#000000,0,0,0,socks,An image of a socks in hex color #000000.
+619,Black,black,#000000,0,0,0,sponge,A photo of a sponge in the color #000000.
+620,Black,black,#000000,0,0,0,umbrella,A close-up of a umbrella in the color #000000.
+621,Black,black,#000000,0,0,0,minivan,A highly detailed minivan in hex #000000.
+622,Black,black,#000000,0,0,0,elephant,A photo of a elephant in the color #000000.
+623,Black,black,#000000,0,0,0,pants,An image of a pants in hex color #000000.
+624,Black,black,#000000,0,0,0,bicycle,A bicycle with hex color #000000.
+625,Black,black,#000000,0,0,0,baseball bat,A baseball bat rendered in #000000 color.
+626,Black,black,#000000,0,0,0,football helmet,An image of a football helmet in hex color #000000.
+627,Black,black,#000000,0,0,0,chair,A chair with hex color #000000.
+628,Black,black,#000000,0,0,0,skateboard,A skateboard rendered entirely in #000000.
+629,Black,black,#000000,0,0,0,cow,A realistic #000000-colored cow.
+630,Black,black,#000000,0,0,0,clock,A clock in color #000000.
+631,Cornsilk,cornsilk,#FFF8DC,255,248,220,apple,An image of a apple in hex color #FFF8DC.
+632,Cornsilk,cornsilk,#FFF8DC,255,248,220,candle,A candle designed in #FFF8DC color.
+633,Cornsilk,cornsilk,#FFF8DC,255,248,220,teapot,A teapot rendered entirely in #FFF8DC.
+634,Cornsilk,cornsilk,#FFF8DC,255,248,220,taxi,A taxi rendered entirely in #FFF8DC.
+635,Cornsilk,cornsilk,#FFF8DC,255,248,220,crocodile,A crocodile in color #FFF8DC.
+636,Cornsilk,cornsilk,#FFF8DC,255,248,220,socks,A socks designed in #FFF8DC color.
+637,Cornsilk,cornsilk,#FFF8DC,255,248,220,couch,A couch designed in #FFF8DC color.
+638,Cornsilk,cornsilk,#FFF8DC,255,248,220,iron,A iron in color #FFF8DC.
+639,Cornsilk,cornsilk,#FFF8DC,255,248,220,snowboard,A snowboard in color #FFF8DC.
+640,Cornsilk,cornsilk,#FFF8DC,255,248,220,umbrella,A photo of a umbrella in the color #FFF8DC.
+641,Cornsilk,cornsilk,#FFF8DC,255,248,220,bus,A highly detailed bus in hex #FFF8DC.
+642,Cornsilk,cornsilk,#FFF8DC,255,248,220,duck,A duck with hex color #FFF8DC.
+643,Cornsilk,cornsilk,#FFF8DC,255,248,220,oven,A oven in color #FFF8DC.
+644,Cornsilk,cornsilk,#FFF8DC,255,248,220,desk,A desk with hex color #FFF8DC.
+645,Cornsilk,cornsilk,#FFF8DC,255,248,220,vehicle,A vehicle rendered in #FFF8DC color.
+646,LightBlue,light blue,#ADD8E6,173,216,230,football helmet,A football helmet rendered entirely in #ADD8E6.
+647,LightBlue,light blue,#ADD8E6,173,216,230,boxing glove,A boxing glove designed in #ADD8E6 color.
+648,LightBlue,light blue,#ADD8E6,173,216,230,socks,A close-up of a socks in the color #ADD8E6.
+649,LightBlue,light blue,#ADD8E6,173,216,230,jeans,A jeans rendered entirely in #ADD8E6.
+650,LightBlue,light blue,#ADD8E6,173,216,230,remote,A photo of a remote in the color #ADD8E6.
+651,LightBlue,light blue,#ADD8E6,173,216,230,mango,A mango designed in #ADD8E6 color.
+652,LightBlue,light blue,#ADD8E6,173,216,230,pants,A pants rendered entirely in #ADD8E6.
+653,LightBlue,light blue,#ADD8E6,173,216,230,duck,A duck rendered entirely in #ADD8E6.
+654,LightBlue,light blue,#ADD8E6,173,216,230,microwave,A microwave in color #ADD8E6.
+655,LightBlue,light blue,#ADD8E6,173,216,230,desk,A photo of a desk in the color #ADD8E6.
+656,LightBlue,light blue,#ADD8E6,173,216,230,crocodile,A crocodile rendered entirely in #ADD8E6.
+657,LightBlue,light blue,#ADD8E6,173,216,230,wardrobe,A photo of a wardrobe in the color #ADD8E6.
+658,LightBlue,light blue,#ADD8E6,173,216,230,couch,A couch rendered in #ADD8E6 color.
+659,LightBlue,light blue,#ADD8E6,173,216,230,clock,A photo of a clock in the color #ADD8E6.
+660,LightBlue,light blue,#ADD8E6,173,216,230,suitcase,A suitcase with hex color #ADD8E6.
+661,Cyan,cyan,#00FFFF,0,255,255,iron,A photo of a iron in the color #00FFFF.
+662,Cyan,cyan,#00FFFF,0,255,255,candle,A candle rendered entirely in #00FFFF.
+663,Cyan,cyan,#00FFFF,0,255,255,apple,An image of a apple in hex color #00FFFF.
+664,Cyan,cyan,#00FFFF,0,255,255,banana,A banana rendered in #00FFFF color.
+665,Cyan,cyan,#00FFFF,0,255,255,ruler,A highly detailed ruler in hex #00FFFF.
+666,Cyan,cyan,#00FFFF,0,255,255,snowboard,A snowboard rendered in #00FFFF color.
+667,Cyan,cyan,#00FFFF,0,255,255,wardrobe,A photo of a wardrobe in the color #00FFFF.
+668,Cyan,cyan,#00FFFF,0,255,255,couch,A couch in color #00FFFF.
+669,Cyan,cyan,#00FFFF,0,255,255,taxi,A highly detailed taxi in hex #00FFFF.
+670,Cyan,cyan,#00FFFF,0,255,255,chair,A realistic #00FFFF-colored chair.
+671,Cyan,cyan,#00FFFF,0,255,255,jeans,A close-up of a jeans in the color #00FFFF.
+672,Cyan,cyan,#00FFFF,0,255,255,orange,A orange with hex color #00FFFF.
+673,Cyan,cyan,#00FFFF,0,255,255,minivan,A minivan designed in #00FFFF color.
+674,Cyan,cyan,#00FFFF,0,255,255,clock,A close-up of a clock in the color #00FFFF.
+675,Cyan,cyan,#00FFFF,0,255,255,papaya,A papaya in color #00FFFF.

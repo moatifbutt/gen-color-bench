@@ -1,0 +1,147 @@
+{
+  "version": "v3",
+  "total_prompts": 10315,
+  "n_files": 21,
+  "seed": 42,
+  "naming_convention": {
+    "cna": "Color Name Accuracy (was Task 1)",
+    "ncu": "Numeric Color Understanding (was Task 2)",
+    "coa": "Color-Object Association (was Task 3)",
+    "moc": "Multi-Object Color Composition (was Task 4)",
+    "ica": "Implicit Color Association (was Task 5)"
+  },
+  "stratification": {
+    "l3_shades_per_l1": 4,
+    "css_sample_size": 45,
+    "n_objects_stratified": 46,
+    "n_l3_colors_stratified": 45
+  },
+  "files": [
+    {
+      "task": "cna",
+      "color_system": "iscc_l1",
+      "n_prompts": 520,
+      "filename": "cna_l1.csv"
+    },
+    {
+      "task": "cna",
+      "color_system": "iscc_l2",
+      "n_prompts": 1015,
+      "filename": "cna_l2.csv"
+    },
+    {
+      "task": "cna",
+      "color_system": "iscc_l3",
+      "n_prompts": 1350,
+      "filename": "cna_l3.csv"
+    },
+    {
+      "task": "cna",
+      "color_system": "css",
+      "n_prompts": 1125,
+      "filename": "cna_css.csv"
+    },
+    {
+      "task": "ncu_rgb",
+      "color_system": "iscc_l1",
+      "n_prompts": 325,
+      "filename": "ncu_rgb_l1.csv"
+    },
+    {
+      "task": "ncu_rgb",
+      "color_system": "iscc_l2",
+      "n_prompts": 580,
+      "filename": "ncu_rgb_l2.csv"
+    },
+    {
+      "task": "ncu_rgb",
+      "color_system": "iscc_l3",
+      "n_prompts": 675,
+      "filename": "ncu_rgb_l3.csv"
+    },
+    {
+      "task": "ncu_rgb",
+      "color_system": "css",
+      "n_prompts": 675,
+      "filename": "ncu_rgb_css.csv"
+    },
+    {
+      "task": "ncu_hex",
+      "color_system": "css",
+      "n_prompts": 675,
+      "filename": "ncu_hex_css.csv"
+    },
+    {
+      "task": "coa",
+      "color_system": "iscc_l1",
+      "n_prompts": 195,
+      "filename": "coa_l1.csv"
+    },
+    {
+      "task": "coa",
+      "color_system": "iscc_l2",
+      "n_prompts": 348,
+      "filename": "coa_l2.csv"
+    },
+    {
+      "task": "coa",
+      "color_system": "iscc_l3",
+      "n_prompts": 360,
+      "filename": "coa_l3.csv"
+    },
+    {
+      "task": "coa",
+      "color_system": "css",
+      "n_prompts": 360,
+      "filename": "coa_css.csv"
+    },
+    {
+      "task": "moc",
+      "color_system": "iscc_l1",
+      "n_prompts": 200,
+      "filename": "moc_l1.csv"
+    },
+    {
+      "task": "moc",
+      "color_system": "iscc_l2",
+      "n_prompts": 350,
+      "filename": "moc_l2.csv"
+    },
+    {
+      "task": "moc",
+      "color_system": "iscc_l3",
+      "n_prompts": 400,
+      "filename": "moc_l3.csv"
+    },
+    {
+      "task": "moc",
+      "color_system": "css",
+      "n_prompts": 350,
+      "filename": "moc_css.csv"
+    },
+    {
+      "task": "ica",
+      "color_system": "iscc_l1",
+      "n_prompts": 130,
+      "filename": "ica_l1.csv"
+    },
+    {
+      "task": "ica",
+      "color_system": "iscc_l2",
+      "n_prompts": 232,
+      "filename": "ica_l2.csv"
+    },
+    {
+      "task": "ica",
+      "color_system": "iscc_l3",
+      "n_prompts": 225,
+      "filename": "ica_l3.csv"
+    },
+    {
+      "task": "ica",
+      "color_system": "css",
+      "n_prompts": 225,
+      "filename": "ica_css.csv"
+    }
+  ]
+}

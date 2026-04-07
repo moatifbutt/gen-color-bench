@@ -1,0 +1,201 @@
+id,color_count,object1,color1,object2,color2,object3,color3,prompt
+1,2,hat,Pink,suitcase,Red,,,A Pink hat resting on a Red suitcase.
+2,2,minivan,Orange,bicycle,Brown,,,A Orange minivan parked beside a Brown bicycle in the driveway.
+3,2,snowboard,Yellow,skis,Olive,,,A Yellow snowboard resting against Olive skis by the cabin.
+4,2,carrot,Yellow green,broccoli,Green,,,A Yellow green carrot and a Green broccoli on a cutting board.
+5,3,couch,Blue,table,Purple,vase,White,A Blue couch with a Purple table and a White vase in the living room.
+6,3,boat,Gray,jeep,Black,airplane,Pink,"A Gray boat, a Black jeep, and a Pink airplane at the lakeside."
+7,2,sheep,Red,horse,Orange,,,A Red sheep grazing next to a Orange horse in the meadow.
+8,2,pillow,Brown,curtain,Yellow,,,A Brown pillow on the bed near a Yellow curtain by the window.
+9,2,skateboard,Olive,frisbee,Yellow green,,,A Olive skateboard beside a Yellow green frisbee on the grass.
+10,2,tie,Green,suit,Blue,,,A Green tie draped over a Blue suit in the closet.
+11,2,baseball bat,Purple,golf ball,White,,,A Purple baseball bat next to a White golf ball on the floor.
+12,2,refrigerator,Gray,oven,Black,,,A Gray refrigerator beside a Black oven in the kitchen.
+13,3,dog,Pink,cat,Red,horse,Orange,A Pink dog next to a Red cat and a Orange horse in the yard.
+14,2,duck,Brown,cow,Yellow,,,A Brown duck swimming near a Yellow cow by the pond.
+15,2,clock,Olive,candle,Yellow green,,,A Olive clock beside a Yellow green candle on the mantle.
+16,2,backpack,Green,bicycle,Blue,,,A Green backpack hanging on a Blue bicycle.
+17,3,papaya,Purple,guava,White,carrot,Gray,"A Purple papaya, a White guava, and a Gray carrot on the table."
+18,3,surfboard,Black,kite,Pink,frisbee,Red,"A Black surfboard, a Pink kite, and a Red frisbee on the beach."
+19,2,knife,Orange,cutting board,Brown,,,A Orange knife on a Brown cutting board in the kitchen.
+20,2,umbrella,Yellow,car,Olive,,,A Yellow umbrella leaning against a Olive car.
+21,2,remote,Yellow green,computer mouse,Green,,,A Yellow green remote beside a Green computer mouse on the desk.
+22,3,remote,Blue,computer mouse,Purple,fan,White,"A Blue remote, a Purple computer mouse, and a White fan on the desk."
+23,3,wardrobe,Gray,bookcase,Black,desk,Pink,A Gray wardrobe beside a Black bookcase and a Pink desk in the room.
+24,3,broccoli,Red,orange,Orange,apple,Brown,A Red broccoli beside a Orange orange and a Brown apple on the counter.
+25,2,backpack,Yellow,umbrella,Olive,,,A Yellow backpack leaning against a Olive umbrella by the door.
+26,2,boat,Yellow green,jeep,Green,,,A Yellow green boat docked near a Green jeep at the marina.
+27,2,socks,Blue,towel,Purple,,,A Blue socks next to a Purple towel on the dresser.
+28,3,chair,White,desk,Gray,bookcase,Black,"A White chair, a Gray desk, and a Black bookcase in the office."
+29,2,T-shirt,Pink,jeans,Red,,,A Pink T-shirt and Red jeans folded on the bed.
+30,2,teddybear,Orange,balloon,Brown,,,A Orange teddybear holding a Brown balloon on the bed.
+31,3,strawberry,Yellow,mango,Olive,lemon,Yellow green,"A Yellow strawberry, a Olive mango, and a Yellow green lemon on a plate."
+32,2,surfboard,Green,kite,Blue,,,A Green surfboard leaning near a Blue kite on the beach.
+33,2,sports ball,Purple,baseball glove,White,,,A Purple sports ball next to a White baseball glove on the bench.
+34,3,hat,Gray,suitcase,Black,umbrella,Pink,"A Gray hat, a Black suitcase, and a Pink umbrella at the entrance."
+35,2,microwave,Red,toaster,Orange,,,A Red microwave next to a Orange toaster on the counter.
+36,3,backpack,Brown,umbrella,Yellow,suitcase,Olive,"A Brown backpack, a Yellow umbrella, and a Olive suitcase by the door."
+37,2,dog,Yellow green,cat,Green,,,A Yellow green dog sitting beside a Green cat on the floor.
+38,2,sweatshirt,Blue,pants,Purple,,,A Blue sweatshirt folded beside Purple pants on the shelf.
+39,2,vase,White,clock,Gray,,,A White vase next to a Gray clock on the shelf.
+40,2,owl,Black,cat,Pink,,,A Black owl perched above a Pink cat at night.
+41,3,bicycle,Red,motorcycle,Orange,airplane,Brown,"A Red bicycle, a Orange motorcycle, and a Brown airplane at the airport."
+42,3,cow,Yellow,sheep,Olive,elephant,Yellow green,"A Yellow cow, a Olive sheep, and a Yellow green elephant at the zoo."
+43,2,fan,Green,sponge,Blue,,,A Green fan beside a Blue sponge on the shelf.
+44,2,airplane,Purple,truck,White,,,A Purple airplane flying above a White truck on the runway.
+45,2,handbag,Gray,suitcase,Black,,,A Gray handbag placed on a Black suitcase at the airport.
+46,3,mug,Pink,teapot,Red,candle,Orange,"A Pink mug, a Red teapot, and a Orange candle on the dining table."
+47,2,mango,Brown,papaya,Yellow,,,A Brown mango and a Yellow papaya in a fruit bowl.
+48,2,turtle,Olive,crocodile,Yellow green,,,A Olive turtle resting near a Yellow green crocodile by the river.
+49,2,wallet,Green,tie,Blue,,,A Green wallet beside a Blue tie on the table.
+50,2,hammer,Purple,wrench,White,,,A Purple hammer next to a White wrench on the workbench.
+51,2,table,Gray,wardrobe,Black,,,A Gray table beside a Black wardrobe in the bedroom.
+52,3,T-shirt,Pink,jeans,Red,socks,Orange,"A Pink T-shirt, Red jeans, and Orange socks on the bed."
+53,2,mug,Brown,teapot,Yellow,,,A Brown mug beside a Yellow teapot on the table.
+54,2,car,Olive,bus,Yellow green,,,A Olive car parked near a Yellow green bus on the street.
+55,2,bicycle,Green,motorcycle,Blue,,,A Green bicycle next to a Blue motorcycle in the garage.
+56,3,banana,Purple,apple,White,orange,Gray,"A Purple banana, a White apple, and a Gray orange in a fruit bowl."
+57,2,hair dryer,Black,iron,Pink,,,A Black hair dryer next to an Pink iron on the bathroom counter.
+58,3,clock,Red,vase,Orange,book,Brown,"A Red clock, a Orange vase, and a Brown book on the shelf."
+59,2,taxi,Yellow,bus,Olive,,,A Yellow taxi and a Olive bus at the station.
+60,3,microwave,Yellow green,toaster,Green,refrigerator,Blue,"A Yellow green microwave, a Green toaster, and a Blue refrigerator in the kitchen."
+61,2,couch,Purple,bookcase,White,,,A Purple couch facing a White bookcase in the living room.
+62,3,pillow,Gray,curtain,Black,clock,Pink,"A Gray pillow on the bed, a Black curtain by the window, and a Pink clock on the wall."
+63,2,football helmet,Red,boxing glove,Orange,,,A Red football helmet beside a Orange boxing glove on the shelf.
+64,2,chair,Brown,desk,Yellow,,,A Brown chair and a Yellow desk in a sunlit room.
+65,2,banana,Olive,apple,Yellow green,,,A Olive banana and a Yellow green apple on a wooden table.
+66,3,backpack,Green,bicycle,Blue,umbrella,Purple,A Green backpack on a Blue bicycle next to a Purple umbrella.
+67,2,book,White,mug,Gray,,,A White book next to a Gray mug on the coffee table.
+68,3,hammer,Black,wrench,Pink,saw,Red,"A Black hammer, a Pink wrench, and a Red saw on the workbench."
+69,2,ruler,Orange,saw,Brown,,,A Orange ruler next to a Brown saw on the workshop table.
+70,2,candle,Yellow,book,Olive,,,A Yellow candle next to a Olive book on the nightstand.
+71,3,handbag,Yellow green,wallet,Green,hat,Blue,A Yellow green handbag with a Green wallet and a Blue hat on the table.
+72,3,car,Purple,bus,White,truck,Gray,A Purple car parked near a White bus and a Gray truck on the street.
+73,2,potted plant,Black,vase,Pink,,,A Black potted plant beside a Pink vase on the windowsill.
+74,2,sink,Red,trash can,Orange,,,A Red sink beside a Orange trash can in the kitchen.
+75,3,skateboard,Brown,sports ball,Yellow,baseball bat,Olive,A Brown skateboard beside a Yellow sports ball and a Olive baseball bat.
+76,3,book,Yellow green,mug,Green,candle,Blue,"A Yellow green book, a Green mug, and a Blue candle on the coffee table."
+77,2,orange,Purple,guava,White,,,A Purple orange beside a White guava on the kitchen counter.
+78,2,lipstick,Gray,handbag,Black,,,A Gray lipstick inside a Black handbag on the vanity.
+79,3,tie,Pink,hat,Red,jacket,Orange,"A Pink tie, a Red hat, and a Orange jacket on the bed."
+80,2,sports car,Brown,truck,Yellow,,,A Brown sports car next to a Yellow truck in the parking lot.
+81,3,bear,Olive,turtle,Yellow green,crocodile,Green,A Olive bear near a Yellow green turtle and a Green crocodile by the river.
+82,2,horse,Blue,cow,Purple,,,A Blue horse standing with a Purple cow in the field.
+83,2,parrot,White,dog,Gray,,,A White parrot perched near a Gray dog in the yard.
+84,2,thermos,Black,tissue box,Pink,,,A Black thermos next to a Pink tissue box on the desk.
+85,2,jacket,Red,hat,Orange,,,A Red jacket hanging beside a Orange hat on the rack.
+86,2,coat,Brown,hat,Yellow,,,A Brown coat hanging next to a Yellow hat on the hook.
+87,2,strawberry,Olive,lemon,Yellow green,,,A Olive strawberry next to a Yellow green lemon on a plate.
+88,2,elephant,Green,bear,Blue,,,A Green elephant near a Blue bear in the wild.
+89,3,teddybear,Purple,balloon,White,football helmet,Gray,A Purple teddybear with a White balloon next to a Gray football helmet.
+90,2,hat,Black,suitcase,Pink,,,A Black hat resting on a Pink suitcase.
+91,2,minivan,Red,bicycle,Orange,,,A Red minivan parked beside a Orange bicycle in the driveway.
+92,2,snowboard,Brown,skis,Yellow,,,A Brown snowboard resting against Yellow skis by the cabin.
+93,2,carrot,Olive,broccoli,Yellow green,,,A Olive carrot and a Yellow green broccoli on a cutting board.
+94,3,couch,Green,table,Blue,vase,Purple,A Green couch with a Blue table and a Purple vase in the living room.
+95,3,boat,White,jeep,Gray,airplane,Black,"A White boat, a Gray jeep, and a Black airplane at the lakeside."
+96,2,sheep,Pink,horse,Red,,,A Pink sheep grazing next to a Red horse in the meadow.
+97,2,pillow,Orange,curtain,Brown,,,A Orange pillow on the bed near a Brown curtain by the window.
+98,2,skateboard,Yellow,frisbee,Olive,,,A Yellow skateboard beside a Olive frisbee on the grass.
+99,2,tie,Yellow green,suit,Green,,,A Yellow green tie draped over a Green suit in the closet.
+100,2,baseball bat,Blue,golf ball,Purple,,,A Blue baseball bat next to a Purple golf ball on the floor.
+101,2,refrigerator,White,oven,Gray,,,A White refrigerator beside a Gray oven in the kitchen.
+102,3,dog,Black,cat,Pink,horse,Red,A Black dog next to a Pink cat and a Red horse in the yard.
+103,2,duck,Orange,cow,Brown,,,A Orange duck swimming near a Brown cow by the pond.
+104,2,clock,Yellow,candle,Olive,,,A Yellow clock beside a Olive candle on the mantle.
+105,2,backpack,Yellow green,bicycle,Green,,,A Yellow green backpack hanging on a Green bicycle.
+106,3,papaya,Blue,guava,Purple,carrot,White,"A Blue papaya, a Purple guava, and a White carrot on the table."
+107,3,surfboard,Gray,kite,Black,frisbee,Pink,"A Gray surfboard, a Black kite, and a Pink frisbee on the beach."
+108,2,knife,Red,cutting board,Orange,,,A Red knife on a Orange cutting board in the kitchen.
+109,2,umbrella,Brown,car,Yellow,,,A Brown umbrella leaning against a Yellow car.
+110,2,remote,Olive,computer mouse,Yellow green,,,A Olive remote beside a Yellow green computer mouse on the desk.
+111,3,remote,Green,computer mouse,Blue,fan,Purple,"A Green remote, a Blue computer mouse, and a Purple fan on the desk."
+112,3,wardrobe,White,bookcase,Gray,desk,Black,A White wardrobe beside a Gray bookcase and a Black desk in the room.
+113,3,broccoli,Pink,orange,Red,apple,Orange,A Pink broccoli beside a Red orange and a Orange apple on the counter.
+114,2,backpack,Brown,umbrella,Yellow,,,A Brown backpack leaning against a Yellow umbrella by the door.
+115,2,boat,Olive,jeep,Yellow green,,,A Olive boat docked near a Yellow green jeep at the marina.
+116,2,socks,Green,towel,Blue,,,A Green socks next to a Blue towel on the dresser.
+117,3,chair,Purple,desk,White,bookcase,Gray,"A Purple chair, a White desk, and a Gray bookcase in the office."
+118,2,T-shirt,Black,jeans,Pink,,,A Black T-shirt and Pink jeans folded on the bed.
+119,2,teddybear,Red,balloon,Orange,,,A Red teddybear holding a Orange balloon on the bed.
+120,3,strawberry,Brown,mango,Yellow,lemon,Olive,"A Brown strawberry, a Yellow mango, and a Olive lemon on a plate."
+121,2,surfboard,Yellow green,kite,Green,,,A Yellow green surfboard leaning near a Green kite on the beach.
+122,2,sports ball,Blue,baseball glove,Purple,,,A Blue sports ball next to a Purple baseball glove on the bench.
+123,3,hat,White,suitcase,Gray,umbrella,Black,"A White hat, a Gray suitcase, and a Black umbrella at the entrance."
+124,2,microwave,Pink,toaster,Red,,,A Pink microwave next to a Red toaster on the counter.
+125,3,backpack,Orange,umbrella,Brown,suitcase,Yellow,"A Orange backpack, a Brown umbrella, and a Yellow suitcase by the door."
+126,2,dog,Olive,cat,Yellow green,,,A Olive dog sitting beside a Yellow green cat on the floor.
+127,2,sweatshirt,Green,pants,Blue,,,A Green sweatshirt folded beside Blue pants on the shelf.
+128,2,vase,Purple,clock,White,,,A Purple vase next to a White clock on the shelf.
+129,2,owl,Gray,cat,Black,,,A Gray owl perched above a Black cat at night.
+130,3,bicycle,Pink,motorcycle,Red,airplane,Orange,"A Pink bicycle, a Red motorcycle, and a Orange airplane at the airport."
+131,3,cow,Brown,sheep,Yellow,elephant,Olive,"A Brown cow, a Yellow sheep, and a Olive elephant at the zoo."
+132,2,fan,Yellow green,sponge,Green,,,A Yellow green fan beside a Green sponge on the shelf.
+133,2,airplane,Blue,truck,Purple,,,A Blue airplane flying above a Purple truck on the runway.
+134,2,handbag,White,suitcase,Gray,,,A White handbag placed on a Gray suitcase at the airport.
+135,3,mug,Black,teapot,Pink,candle,Red,"A Black mug, a Pink teapot, and a Red candle on the dining table."
+136,2,mango,Orange,papaya,Brown,,,A Orange mango and a Brown papaya in a fruit bowl.
+137,2,turtle,Yellow,crocodile,Olive,,,A Yellow turtle resting near a Olive crocodile by the river.
+138,2,wallet,Yellow green,tie,Green,,,A Yellow green wallet beside a Green tie on the table.
+139,2,hammer,Blue,wrench,Purple,,,A Blue hammer next to a Purple wrench on the workbench.
+140,2,table,White,wardrobe,Gray,,,A White table beside a Gray wardrobe in the bedroom.
+141,3,T-shirt,Black,jeans,Pink,socks,Red,"A Black T-shirt, Pink jeans, and Red socks on the bed."
+142,2,mug,Orange,teapot,Brown,,,A Orange mug beside a Brown teapot on the table.
+143,2,car,Yellow,bus,Olive,,,A Yellow car parked near a Olive bus on the street.
+144,2,bicycle,Yellow green,motorcycle,Green,,,A Yellow green bicycle next to a Green motorcycle in the garage.
+145,3,banana,Blue,apple,Purple,orange,White,"A Blue banana, a Purple apple, and a White orange in a fruit bowl."
+146,2,hair dryer,Gray,iron,Black,,,A Gray hair dryer next to an Black iron on the bathroom counter.
+147,3,clock,Pink,vase,Red,book,Orange,"A Pink clock, a Red vase, and a Orange book on the shelf."
+148,2,taxi,Brown,bus,Yellow,,,A Brown taxi and a Yellow bus at the station.
+149,3,microwave,Olive,toaster,Yellow green,refrigerator,Green,"A Olive microwave, a Yellow green toaster, and a Green refrigerator in the kitchen."
+150,2,couch,Blue,bookcase,Purple,,,A Blue couch facing a Purple bookcase in the living room.
+151,3,pillow,White,curtain,Gray,clock,Black,"A White pillow on the bed, a Gray curtain by the window, and a Black clock on the wall."
+152,2,football helmet,Pink,boxing glove,Red,,,A Pink football helmet beside a Red boxing glove on the shelf.
+153,2,chair,Orange,desk,Brown,,,A Orange chair and a Brown desk in a sunlit room.
+154,2,banana,Yellow,apple,Olive,,,A Yellow banana and a Olive apple on a wooden table.
+155,3,backpack,Yellow green,bicycle,Green,umbrella,Blue,A Yellow green backpack on a Green bicycle next to a Blue umbrella.
+156,2,book,Purple,mug,White,,,A Purple book next to a White mug on the coffee table.
+157,3,hammer,Gray,wrench,Black,saw,Pink,"A Gray hammer, a Black wrench, and a Pink saw on the workbench."
+158,2,ruler,Red,saw,Orange,,,A Red ruler next to a Orange saw on the workshop table.
+159,2,candle,Brown,book,Yellow,,,A Brown candle next to a Yellow book on the nightstand.
+160,3,handbag,Olive,wallet,Yellow green,hat,Green,A Olive handbag with a Yellow green wallet and a Green hat on the table.
+161,3,car,Blue,bus,Purple,truck,White,A Blue car parked near a Purple bus and a White truck on the street.
+162,2,potted plant,Gray,vase,Black,,,A Gray potted plant beside a Black vase on the windowsill.
+163,2,sink,Pink,trash can,Red,,,A Pink sink beside a Red trash can in the kitchen.
+164,3,skateboard,Orange,sports ball,Brown,baseball bat,Yellow,A Orange skateboard beside a Brown sports ball and a Yellow baseball bat.
+165,3,book,Olive,mug,Yellow green,candle,Green,"A Olive book, a Yellow green mug, and a Green candle on the coffee table."
+166,2,orange,Blue,guava,Purple,,,A Blue orange beside a Purple guava on the kitchen counter.
+167,2,lipstick,White,handbag,Gray,,,A White lipstick inside a Gray handbag on the vanity.
+168,3,tie,Black,hat,Pink,jacket,Red,"A Black tie, a Pink hat, and a Red jacket on the bed."
+169,2,sports car,Orange,truck,Brown,,,A Orange sports car next to a Brown truck in the parking lot.
+170,3,bear,Yellow,turtle,Olive,crocodile,Yellow green,A Yellow bear near a Olive turtle and a Yellow green crocodile by the river.
+171,2,horse,Green,cow,Blue,,,A Green horse standing with a Blue cow in the field.
+172,2,parrot,Purple,dog,White,,,A Purple parrot perched near a White dog in the yard.
+173,2,thermos,Gray,tissue box,Black,,,A Gray thermos next to a Black tissue box on the desk.
+174,2,jacket,Pink,hat,Red,,,A Pink jacket hanging beside a Red hat on the rack.
+175,2,coat,Orange,hat,Brown,,,A Orange coat hanging next to a Brown hat on the hook.
+176,2,strawberry,Yellow,lemon,Olive,,,A Yellow strawberry next to a Olive lemon on a plate.
+177,2,elephant,Yellow green,bear,Green,,,A Yellow green elephant near a Green bear in the wild.
+178,3,teddybear,Blue,balloon,Purple,football helmet,White,A Blue teddybear with a Purple balloon next to a White football helmet.
+179,2,hat,Gray,suitcase,Black,,,A Gray hat resting on a Black suitcase.
+180,2,minivan,Pink,bicycle,Red,,,A Pink minivan parked beside a Red bicycle in the driveway.
+181,2,snowboard,Orange,skis,Brown,,,A Orange snowboard resting against Brown skis by the cabin.
+182,2,carrot,Yellow,broccoli,Olive,,,A Yellow carrot and a Olive broccoli on a cutting board.
+183,3,couch,Yellow green,table,Green,vase,Blue,A Yellow green couch with a Green table and a Blue vase in the living room.
+184,3,boat,Purple,jeep,White,airplane,Gray,"A Purple boat, a White jeep, and a Gray airplane at the lakeside."
+185,2,sheep,Black,horse,Pink,,,A Black sheep grazing next to a Pink horse in the meadow.
+186,2,pillow,Red,curtain,Orange,,,A Red pillow on the bed near a Orange curtain by the window.
+187,2,skateboard,Brown,frisbee,Yellow,,,A Brown skateboard beside a Yellow frisbee on the grass.
+188,2,tie,Olive,suit,Yellow green,,,A Olive tie draped over a Yellow green suit in the closet.
+189,2,baseball bat,Green,golf ball,Blue,,,A Green baseball bat next to a Blue golf ball on the floor.
+190,2,refrigerator,Purple,oven,White,,,A Purple refrigerator beside a White oven in the kitchen.
+191,3,dog,Gray,cat,Black,horse,Pink,A Gray dog next to a Black cat and a Pink horse in the yard.
+192,2,duck,Red,cow,Orange,,,A Red duck swimming near a Orange cow by the pond.
+193,2,clock,Brown,candle,Yellow,,,A Brown clock beside a Yellow candle on the mantle.
+194,2,backpack,Olive,bicycle,Yellow green,,,A Olive backpack hanging on a Yellow green bicycle.
+195,3,papaya,Green,guava,Blue,carrot,Purple,"A Green papaya, a Blue guava, and a Purple carrot on the table."
+196,3,surfboard,White,kite,Gray,frisbee,Black,"A White surfboard, a Gray kite, and a Black frisbee on the beach."
+197,2,knife,Pink,cutting board,Red,,,A Pink knife on a Red cutting board in the kitchen.
+198,2,umbrella,Orange,car,Brown,,,A Orange umbrella leaning against a Brown car.
+199,2,remote,Yellow,computer mouse,Olive,,,A Yellow remote beside a Olive computer mouse on the desk.
+200,3,remote,Yellow green,computer mouse,Green,fan,Blue,"A Yellow green remote, a Green computer mouse, and a Blue fan on the desk."
