@@ -161,16 +161,6 @@ If you find GenColorBench useful in your research, please cite:
 }
 ```
 
-## Related Benchmarks
-
-- [T2I-CompBench](https://github.com/Karine-Huang/T2I-CompBench) - Compositional T2I generation
-- [GenEval](https://github.com/djghosh13/geneval) - Object-centric T2I evaluation
-- [TIFA](https://github.com/Yushi-Hu/tifa) - Text-to-image faithfulness
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 This work was supported by the Computer Vision Center (CVC) at Universitat Autònoma de Barcelona. We thank the developers of SAM2, GroundingDINO, and the T2I models evaluated in this benchmark.
