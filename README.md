@@ -1,4 +1,4 @@
-# GenColorBench: A Comprehensive Benchmark for Color Understanding in Text-to-Image Generation
+# GenColorBench: A Color Evaluation Benchmark for Text-to-Image Generation
 
 <p align="center">
   <img src="assets/teaser.png" width="100%" alt="GenColorBench Overview">
