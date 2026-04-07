@@ -36,7 +36,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/gencolorbench.git
+git clone https://github.com/moatifbutt/gen-color-bench.git
 cd gencolorbench
 
 # Create environment
