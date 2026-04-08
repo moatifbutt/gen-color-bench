@@ -153,11 +153,11 @@ gencolorbench/
 If you find GenColorBench useful in your research, please cite:
 
 ```bibtex
-@inproceedings{butt2026gencolorbench,
-  title={GenColorBench: A Comprehensive Benchmark for Color Understanding in Text-to-Image Generation},
+@article{butt2025gencolorbench,
+  title={GenColorBench: A Color Evaluation Benchmark for Text-to-Image Generation Models},
   author={Butt, Muhammad Atif and Gomez-Villa, Alexandra and Wu, Tao and Vazquez-Corral, Javier and Van De Weijer, Joost and Wang, Kai},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2026}
+  journal={arXiv preprint arXiv:2510.20586},
+  year={2025}
 }
 ```
 
